@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+<record id="logo" model="theme.ir.attachment">
+    <field name="name">Test Theme Custom Logo</field>
+    <field name="url">/theme_test_custo/static/src/img/content/logo.jpg</field>
+    <field name="key">theme_test_custo.logo</field>
+</record>
+
+<!-- TODO: It is not yet possible to alter the website logo -->
+
+<record id="img_about_01" model="theme.ir.attachment">
+    <field name="name">About page - First Image</field>
+    <field name="url">/theme_test_custo/static/src/img/content/img_about_01.jpg</field>
+    <field name="key">theme_test_custo.img_about_01</field>
+</record>
+
+</odoo>

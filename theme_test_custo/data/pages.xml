@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+<record id="view_home" model="theme.ir.ui.view">
+    <field name="key">theme_test_custo.view_home</field>
+    <field name="name">Home</field>
+    <field name="priority">16</field>
+    <field name="type">qweb</field>
+    <field name="arch" type="xml">
+        <t name="Home" t-name="theme_test_custo.home">
+            <t t-set="additional_title" t-value="'Home'"/>
+            <t t-call="website.layout">
+                <div id="wrap" class="oe_structure">
+
+                    <section class="s_title">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-lg-12 pt80 pb80">
+                                    <h1 class="x_font_family_lobster display-2" style="text-align: center;">Welcome!</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                </div>
+            </t>
+        </t>
+    </field>
+</record>
+
+<record id="page_home" model="theme.website.page">
+    <field name="view_id" ref="view_home"/>
+    <field name="is_published" eval="True"/>
+    <field name="url">/</field>
+</record>
+
+</odoo>
