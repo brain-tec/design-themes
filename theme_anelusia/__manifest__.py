@@ -28,6 +28,7 @@
         'views/snippets/s_numbers.xml',
         'views/snippets/s_three_columns.xml',
         'views/snippets/s_quotes_carousel.xml',
+        'views/new_page_template.xml',
     ],
     'images': [
         'static/description/anelusia_description.jpg',
@@ -44,7 +45,7 @@
         'website.s_media_list_default_image_1': '/theme_anelusia/static/src/img/snippets/s_media_list_1.jpg',
         'website.s_media_list_default_image_2': '/theme_anelusia/static/src/img/snippets/s_media_list_2.jpg',
     },
-    'snippet_lists': {
+    'configurator_snippets': {
         'homepage': ['s_text_cover', 's_images_wall', 's_color_blocks_2', 's_references',
                      's_media_list', 's_company_team', 's_call_to_action'],
     },
