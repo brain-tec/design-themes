@@ -21,6 +21,7 @@
         'views/snippets/s_references.xml',
         'views/snippets/s_image_text.xml',
         'views/snippets/s_three_columns.xml',
+        'views/new_page_template.xml',
     ],
     'images': [
         'static/description/zap_cover.gif',
@@ -35,8 +36,13 @@
         'website.s_masonry_block_default_image_1': '/theme_zap/static/src/img/backgrounds/16.jpg',
         'website.library_image_02': '/theme_zap/static/src/img/content/masonry_block_02.jpg',
     },
-    'snippet_lists': {
+    'configurator_snippets': {
         'homepage': ['s_banner', 's_three_columns', 's_color_blocks_2', 's_features', 's_masonry_block', 's_references'],
+    },
+    'new_page_templates': {
+        'about': {
+            'personal': ['s_text_cover', 's_image_text', 's_text_block_h2', 's_numbers', 's_features', 's_call_to_action'],
+        },
     },
     'license': 'LGPL-3',
     'live_test_url': 'https://theme-zap.odoo.com',
