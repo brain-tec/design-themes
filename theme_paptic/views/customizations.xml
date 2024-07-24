@@ -286,11 +286,10 @@
 <!-- ==== Picture ===== -->
 <template id="s_picture" inherit_id="website.s_picture" name="Paptic s_picture">
     <xpath expr="//section" position="attributes">
-        <attribute name="class" add="pt72 o_cc1" remove="o_cc2 pt48" separator=" "/>
+        <attribute name="class" add="pt72 o_cc1" remove="pt64" separator=" "/>
     </xpath>
     <xpath expr="//img" position="attributes">
         <attribute name="src">/web_editor/shape/theme_paptic/s_picture.svg?c1=o-color-1</attribute>
-        <attribute name="class" remove="img-thumbnail" separator=" "/>
     </xpath>
 </template>
 
@@ -377,21 +376,15 @@
     </xpath>
     <!-- Column #1 -->
     <xpath expr="//div[hasclass('col-lg-4')]" position="attributes">
-        <attribute name="class" add="o_cc o_cc4" separator=" "/>
+        <attribute name="class" add="o_cc o_cc2" separator=" "/>
     </xpath>
     <!-- Column #2 -->
     <xpath expr="//div[hasclass('col-lg-4')][2]" position="attributes">
-        <attribute name="class" add="o_cc o_cc3" separator=" "/>
-    </xpath>
-    <xpath expr="//div[hasclass('col-lg-4')][2]/i" position="attributes">
-        <attribute name="class" add="bg-o-color-2" remove="bg-o-color-5" separator=" "/>
+        <attribute name="class" add="o_cc o_cc2" separator=" "/>
     </xpath>
     <!-- Column #3 -->
     <xpath expr="//div[hasclass('col-lg-4')][3]" position="attributes">
         <attribute name="class" add="o_cc o_cc2" separator=" "/>
-    </xpath>
-    <xpath expr="//div[hasclass('col-lg-4')][3]/i" position="attributes">
-        <attribute name="class" add="bg-o-color-3" remove="bg-o-color-2" separator=" "/>
     </xpath>
 </template>
 
