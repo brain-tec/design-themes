@@ -75,7 +75,7 @@ CONFLICTUAL_CLASSES_RE = {
     # Snippets
     re.compile(r'^s_.*'): [
         's_alert_md',
-        's_blockquote_classic',
+        's_blockquote_with_icon', 's_blockquote',
         's_carousel_bordered', 's_carousel_default', 's_carousel_rounded',
         's_dynamic', 's_dynamic_empty', 's_dynamic_snippet_blog_posts',
         's_blog_posts_effect_marley', 's_blog_post_big_picture',
@@ -90,6 +90,7 @@ CONFLICTUAL_CLASSES_RE = {
         's_table_of_content_vertical_navbar', 's_table_of_content_navbar_sticky', 's_table_of_content_navbar_wrap',
         's_timeline_card',
         's_website_form_custom', 's_website_form_dnone', 's_website_form_field', 's_website_form_input', 's_website_form_mark',
+        's_donation_btn', 's_donation_custom_btn',
     ],
     # Text
     re.compile(r'^text-(?!(center|end|start|bg-|lg-)).*$'): [
