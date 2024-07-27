@@ -4,7 +4,7 @@
 <!-- ======== COVER ======== -->
 <template id="s_cover" inherit_id="website.s_cover" name="Be Wise s_cover">
     <xpath expr="//section" position="attributes">
-        <attribute name="class" add="pt200 pb200 o_cc o_cc5 oe_img_bg o_bg_img_center" remove="bg-black-50 s_parallax_is_fixed parallax pt96 pb96" separator=" "/>
+        <attribute name="class" add="pt200 pb200 o_cc5 oe_img_bg o_bg_img_center" remove="bg-black-50 s_parallax_is_fixed parallax pt232 pb232 o_cc4" separator=" "/>
         <attribute name="style">background-image: url('/web/image/website.s_cover_default_image'); background-position: 50% 50%;</attribute>
         <attribute name="data-oe-shape-data">{"shape":"web_editor/Rainy/08_001","flip":[]}</attribute>
         <attribute name="data-scroll-background-ratio">0</attribute>
@@ -15,10 +15,6 @@
     </xpath>
     <!-- Remove the background image for parallax -->
     <xpath expr="//span[hasclass('s_parallax_bg')]" position="replace"/>
-    <!-- Button -->
-    <xpath expr="//a[hasclass('btn')]" position="attributes">
-        <attribute name="class" add="btn-lg btn-secondary" remove="btn-primary" separator=" "/>
-    </xpath>
     <!-- Title -->
     <xpath expr="//h1" position="replace" mode="inner">
         Always at the top
@@ -37,11 +33,11 @@
     <xpath expr="//h2" position="replace" mode="inner">
         Driven by Excellence
     </xpath>
-    <xpath expr="//div[hasclass('col-lg-6')]" position="attributes">
-        <attribute name="class" add="col-lg-4 offset-lg-1" remove="col-lg-6" separator=" "/>
+    <xpath expr="//div[hasclass('col-lg-5')]" position="attributes">
+        <attribute name="class" add="col-lg-4 offset-lg-1" remove="col-lg-5" separator=" "/>
     </xpath>
     <xpath expr="//div[hasclass('col-lg-6')]" position="attributes">
-        <attribute name="class" add="col-lg-5 offset-lg-1" remove="col-lg-6" separator=" "/>
+        <attribute name="class" add="col-lg-5" remove="col-lg-6" separator=" "/>
     </xpath>
     <xpath expr="//p" position="replace" mode="inner">
         <br/>
@@ -60,11 +56,11 @@
 
 <!-- ======== IMAGE-TEXT ======== -->
 <template id="s_image_text" inherit_id="website.s_image_text" name="Be Wise s_image_text">
-    <xpath expr="//div[hasclass('col-lg-6')][1]" position="attributes">
+    <xpath expr="//div[hasclass('col-lg-6')]" position="attributes">
         <attribute name="class" add="col-lg-5 offset-lg-1" remove="col-lg-6" separator=" "/>
     </xpath>
-    <xpath expr="//div[hasclass('col-lg-6')][1]" position="attributes">
-        <attribute name="class" add="col-lg-4 offset-lg-1" remove="col-lg-6" separator=" "/>
+    <xpath expr="//div[hasclass('col-lg-5')]" position="attributes">
+        <attribute name="class" add="col-lg-4" remove="col-lg-5" separator=" "/>
     </xpath>
     <xpath expr="//h2" position="replace" mode="inner">
         What makes us different?
@@ -239,16 +235,12 @@
 <template id="s_color_blocks_2" inherit_id="website.s_color_blocks_2" name="Be Wise s_color_blocks_2">
     <!-- Left column -->
     <xpath expr="//div[hasclass('col-lg-6')]" position="attributes">
-        <attribute name="class" add="oe_img_bg o_bg_img_center o_cc5" remove="o_cc3" separator=" "/>
+        <attribute name="class" add="oe_img_bg o_bg_img_center o_cc5" remove="o_cc4" separator=" "/>
         <attribute name="style">background-image: url('/web/image/website.s_media_list_default_image_1');</attribute>
     </xpath>
     <!-- Left column - Filter -->
-    <xpath expr="//div[hasclass('col-lg-6')]//i" position="before">
+    <xpath expr="//div[hasclass('col-lg-6')]//h2" position="before">
         <div class="o_we_bg_filter bg-black-50"/>
-    </xpath>
-    <!-- Left column - Icon -->
-    <xpath expr="//div[hasclass('col-lg-6')]//i" position="attributes">
-        <attribute name="class" add="fa-3x fa-book" remove="fa-5x fa-shield" separator=" "/>
     </xpath>
     <!-- Left column - Title -->
     <xpath expr="//div[hasclass('col-lg-6')]//h2" position="replace" mode="inner">
@@ -271,12 +263,8 @@
         <attribute name="style">background-image: url('/web/image/website.s_media_list_default_image_2');</attribute>
     </xpath>
     <!-- Right column - Filter -->
-    <xpath expr="//div[hasclass('col-lg-6')][2]//i" position="before">
+    <xpath expr="//div[hasclass('col-lg-6')][2]//h2" position="before">
         <div class="o_we_bg_filter bg-black-50"/>
-    </xpath>
-    <!-- Right column - Icon -->
-    <xpath expr="//div[hasclass('col-lg-6')][2]//i" position="attributes">
-        <attribute name="class" add="fa-3x fa-institution" remove="fa-5x fa-cube" separator=" "/>
     </xpath>
     <!-- Right column - Title -->
     <xpath expr="//div[hasclass('col-lg-6')][2]//h2" position="replace" mode="inner">
