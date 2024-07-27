@@ -15,7 +15,7 @@
 <!-- ==== Cover ===== -->
 <template id="s_cover" inherit_id="website.s_cover" name="Paptic s_cover">
     <xpath expr="//section" position="attributes">
-        <attribute name="class" add="pb0 pt192 o_cc o_cc5" remove="pt96 pb96 bg-black-50 s_parallax_is_fixed s_parallax" separator=" "/>
+        <attribute name="class" add="pb0 pt192 o_cc5" remove="pt232 pb232 bg-black-50 s_parallax_is_fixed s_parallax o_cc4" separator=" "/>
         <attribute name="data-scroll-background-ratio">0</attribute>
     </xpath>
 
@@ -73,15 +73,11 @@
 <!-- ==== Image-Text ===== -->
 <template id="s_image_text" inherit_id="website.s_image_text" name="Paptic s_image_text">
     <xpath expr="//section" position="attributes">
-        <attribute name="class" add="pt160 pb16 o_cc o_cc3" remove="pt32 pb32" separator=" "/>
+        <attribute name="class" add="pt160 pb16 o_cc o_cc3" remove="pt80 pb80" separator=" "/>
     </xpath>
 
     <xpath expr="//img" position="attributes">
         <attribute name="src">/web_editor/shape/theme_paptic/s_image_text.svg?c1=o-color-1</attribute>
-    </xpath>
-
-    <xpath expr="//div[hasclass('col-lg-6')][2]" position="attributes">
-        <attribute name="class" add="col-lg-5 offset-lg-1" remove="col-lg-6" separator=" "/>
     </xpath>
 
     <xpath expr="//h2" position="replace" mode="inner">
@@ -126,16 +122,10 @@
 <!-- ==== Text-Image ===== -->
 <template id="s_text_image" inherit_id="website.s_text_image" name="Paptic s_text_image">
     <xpath expr="//section" position="attributes">
-        <attribute name="class" add="pt80 pb88 o_cc o_cc3" remove="pt32 pb32" separator=" "/>
+        <attribute name="class" add="pb88 o_cc o_cc3" remove="pb80" separator=" "/>
     </xpath>
     <xpath expr="//img" position="attributes">
         <attribute name="src">/web_editor/shape/theme_paptic/s_text_image.svg?c1=o-color-1</attribute>
-    </xpath>
-    <xpath expr="//div[hasclass('col-lg-6')]" position="attributes">
-        <attribute name="class" add="col-lg-5" remove="col-lg-6" separator=" "/>
-    </xpath>
-    <xpath expr="//div[hasclass('col-lg-6')]" position="attributes">
-        <attribute name="class" add="offset-lg-1" separator=" "/>
     </xpath>
     <xpath expr="//h2" position="replace" mode="inner">
         <font style="background-image: linear-gradient(135deg, var(--o-color-1) 0%, var(--o-color-3) 100%);" class="text-gradient">A Section Subtitle</font>
@@ -354,17 +344,18 @@
 <template id="s_color_blocks_2" inherit_id="website.s_color_blocks_2" name="Paptic s_color_blocks_2">
     <!-- Left column -->
     <xpath expr="//div[hasclass('col-lg-6')]" position="attributes">
+        <attribute name="class" add="o_cc3 text-center" remove="o_cc4" separator=" "/>
         <attribute name="data-oe-shape-data">{"shape":"web_editor/Blocks/03","flip":["y"]}</attribute>
     </xpath>
-    <xpath expr="//div[hasclass('col-lg-6')]/i" position="before">
+    <xpath expr="//div[hasclass('col-lg-6')]/h2" position="before">
         <div class="o_we_shape o_web_editor_Blocks_03" style="background-image: url('/web_editor/shape/web_editor/Blocks/03.svg?c1=o-color-1&amp;c4=o-color-4&amp;flip=y'); background-position: 50% 0%"/>
     </xpath>
     <!-- Right column -->
     <xpath expr="//div[hasclass('col-lg-6')][2]" position="attributes">
-        <attribute name="class" add="o_cc3" remove="o_cc5" separator=" "/>
+        <attribute name="class" add="o_cc3 text-center" remove="o_cc5" separator=" "/>
         <attribute name="data-oe-shape-data">{"shape":"web_editor/Blocks/03","flip":["x","y"]}</attribute>
     </xpath>
-    <xpath expr="//div[hasclass('col-lg-6')][2]/i" position="before">
+    <xpath expr="//div[hasclass('col-lg-6')][2]/h2" position="before">
         <div class="o_we_shape o_web_editor_Blocks_03" style="background-image: url('/web_editor/shape/web_editor/Blocks/03.svg?c1=o-color-1&amp;c4=o-color-4&amp;flip=xy'); background-position: 50% 0%"/>
     </xpath>
 </template>
