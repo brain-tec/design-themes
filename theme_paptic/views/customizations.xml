@@ -134,17 +134,14 @@
 
 <!-- ==== Showcase ===== -->
 <template id="s_showcase" inherit_id="website.s_showcase" name="Paptic s_showcase">
-    <xpath expr="//i[hasclass('text-secondary')]" position="attributes">
-        <attribute name="class" remove="text-secondary" separator=" "/>
+    <xpath expr="//i[hasclass('s_showcase_icon')]" position="attributes">
+        <attribute name="class" add="bg-o-color-1" remove="bg-o-color-3" separator=" "/>
     </xpath>
-    <xpath expr="//i[hasclass('text-secondary')]" position="attributes">
-        <attribute name="class" remove="text-secondary" separator=" "/>
+    <xpath expr="(//i[hasclass('s_showcase_icon')])[2]" position="attributes">
+        <attribute name="class" add="bg-o-color-1" remove="bg-o-color-3" separator=" "/>
     </xpath>
-    <xpath expr="//i[hasclass('text-secondary')]" position="attributes">
-        <attribute name="class" remove="text-secondary" separator=" "/>
-    </xpath>
-    <xpath expr="//i[hasclass('text-secondary')]" position="attributes">
-        <attribute name="class" remove="text-secondary" separator=" "/>
+    <xpath expr="(//i[hasclass('s_showcase_icon')])[3]" position="attributes">
+        <attribute name="class" add="bg-o-color-1" remove="bg-o-color-3" separator=" "/>
     </xpath>
 </template>
 
@@ -286,16 +283,11 @@
 <!-- ==== Comparisons ===== -->
 <template id="s_comparisons" inherit_id="website.s_comparisons" name="Paptic s_comparisons">
     <xpath expr="//section" position="attributes">
-        <attribute name="class" add="pt0 pb80" remove="pt32 pb32" separator=" "/>
         <attribute name="data-oe-shape-data">{"shape":"web_editor/Floats/03","flip":[]}</attribute>
     </xpath>
     <!-- Shape -->
     <xpath expr="//div[hasclass('container')]" position="before">
         <div class="o_we_shape o_web_editor_Floats_03"/>
-    </xpath>
-    <!-- Left card -->
-    <xpath expr="//div[hasclass('card')]" position="attributes">
-        <attribute name="class" add="bg-o-color-2" remove="bg-200" separator=" "/>
     </xpath>
 </template>
 
