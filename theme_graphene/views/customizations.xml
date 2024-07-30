@@ -210,25 +210,7 @@
 <!-- ======== COMPARISON ======== -->
 <template id="s_comparisons" inherit_id="website.s_comparisons" name="Graphene s_comparisons">
     <xpath expr="//section" position="attributes">
-        <attribute name="class" add="pb48 pt24 o_cc o_cc4" remove="pt32 pb32" separator=" "/>
-    </xpath>
-    <xpath expr="//div[hasclass('row')]/div//a" position="replace">
-        <a href="/contactus" class="btn btn-primary">Start Now</a>
-    </xpath>
-    <xpath expr="//div[hasclass('row')]/div[2]//a" position="replace">
-        <a href="/contactus" class="btn btn-primary">Start Now</a>
-    </xpath>
-    <xpath expr="//div[hasclass('row')]/div[2]//li[2]" position="replace">
-        <li class="list-group-item">Access to all modules</li>
-    </xpath>
-    <xpath expr="//div[hasclass('row')]/div[3]//a" position="replace">
-        <a href="/contactus" class="btn btn-primary">Start Now</a>
-    </xpath>
-    <xpath expr="//div[hasclass('row')]/div[3]//li[2]" position="replace">
-        <li class="list-group-item">Access to all modules and features</li>
-    </xpath>
-    <xpath expr="//div[hasclass('row')]/div[3]//li[4]" position="replace">
-        <li class="list-group-item">24/7 support</li>
+        <attribute name="class" add="pt24 o_cc o_cc4" remove="pt48" separator=" "/>
     </xpath>
 </template>
 
@@ -280,6 +262,28 @@
     </xpath>
     <xpath expr="//p" position="replace" mode="inner">
         Put your people at the heart of your marketing with tools that help you get to know your audience <br/>and see who you should be talking to.
+    </xpath>
+</template>
+
+<!-- ======== IMAGE WALL ======== -->
+<template id="s_images_wall" inherit_id="website.s_images_wall">
+    <xpath expr="//img" position="attributes">
+        <attribute name="class" remove="rounded" separator=" "/>
+    </xpath>
+    <xpath expr="(//img)[2]" position="attributes">
+        <attribute name="class" remove="rounded" separator=" "/>
+    </xpath>
+    <xpath expr="(//img)[3]" position="attributes">
+        <attribute name="class" remove="rounded" separator=" "/>
+    </xpath>
+    <xpath expr="(//img)[4]" position="attributes">
+        <attribute name="class" remove="rounded" separator=" "/>
+    </xpath>
+    <xpath expr="(//img)[5]" position="attributes">
+        <attribute name="class" remove="rounded" separator=" "/>
+    </xpath>
+    <xpath expr="(//img)[6]" position="attributes">
+        <attribute name="class" remove="rounded" separator=" "/>
     </xpath>
 </template>
 
