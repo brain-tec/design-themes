@@ -98,24 +98,6 @@
     </xpath>
 </template>
 
-<!-- ======== STEPS ======== -->
-<template id="s_process_steps" inherit_id="website.s_process_steps" name="Graphene s_process_steps">
-    <xpath expr="//section" position="attributes">
-    </xpath>
-    <xpath expr="//h2" position="replace" mode="inner">
-        Add to Cart
-    </xpath>
-    <xpath expr="//h2" position="replace" mode="inner">
-        Sign In
-    </xpath>
-    <xpath expr="//h2" position="replace" mode="inner">
-        Pay
-    </xpath>
-    <xpath expr="//h2" position="replace" mode="inner">
-        Get Delivered
-    </xpath>
-</template>
-
 <!-- ======== CAROUSEL ======== -->
 <template id="s_carousel" inherit_id="website.s_carousel" name="Graphene s_carousel">
     <xpath expr="//div[hasclass('carousel-inner')]/div[1]" position="attributes">
@@ -133,30 +115,6 @@
 <template id="s_company_team" inherit_id="website.s_company_team" name="Graphene s_company_team">
     <xpath expr="//section" position="attributes">
         <attribute name="class" add="pb64" remove="pb48" separator=" "/>
-    </xpath>
-    <xpath expr="//div[hasclass('s_nb_column_fixed')]/div//h4" position="replace" mode="inner">
-        Tony Fred, <small><b>CEO</b></small>
-    </xpath>
-    <xpath expr="//div[hasclass('s_nb_column_fixed')]/div//p" position="replace">
-        <small>Founder and chief visionary, Tony is the driving force behind the company. He loves to keep his hands full by participating in the development of the software, marketing, and customer experience strategies.</small>
-    </xpath>
-    <xpath expr="//div[hasclass('s_nb_column_fixed')]/div[2]//h4" position="replace" mode="inner">
-        Mich Stark, <small><b>COO</b></small>
-    </xpath>
-    <xpath expr="//div[hasclass('s_nb_column_fixed')]/div[2]//p" position="replace" mode="inner">
-        <small>Mich loves taking on challenges. With his multi-year experience as Commercial Director in the software industry, Mich has helped the company to get where it is today. Mich is among the best minds.</small>
-    </xpath>
-    <xpath expr="//div[hasclass('s_nb_column_fixed')]/div[3]//h4" position="replace" mode="inner">
-        Aline Turner, <small><b>CTO</b></small>
-    </xpath>
-    <xpath expr="//div[hasclass('s_nb_column_fixed')]/div[3]//p" position="replace" mode="inner">
-        <small>Aline is one of the iconic people in life who can say they love what they do. She mentors 100+ in-house developers and looks after the community of thousands of developers.</small>
-    </xpath>
-    <xpath expr="//div[hasclass('s_nb_column_fixed')]/div[4]//h4" position="replace" mode="inner">
-        Iris Joe, <small><b>CFO</b></small>
-    </xpath>
-    <xpath expr="//div[hasclass('s_nb_column_fixed')]/div[4]//p" position="replace" mode="inner">
-        <small>Iris, with her international experience, helps us easily understand the numbers and improves them. She is determined to drive success and delivers her professional acumen to bring the company to the next level.</small>
     </xpath>
 </template>
 
