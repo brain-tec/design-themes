@@ -11,6 +11,7 @@
         'data/ir_asset.xml',
         'views/images.xml',
 
+        'views/snippets/s_cta_box.xml',
         'views/snippets/s_parallax.xml',
         'views/snippets/s_text_image.xml',
         'views/snippets/s_three_columns.xml',
@@ -32,6 +33,7 @@
         'views/snippets/s_company_team.xml',
         'views/snippets/s_product_list.xml',
         'views/snippets/s_color_blocks_2.xml',
+        'views/snippets/s_numbers_showcase.xml',
         'views/new_page_template.xml',
     ],
     'images': [
