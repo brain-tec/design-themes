@@ -12,6 +12,7 @@
         'views/snippets_options.xml',
         'views/image_library.xml',
 
+        'views/snippets/s_cta_box.xml',
         'views/snippets/s_banner.xml',
         'views/snippets/s_cover.xml',
         'views/snippets/s_text_image.xml',
@@ -20,6 +21,7 @@
         'views/snippets/s_call_to_action.xml',
         'views/snippets/s_parallax.xml',
         'views/snippets/s_image_gallery.xml',
+        'views/snippets/s_unveil.xml',
         'views/new_page_template.xml',
     ],
     'images': [

@@ -12,6 +12,7 @@
         'views/images_content.xml',
         'views/images_library.xml',
 
+        'views/snippets/s_cta_box.xml',
         'views/snippets/s_company_team.xml',
         'views/snippets/s_cover.xml',
         'views/snippets/s_image_gallery.xml',
@@ -29,6 +30,8 @@
         'views/snippets/s_numbers.xml',
         'views/snippets/s_three_columns.xml',
         'views/snippets/s_quotes_carousel.xml',
+        'views/snippets/s_unveil.xml',
+        'views/snippets/s_numbers_showcase.xml',
         'views/new_page_template.xml',
     ],
     'images': [

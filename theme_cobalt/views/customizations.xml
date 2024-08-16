@@ -10,16 +10,17 @@
     <!-- Row - remove grid mode -->
     <xpath expr="//div[hasclass('row')]" position="attributes">
         <attribute name="class" remove="o_grid_mode" separator=" "/>
+        <attribute name="data-row-count"/>
     </xpath>
     <!-- Jumbotron -->
-    <xpath expr="//div[hasclass('col-lg-5')]" position="attributes">
-        <attribute name="class" add="col-lg-6" remove="o_grid_item g-height-4 g-col-lg-5 col-lg-5" separator=" "/>
+    <xpath expr="//div[hasclass('col-lg-4')]" position="attributes">
+        <attribute name="class" add="col-lg-6" remove="o_grid_item g-height-10 g-col-lg-4 col-lg-4" separator=" "/>
         <attribute name="style"/>
     </xpath>
     <!-- Remove grid images -->
     <xpath expr="//div[hasclass('o_grid_item_image')]" position="replace"/>
     <xpath expr="//div[hasclass('o_grid_item_image')]" position="replace"/>
-    <xpath expr="//div[hasclass('o_grid_item_image')]" position="replace"/>
+    <xpath expr="//div[hasclass('col-lg-5')]" position="replace"/>
     <!-- Image -->
     <xpath expr="//div[hasclass('col-lg-6')]" position="after">
         <div class="pt16 pb16 o_colored_level col-lg-5 offset-lg-1">
@@ -154,6 +155,26 @@
 <template id="s_call_to_action" inherit_id="website.s_call_to_action" name="Cobalt s_call_to_action">
     <xpath expr="//t[@t-esc='cta_btn_text']" position="replace" mode="inner">
         START NOW
+    </xpath>
+</template>
+
+<!-- ======== CTA Box ======== -->
+<template id="s_cta_box" inherit_id="website.s_cta_box">
+    <!-- Title -->
+    <xpath expr="//h2" position="replace" mode="inner">
+        Discover our data-driven strategy
+    </xpath>
+    <!-- Paragraphs -->
+    <xpath expr="//p" position="replace" mode="inner">
+        No assumptions, every decision is based on data<br/><br/>
+    </xpath>
+    <!-- Image -->
+    <xpath expr="//img" position="attributes">
+        <attribute name="src">/theme_cobalt/static/src/img/pictures/s_image_3.jpg</attribute>
+    </xpath>
+    <!-- Button -->
+    <xpath expr="//a[hasclass('btn')]" position="replace" mode="inner">
+        Our services
     </xpath>
 </template>
 
