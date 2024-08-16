@@ -11,6 +11,7 @@
         'data/ir_asset.xml',
         'views/images_library.xml',
 
+        'views/snippets/s_cta_box.xml',
         'views/snippets/s_title.xml',
         'views/snippets/s_banner.xml',
         'views/snippets/s_image_text.xml',
@@ -40,6 +41,7 @@
         'views/snippets/s_countdown.xml',
         'views/snippets/s_text_highlight.xml',
         'views/snippets/s_blockquote.xml',
+        'views/snippets/s_numbers_showcase.xml',
         'views/new_page_template.xml',
     ],
     'images': [

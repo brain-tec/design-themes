@@ -302,6 +302,30 @@
     </xpath>
 </template>
 
+<!-- ==== CTA Box ===== -->
+<template id="s_cta_box" inherit_id="website.s_cta_box">
+    <!-- Card -->
+    <xpath expr="//div[hasclass('card')]" position="attributes">
+        <attribute name="class" add="o_cc5" remove="o_cc4" separator=" "/>
+    </xpath>
+    <!-- Title -->
+    <xpath expr="//h2" position="replace" mode="inner">
+       Leverage your processes
+    </xpath>
+    <!-- Paragraphs -->
+    <xpath expr="//p" position="replace" mode="inner">
+        See how we can help<br/><br/>
+    </xpath>
+    <!-- Image -->
+    <xpath expr="//img" position="attributes">
+        <attribute name="src">/theme_paptic/static/src/img/pictures/s_banner_2.jpg</attribute>
+    </xpath>
+    <!-- Button -->
+    <xpath expr="//a[hasclass('btn')]" position="replace" mode="inner">
+        Contact us
+    </xpath>
+</template>
+
 <template id="configurator_s_call_to_action" inherit_id="website.configurator_s_call_to_action" name="Paptic s_call_to_action">
     <!-- Shape option -->
     <xpath expr="//section" position="attributes">
@@ -404,6 +428,22 @@
     <xpath expr="//div[hasclass('o_we_bg_filter')]" position="attributes">
         <attribute name="class" remove="bg-white-85" separator=" "/>
         <attribute name="style">background-image: linear-gradient(135deg, rgba(255, 255, 255, 0.75) 0%, rgba(178, 255, 218, 1) 100%);</attribute>
+    </xpath>
+</template>
+
+<!-- ======== UNVEIL ======== -->
+<template id="s_unveil" inherit_id="website.s_unveil">
+    <!-- Section -->
+    <xpath expr="//section" position="attributes">
+        <attribute name="class" add="o_cc o_cc3" separator=" "/>
+    </xpath>
+    <!-- Title -->
+    <xpath expr="//h2" position="replace" mode="inner">
+        Accelerate your success
+    </xpath>
+    <!-- Paragraph -->
+    <xpath expr="//p" position="replace" mode="inner">
+        Fuel your business growth with cutting-edge technology and collaborative spaces.
     </xpath>
 </template>
 

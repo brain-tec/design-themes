@@ -11,6 +11,7 @@
         'data/ir_asset.xml',
         'views/image_content.xml',
 
+        'views/snippets/s_cta_box.xml',
         'views/snippets/s_cover.xml',
         'views/snippets/s_carousel.xml',
         'views/snippets/s_text_image.xml',
@@ -24,6 +25,7 @@
         'views/snippets/s_comparisons.xml',
         'views/snippets/s_product_catalog.xml',
         'views/snippets/s_quotes_carousel.xml',
+        'views/snippets/s_unveil.xml',
         'views/new_page_template.xml',
     ],
     'images': [

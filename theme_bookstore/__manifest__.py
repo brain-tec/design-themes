@@ -11,6 +11,7 @@
         'data/ir_asset.xml',
         'views/images.xml',
 
+        'views/snippets/s_cta_box.xml',
         'views/snippets/s_title.xml',
         'views/snippets/s_three_columns.xml',
         'views/snippets/s_picture.xml',
@@ -19,6 +20,7 @@
         'views/snippets/s_call_to_action.xml',
         'views/snippets/s_cover.xml',
         'views/snippets/s_image_text.xml',
+        'views/snippets/s_showcase.xml',
         'views/snippets/s_masonry_block.xml',
         'views/snippets/s_banner.xml',
         'views/snippets/s_numbers.xml',
@@ -28,6 +30,8 @@
         'views/snippets/s_image_gallery.xml',
         'views/snippets/s_product_catalog.xml',
         'views/snippets/s_quotes_carousel.xml',
+        'views/snippets/s_unveil.xml',
+        'views/snippets/s_numbers_showcase.xml',
         'views/new_page_template.xml',
     ],
     'images': [
@@ -46,7 +50,7 @@
         'website.s_product_list_default_image_6': '/theme_bookstore/static/src/img/snippets/s_product_6.jpg',
     },
     'configurator_snippets': {
-        'homepage': ['s_cover', 's_masonry_block', 's_image_text', 's_picture', 's_product_list', 's_call_to_action'],
+        'homepage': ['s_banner', 's_masonry_block', 's_process_steps', 's_showcase', 's_title'],
     },
     'new_page_templates': {
         'about': {
