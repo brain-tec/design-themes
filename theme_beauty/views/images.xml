@@ -225,6 +225,16 @@ Check in theme_loftspace's primary_variables.scss and theme.scss -->
     <field name="name">website.s_company_team_image_4</field>
     <field name="url">/theme_beauty/static/src/img/snippets/s_company_team_4.jpg</field>
 </record>
+<record id="s_company_team_image_5" model="theme.ir.attachment">
+    <field name="key">website.s_company_team_image_5</field>
+    <field name="name">website.s_company_team_image_5</field>
+    <field name="url">/theme_beauty/static/src/img/snippets/s_company_team_5.jpg</field>
+</record>
+<record id="s_company_team_image_6" model="theme.ir.attachment">
+    <field name="key">website.s_company_team_image_6</field>
+    <field name="name">website.s_company_team_image_6</field>
+    <field name="url">/theme_beauty/static/src/img/snippets/s_company_team_6.jpg</field>
+</record>
 <record id="s_quotes_carousel_demo_image_0" model="theme.ir.attachment">
     <field name="key">website.s_quotes_carousel_demo_image_0</field>
     <field name="name">website.s_quotes_carousel_demo_image_0</field>
@@ -249,6 +259,11 @@ Check in theme_loftspace's primary_variables.scss and theme.scss -->
     <field name="key">website.s_accordion_image_default_image</field>
     <field name="name">website.s_accordion_image_default_image</field>
     <field name="url">/theme_beauty/static/src/img/snippets/s_popup.jpg</field>
+</record>
+<record id="s_image_hexagonal_default_image_1" model="theme.ir.attachment">
+    <field name="key">website.s_image_hexagonal_default_image_1</field>
+    <field name="name">website.s_image_hexagonal_default_image_1</field>
+    <field name="url">/theme_beauty/static/src/img/snippets/s_image_hexagonal_1.jpg</field>
 </record>
 
 </odoo>
