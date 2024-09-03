@@ -20,6 +20,7 @@
         'views/snippets/s_features.xml',
         'views/snippets/s_image_text.xml',
         'views/snippets/s_freegrid.xml',
+        'views/snippets/s_image_punchy.xml',
         'views/snippets/s_media_list.xml',
         'views/snippets/s_features_wall.xml',
         'views/snippets/s_numbers.xml',
@@ -33,6 +34,7 @@
         'views/snippets/s_carousel.xml',
         'views/snippets/s_image_hexagonal.xml',
         'views/snippets/s_striped_center_top.xml',
+        'views/snippets/s_motto.xml',
         'views/new_page_template.xml',
 
     ],
