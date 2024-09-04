@@ -22,6 +22,7 @@
         'views/snippets/s_banner.xml',
         'views/snippets/s_image_text.xml',
         'views/snippets/s_image_punchy.xml',
+        'views/snippets/s_image_title.xml',
         'views/snippets/s_numbers.xml',
         'views/snippets/s_picture.xml',
         'views/snippets/s_pricelist_boxed.xml',
@@ -38,6 +39,7 @@
         'views/snippets/s_carousel.xml',
         'views/snippets/s_image_hexagonal.xml',
         'views/snippets/s_striped_center_top.xml',
+        'views/snippets/s_key_images.xml',
         'views/new_page_template.xml',
     ],
     'images': [

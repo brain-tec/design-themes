@@ -18,6 +18,7 @@
         'views/snippets/s_company_team.xml',
         'views/snippets/s_cover.xml',
         'views/snippets/s_image_text.xml',
+        'views/snippets/s_image_title.xml',
         'views/snippets/s_image_gallery.xml',
         'views/snippets/s_images_wall.xml',
         'views/snippets/s_image_punchy.xml',
@@ -36,6 +37,7 @@
         'views/snippets/s_pricelist_boxed.xml',
         'views/snippets/s_image_hexagonal.xml',
         'views/snippets/s_striped_center_top.xml',
+        'views/snippets/s_key_images.xml',
         'views/new_page_template.xml',
     ],
     'images': [

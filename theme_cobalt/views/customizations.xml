@@ -434,4 +434,48 @@
     </xpath>
 </template>
 
+<!-- ======== IMAGE TITLE ======== -->
+<template id="s_image_title" inherit_id="website.s_image_title" name="Cobalt s_image_title">
+    <xpath expr="//section" position="attributes">
+        <attribute name="class" add="o_cc2" remove="o_cc5 oe_img_bg" separator=" "/>
+        <attribute name="style"/>
+        <attribute name="data-oe-shape-data">{'shape':'web_editor/Airy/10','flip':[],'showOnMobile':false,'shapeAnimationSpeed':'0'}</attribute>
+    </xpath>
+    <xpath expr="//div[hasclass('container')]" position="before">
+        <div class="o_we_shape o_web_editor_Airy_10"/>
+    </xpath>
+    <xpath expr="//div[hasclass('o_we_bg_filter')]" position="replace"/>
+</template>
+
+<!-- ======== KEY IMAGES ======== -->
+<template id="s_key_images" inherit_id="website.s_key_images" name="Cobalt s_key_images">
+    <!-- Layout -->
+    <xpath expr="//section" position="attributes">
+        <attribute name="data-oe-shape-data">{'shape':'web_editor/Origins/09_001','flip':[],'showOnMobile':false,'shapeAnimationSpeed':'0'}</attribute>
+    </xpath>
+    <xpath expr="//div[hasclass('container')]" position="before">
+        <div class="o_we_shape o_web_editor_Origins_09_001"/>
+    </xpath>
+
+    <!-- Texts -->
+    <xpath expr="//h2" position="replace" mode="inner">
+        Driving Success Through Innovation
+    </xpath>
+    <xpath expr="//p[hasclass('lead')]" position="replace" mode="inner">
+        Empowering Businesses to Reach New Heights
+    </xpath>
+    <xpath expr="//div[hasclass('col-lg-3')]//p[3]" position="replace" mode="inner">
+        Customized solutions for your business needs
+    </xpath>
+    <xpath expr="(//div[hasclass('col-lg-3')])[2]//p[3]" position="replace" mode="inner">
+        Expert advice to navigate complex challenges
+    </xpath>
+    <xpath expr="(//div[hasclass('col-lg-3')])[3]//p[3]" position="replace" mode="inner">
+        Proven strategies for sustainable growth
+    </xpath>
+    <xpath expr="(//div[hasclass('col-lg-3')])[4]//p[3]" position="replace" mode="inner">
+        Partner with us to unlock your potential
+    </xpath>
+</template>
+
 </odoo>

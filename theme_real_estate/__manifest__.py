@@ -15,6 +15,7 @@
         'views/snippets/s_banner.xml',
         'views/snippets/s_picture.xml',
         'views/snippets/s_image_text.xml',
+        'views/snippets/s_image_title.xml',
         'views/snippets/s_text_image.xml',
         'views/snippets/s_three_columns.xml',
         'views/snippets/s_quotes_carousel.xml',
@@ -31,6 +32,7 @@
         'views/snippets/s_key_benefits.xml',
         'views/snippets/s_carousel.xml',
         'views/snippets/s_pricelist_boxed.xml',
+        'views/snippets/s_key_images.xml',
         'views/new_page_template.xml',
     ],
     'images': [
