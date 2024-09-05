@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
 
+<!-- ======== CLOSER LOOK ======== -->
+<template id="s_closer_look" inherit_id="website.s_closer_look">
+    <!-- Button -->
+    <xpath expr="(//a)[2]" position="attributes">
+        <attribute name="class" remove="btn-outline-primary" add="btn-outline-secondary" separator=" "/>
+    </xpath>
+</template>
+
 <!-- ======== COVER ======== -->
 <template id="s_cover" inherit_id="website.s_cover" name="Avantgarde s_cover">
     <xpath expr="//section" position="attributes">
@@ -413,6 +421,28 @@
     </xpath>
     <xpath expr="//p[hasclass('lead')]" position="replace" mode="inner">
         Transform your perspective with our groundbreaking collection, where unconventional meets visionary. Elevate your style with pieces that challenge norms and redefine creativity effortlessly.
+    </xpath>
+</template>
+
+<!-- ======== KEY IMAGES ======== -->
+<template id="s_key_images" inherit_id="website.s_key_images" name="Avantgarde s_key_images">
+    <xpath expr="//h2" position="replace" mode="inner">
+        Unleash Your Imagination with Avant-Garde Designs
+    </xpath>
+    <xpath expr="//p[hasclass('lead')]" position="replace" mode="inner">
+        Pushing Boundaries, Redefining Possibilities
+    </xpath>
+    <xpath expr="//div[hasclass('col-lg-3')]//p[3]" position="replace" mode="inner">
+        Where innovation meets artistry
+    </xpath>
+    <xpath expr="(//div[hasclass('col-lg-3')])[2]//p[3]" position="replace" mode="inner">
+        Breaking the mold with bold, daring concepts
+    </xpath>
+    <xpath expr="(//div[hasclass('col-lg-3')])[3]//p[3]" position="replace" mode="inner">
+        Crafting the future, one unique idea at a time
+    </xpath>
+    <xpath expr="(//div[hasclass('col-lg-3')])[4]//p[3]" position="replace" mode="inner">
+        Experience the power of original thought
     </xpath>
 </template>
 

@@ -12,6 +12,7 @@
         'views/snippets_options.xml',
         'views/image_library.xml',
 
+        'views/snippets/s_closer_look.xml',
         'views/snippets/s_cta_box.xml',
         'views/snippets/s_banner.xml',
         'views/snippets/s_cover.xml',
@@ -25,6 +26,7 @@
         'views/snippets/s_image_gallery.xml',
         'views/snippets/s_features_wall.xml',
         'views/snippets/s_image_title.xml',
+        'views/snippets/s_key_images.xml',
         'views/snippets/s_unveil.xml',
         'views/snippets/s_key_benefits.xml',
         'views/snippets/s_carousel.xml',
