@@ -13,6 +13,7 @@
 
         'views/snippets/s_cta_box.xml',
         'views/snippets/s_carousel.xml',
+        'views/snippets/s_striped_top.xml',
         'views/snippets/s_image_text.xml',
         'views/snippets/s_media_list.xml',
         'views/snippets/s_company_team.xml',
@@ -30,6 +31,7 @@
         'views/snippets/s_image_gallery.xml',
         'views/snippets/s_call_to_action.xml',
         'views/snippets/s_features_wall.xml',
+        'views/snippets/s_sidegrid.xml',
         'views/snippets/s_features_grid.xml',
         'views/snippets/s_product_list.xml',
         'views/snippets/s_parallax.xml',

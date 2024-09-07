@@ -22,6 +22,7 @@
         'views/snippets/s_freegrid.xml',
         'views/snippets/s_image_punchy.xml',
         'views/snippets/s_image_title.xml',
+        'views/snippets/s_sidegrid.xml',
         'views/snippets/s_media_list.xml',
         'views/snippets/s_features_wall.xml',
         'views/snippets/s_numbers.xml',
@@ -37,6 +38,7 @@
         'views/snippets/s_striped_center_top.xml',
         'views/snippets/s_motto.xml',
         'views/snippets/s_key_images.xml',
+        'views/snippets/s_striped_top.xml',
         'views/new_page_template.xml',
 
     ],
