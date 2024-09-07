@@ -13,10 +13,12 @@
 
         'views/snippets/s_cta_box.xml',
         'views/snippets/s_cover.xml',
+        'views/snippets/s_striped_top.xml',
         'views/snippets/s_text_image.xml',
         'views/snippets/s_title.xml',
         'views/snippets/s_three_columns.xml',
         'views/snippets/s_call_to_action.xml',
+        'views/snippets/s_sidegrid.xml',
         'views/snippets/s_image_gallery.xml',
         'views/snippets/s_freegrid.xml',
         'views/snippets/s_banner.xml',

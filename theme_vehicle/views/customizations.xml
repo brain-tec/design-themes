@@ -17,6 +17,13 @@
     </xpath>
 </template>
 
+<template id="s_striped_top" inherit_id="website.s_striped_top">
+    <!-- Image -->
+    <xpath expr="//img" position="attributes">
+        <attribute name="src">/web/image/website.s_picture_default_image</attribute>
+    </xpath>
+</template>
+
 <!-- ======== TEXT - IMAGE ======== -->
 <template id="s_text_image" inherit_id="website.s_text_image" name="Vehicle s_text_image">
     <xpath expr="//section" position="attributes">
@@ -240,6 +247,23 @@
     </xpath>
 </template>
 
+<!-- ======== SIDEGRID ======== -->
+<template id="s_sidegrid" inherit_id="website.s_sidegrid">
+    <!-- Images -->
+    <xpath expr="//img" position="attributes">
+        <attribute name="class" remove="rounded" separator=" "/>
+    </xpath>
+    <xpath expr="(//img)[2]" position="attributes">
+        <attribute name="class" remove="rounded" separator=" "/>
+    </xpath>
+    <xpath expr="(//img)[3]" position="attributes">
+        <attribute name="class" remove="rounded" separator=" "/>
+    </xpath>
+    <xpath expr="(//img)[4]" position="attributes">
+        <attribute name="class" remove="rounded" separator=" "/>
+    </xpath>
+</template>
+
 <!-- ======== THREE COLUMNS ======== -->
 <template id="s_three_columns" inherit_id="website.s_three_columns">
     <!-- Section -->
@@ -258,7 +282,7 @@
         <attribute name="style">border-width: 0px !important; box-shadow: rgba(0, 0, 0, 0.20) 0px 4px 16px 0px !important;</attribute>
     </xpath>
     <!-- Column 1 -->
-    <xpath expr="//h3" position="replace" mode="inner">
+    <xpath expr="//h5" position="replace" mode="inner">
         Koran Mini
     </xpath>
         <xpath expr="//p[hasclass('card-text')]" position="replace" mode="inner">
@@ -271,7 +295,7 @@
         <span class="d-inline-block mb-4"><b>From $14,000</b></span>
     </xpath>
     <!-- Column 2 -->
-    <xpath expr="(//h3)[2]" position="replace" mode="inner">
+    <xpath expr="(//h5)[2]" position="replace" mode="inner">
         Koran GT
     </xpath>
         <xpath expr="(//p[hasclass('card-text')])[2]" position="replace" mode="inner">
@@ -284,7 +308,7 @@
         <span class="d-inline-block mb-4"><b>From $19,000</b></span>
     </xpath>
     <!-- Column 3 -->
-    <xpath expr="(//h3)[3]" position="replace" mode="inner">
+    <xpath expr="(//h5)[3]" position="replace" mode="inner">
         Koran EQ
     </xpath>
         <xpath expr="(//p[hasclass('card-text')])[3]" position="replace" mode="inner">

@@ -13,7 +13,9 @@
 
         'views/snippets/s_cta_box.xml',
         'views/snippets/s_cover.xml',
+        'views/snippets/s_striped_top.xml',
         'views/snippets/s_features.xml',
+        'views/snippets/s_sidegrid.xml',
         'views/snippets/s_image_text.xml',
         'views/snippets/s_freegrid.xml',
         'views/snippets/s_image_title.xml',
