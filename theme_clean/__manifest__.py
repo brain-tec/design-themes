@@ -14,6 +14,7 @@
         'views/snippets/s_cta_box.xml',
         'views/snippets/s_cover.xml',
         'views/snippets/s_striped_top.xml',
+        'views/snippets/s_card_offset.xml',
         'views/snippets/s_carousel.xml',
         'views/snippets/s_text_image.xml',
         'views/snippets/s_three_columns.xml',
@@ -34,6 +35,10 @@
         'views/snippets/s_striped_center_top.xml',
         'views/snippets/s_big_number.xml',
         'views/snippets/s_image_frame.xml',
+        'views/snippets/s_wavy_grid.xml',
+        'views/snippets/s_shape_image.xml',
+        'views/snippets/s_images_constellation.xml',
+        'views/snippets/s_empowerment.xml',
         'views/new_page_template.xml',
     ],
     'images': [

@@ -266,6 +266,28 @@
     <xpath expr="(//div[hasclass('carousel-item')])[2]//p[2]" position="replace"/>
 </template>
 
+<!-- ======== CAROUSEL INTRO ======== -->
+<template id="s_carousel_intro" inherit_id="website.s_carousel_intro" name="Avantgarde s_carousel_intro">
+    <xpath expr="//h1" position="replace" mode="inner">
+        Defining the future of creativity
+    </xpath>
+    <xpath expr="//h2" position="replace" mode="inner">
+        Innovative concepts tailored for you
+    </xpath>
+    <xpath expr="(//h2)[2]" position="replace" mode="inner">
+        Unleash your vision
+    </xpath>
+    <xpath expr="//p[hasclass('lead')]" position="replace" mode="inner">
+        Embrace cutting-edge ideas that challenge norms and redefine the boundaries of modern creativity, every single day.
+    </xpath>
+    <xpath expr="(//p[hasclass('lead')])[2]" position="replace" mode="inner">
+        Transform your approach with our forward-thinking strategies.
+    </xpath>
+    <xpath expr="(//p[hasclass('lead')])[3]" position="replace" mode="inner">
+        Explore more and discover innovative projects that align with your avant-garde vision, crafted for impact and disruption.
+    </xpath>
+</template>
+
 <!-- ======== QUOTES ======== -->
  <template id="s_quotes_carousel" inherit_id="website.s_quotes_carousel" name="Avantgarde s_quotes_carousel">
     <!-- Assign slide2 as 'active' and move it in first position -->
@@ -339,13 +361,13 @@
         Tax-Free Services
     </xpath>
     <!-- Paragraphs -->
-    <xpath expr="//div[hasclass('col-lg-4')][2]/p" position="replace" mode="inner">
+    <xpath expr="//div[hasclass('col-lg-4')][1]/p" position="replace" mode="inner">
         We provide custom pricing based on the unique needs of your project, ensuring you receive exceptional design services that fit your budget.
     </xpath>
-    <xpath expr="//div[hasclass('col-lg-4')][3]/p" position="replace" mode="inner">
+    <xpath expr="//div[hasclass('col-lg-4')][2]/p" position="replace" mode="inner">
         Our team is here to assist you at every stage of your project, ensuring a smooth and stress-free process for your project.
     </xpath>
-    <xpath expr="//div[hasclass('col-lg-4')][4]/p" position="replace" mode="inner">
+    <xpath expr="//div[hasclass('col-lg-4')][3]/p" position="replace" mode="inner">
         We maximize value by offering tax-efficient design services, helping you achieve your vision while keeping your project financially streamlined.
     </xpath>
 </template>
@@ -473,6 +495,15 @@
         Experience the power of original thought
     </xpath>
 </template>
+<!-- ======== IMAGES MOSAIC ======== -->
+<template id="s_images_mosaic" inherit_id="website.s_images_mosaic">
+    <xpath expr="//h2" position="replace" mode="inner">
+        Unveiling Our Bold New Innovations
+    </xpath>
+    <xpath expr="//p" position="replace" mode="inner">
+        Discover our cutting-edge solutions pushing creative boundaries.
+    </xpath>
+</template>
 
 <!-- ======== IMAGE FRAME ======== -->
 <template id="s_image_frame" inherit_id="website.s_image_frame">
@@ -483,6 +514,30 @@
     <!-- Image -->
     <xpath expr="//img" position="attributes">
         <attribute name="src">/web/image/website.s_carousel_default_image_3</attribute>
+    </xpath>
+</template>
+
+<!-- ======== CARD OFFSET ======== -->
+<template id="s_card_offset" inherit_id="website.s_card_offset">
+    <!-- Section -->
+    <xpath expr="//section" position="attributes">
+        <attribute name="class" add="o_cc4" remove="o_cc1" separator=" "/>
+    </xpath>
+    <!-- Image -->
+    <xpath expr="//img" position="attributes">
+        <attribute name="src">/web/image/website.s_carousel_default_image_3</attribute>
+    </xpath>
+    <!-- Title -->
+    <xpath expr="//h3" position="replace" mode="inner">
+        Innovative Design Meets Fine Art
+    </xpath>
+    <!-- Paragraph 1 -->
+    <xpath expr="(//p[hasclass('lead')])[1]" position="replace" mode="inner">
+        Stay ahead of the curve with our insights on design and fine art. Explore the intersection of creativity and innovation through our galleries, shows, and digital media.
+    </xpath>
+    <!-- Paragraph 2 -->
+    <xpath expr="(//p[hasclass('lead')])[2]" position="replace" mode="inner">
+        Discover the future of design today.
     </xpath>
 </template>
 
@@ -510,5 +565,92 @@
     </xpath>
 </template>
 
-</odoo>
+<!-- ===== WAVY GRID ======== -->
+<template id="s_wavy_grid" inherit_id="website.s_wavy_grid">
+    <xpath expr="//h2" position="replace" mode="inner">
+        What we envision for our clients
+    </xpath>
+    <xpath expr="//h3" position="replace" mode="inner">
+        Revolutionary Concepts
+    </xpath>
+    <xpath expr="//p" position="replace" mode="inner">
+        We design groundbreaking solutions that push the boundaries of creativity. Our team collaborates with you to bring visionary ideas to life from start to finish.
+    </xpath>
+    <xpath expr="(//h3)[2]" position="replace" mode="inner">
+        Sustainable Innovation
+    </xpath>
+    <xpath expr="(//p)[2]" position="replace" mode="inner">
+        Your satisfaction fuels our drive. Our support team is ever-ready to guide you, ensuring a seamless and impactful experience.
+    </xpath>
+    <xpath expr="(//h3)[3]" position="replace" mode="inner">
+        Excellence and Innovation
+    </xpath>
+    <xpath expr="(//p)[3]" position="replace" mode="inner">
+        With profound expertise and forward-thinking strategies, we deliver insights that keep you ahead of the curve.
+    </xpath>
+    <xpath expr="(//h3)[4]" position="replace" mode="inner">
+        Expertise and Vision
+    </xpath>
+    <xpath expr="(//p)[4]" position="replace" mode="inner">
+        We offer cutting-edge innovations to tackle modern challenges. Embracing the latest advancements, we help you redefine success.
+    </xpath>
+</template>
 
+<!-- ======== EMPOWERMENT ======== -->
+<template id="s_empowerment" inherit_id="website.s_empowerment">
+    <!-- Badge content -->
+    <xpath expr="//span[hasclass('s_cta_badge')]" position="replace" mode="inner">
+        <i class="fa fa-fw fa-info-circle o_not-animable" role="img"/>&#160;&#160;Award-Winning Designs &#160;&#160;&#160;&#160;
+        <a href="#">See Our Achievements&#160;&#160; <i class="fa fa-long-arrow-right" role="img"/></a>
+    </xpath>
+    <!-- Title -->
+    <xpath expr="//h1" position="replace" mode="inner">
+       Crafting spaces<br/>for everyday life
+    </xpath>
+    <!-- Paragraphs -->
+    <xpath expr="//p" position="replace" mode="inner">
+        <br/>Crafting spaces where creativity meets functionality,<br/>one design at a time.<br/><br/>
+    </xpath>
+    <!-- Button -->
+    <xpath expr="//a[hasclass('btn')][1]" position="replace" mode="inner">
+        Our Projects
+    </xpath>
+    <!-- Second Button -->
+    <xpath expr="//a[hasclass('btn')][2]" position="replace" mode="inner">
+        Book an appointment
+    </xpath>
+</template>
+
+<!-- ======== SHAPE IMAGE ======== -->
+<template id="s_shape_image" inherit_id="website.s_shape_image">
+    <!-- Title -->
+    <xpath expr="//h2" position="replace" mode="inner">
+        Designing the future
+    </xpath>
+    <!-- Paragraphs -->
+    <xpath expr="//p" position="replace" mode="inner">
+        Our architectural vision shapes spaces that inspire. We blend innovation with sustainability to create designs that stand the test of time. Let us build your dream, one blueprint at a time.
+    </xpath>
+    <xpath expr="//p[2]" position="replace"/>
+    <!-- Button -->
+    <xpath expr="//a[hasclass('btn')]" position="replace" mode="inner">
+        Explore our projects
+    </xpath>
+</template>
+
+<!-- ======== TEXT COVER ======== -->
+<template id="s_text_cover" inherit_id="website.s_text_cover">
+    <xpath expr="//h1" position="replace" mode="inner">
+        Design Online. <br/>Effortlessly.
+    </xpath>
+    <!-- Paragraph -->
+    <xpath expr="//p[hasclass('lead')]" position="replace" mode="inner">
+        <br/>Present your architectural projects online with a user-friendly platform that streamlines all the steps, from setup to project showcase, making it easy to share your vision with clients.<br/>
+    </xpath>
+    <!-- Button -->
+    <xpath expr="//a[hasclass('btn')]/t" position="replace" mode="inner">
+        Learn more
+    </xpath>
+</template>
+
+</odoo>
