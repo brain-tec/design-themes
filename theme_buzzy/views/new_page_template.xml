@@ -87,13 +87,13 @@
 </template>
 
 <template id="new_page_template_s_timeline" inherit_id="website.new_page_template_s_timeline">
-    <xpath expr="//span[hasclass('s_timeline_dot')]" position="attributes">
+    <xpath expr="//span[hasclass('o_dot')]" position="attributes">
         <attribute name="class" add="bg-o-color-2" remove="bg-o-color-1" separator=" "/>
     </xpath>
-    <xpath expr="(//span[hasclass('s_timeline_dot')])[2]" position="attributes">
+    <xpath expr="(//span[hasclass('o_dot')])[2]" position="attributes">
         <attribute name="class" add="bg-o-color-2" remove="bg-o-color-1" separator=" "/>
     </xpath>
-    <xpath expr="(//span[hasclass('s_timeline_dot')])[3]" position="attributes">
+    <xpath expr="(//span[hasclass('o_dot')])[3]" position="attributes">
         <attribute name="class" add="bg-o-color-2" remove="bg-o-color-1" separator=" "/>
     </xpath>
 </template>
@@ -158,7 +158,7 @@
 
 <template id="new_page_template_about_s_text_cover" inherit_id="website.new_page_template_about_s_text_cover">
     <xpath expr="//section" position="attributes">
-        <attribute name="class" add="o_cc4" remove="o_cc2" separator=" "/>
+        <attribute name="class" add="o_cc4" remove="o_cc3" separator=" "/>
     </xpath>
 </template>
 
@@ -250,7 +250,7 @@
 
 <template id="new_page_template_landing_s_text_cover" inherit_id="website.new_page_template_landing_s_text_cover">
     <xpath expr="//section" position="attributes">
-        <attribute name="class" add="o_cc4" remove="o_cc2" separator=" "/>
+        <attribute name="class" add="o_cc4" remove="o_cc3" separator=" "/>
     </xpath>
 </template>
 
@@ -347,7 +347,7 @@
 
 <template id="new_page_template_services_s_text_cover" inherit_id="website.new_page_template_services_s_text_cover">
     <xpath expr="//section" position="attributes">
-        <attribute name="class" add="o_cc4" remove="o_cc2" separator=" "/>
+        <attribute name="class" add="o_cc4" remove="o_cc3" separator=" "/>
     </xpath>
 </template>
 
