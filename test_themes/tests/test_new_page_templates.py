@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 from lxml import html
@@ -65,7 +64,8 @@ CONFLICTUAL_CLASSES_RE = {
     re.compile(r'^(p(y|b)?-?\d+|padding-.+)$'): ['p0'],
     # Font awesome
     re.compile(r'^fa-\dx$'): [],
-    re.compile(r'^fa-...+'): [],
+    # Whitelist workaround for s_social_media inner snippet Layout: None
+    re.compile(r'^fa-...+'): ['fa-stack'],
     # Rounded
     re.compile(r'^rounded-.+'): [],
     # Shadow

@@ -4,7 +4,7 @@
 <!-- ======== COVER ======== -->
 <template id="s_cover" inherit_id="website.s_cover" name="Graphene s_cover">
     <xpath expr="//section" position="attributes">
-        <attribute name="class" add="pt160 pb240 s_parallax_no_overflow_hidden o_cc3" remove="pt232 pb232 s_parallax_is_fixed s_parallax o_cc4" separator=" "/>
+        <attribute name="class" add="pt160 pb240 s_parallax_no_overflow_hidden o_cc3" remove="pt232 pb232 s_parallax_is_fixed s_parallax o_cc5" separator=" "/>
     </xpath>
     <xpath expr="//h1" position="replace"/>
     <xpath expr="//p" position="replace"/>
@@ -128,6 +128,13 @@
     </xpath>
     <xpath expr="(//div[hasclass('container')])[3]" position="before">
         <div class="o_we_bg_filter bg-black-75" />
+    </xpath>
+</template>
+
+<!-- ======== CAROUSEL INTRO ======== -->
+<template id="s_carousel_intro" inherit_id="website.s_carousel_intro" name="Graphene s_carousel_intro">
+    <xpath expr="(//h2)[2]" position="replace" mode="inner">
+        Leading the future with innovation
     </xpath>
 </template>
 
@@ -335,13 +342,13 @@
         Exclusive Service Benefits
     </xpath>
     <!-- Paragraphs -->
-    <xpath expr="//div[hasclass('col-lg-4')][2]/p" position="replace" mode="inner">
+    <xpath expr="//div[hasclass('col-lg-4')][1]/p" position="replace" mode="inner">
         We provide customized service offerings designed to meet your specific needs, ensuring optimal results and client satisfaction.
     </xpath>
-    <xpath expr="//div[hasclass('col-lg-4')][3]/p" position="replace" mode="inner">
+    <xpath expr="//div[hasclass('col-lg-4')][2]/p" position="replace" mode="inner">
         Our team is available around the clock to assist you, providing prompt and reliable support whenever you need it.
     </xpath>
-    <xpath expr="//div[hasclass('col-lg-4')][4]/p" position="replace" mode="inner">
+    <xpath expr="//div[hasclass('col-lg-4')][3]/p" position="replace" mode="inner">
         Take advantage of unique benefits and value-added services that set us apart and enhance your overall experience.
     </xpath>
 </template>
@@ -520,6 +527,59 @@
     </xpath>
     <xpath expr="//h2/following-sibling::div" position="attributes">
         <attribute name="style" add="font-size: 7.75rem;" remove="font-size: 10.75rem;" separator=";"/>
+    </xpath>
+</template>
+
+<!-- ===== WAVY GRID ======== -->
+<template id="s_wavy_grid" inherit_id="website.s_wavy_grid">
+    <xpath expr="//section" position="attributes">
+        <attribute name="class" add="o_cc o_cc4" separator=" "/>
+    </xpath>
+</template>
+<!-- ======== CARD OFFSET ======== -->
+<template id="s_card_offset" inherit_id="website.s_card_offset">
+    <!-- Section -->
+    <xpath expr="//section" position="attributes">
+        <attribute name="class" add="o_cc3" remove="o_cc1" separator=" "/>
+    </xpath>
+    <!-- Image -->
+    <xpath expr="//img" position="attributes">
+        <attribute name="src">/web/image/website.s_numbers_default_image</attribute>
+    </xpath>
+    <!-- Title -->
+    <xpath expr="//h3" position="replace" mode="inner">
+        Robotics &amp; Technology for Tomorrow
+    </xpath>
+    <!-- Paragraph 1 -->
+    <xpath expr="(//p[hasclass('lead')])[1]" position="replace" mode="inner">
+        Explore the forefront of technology with our robotics and IT services. We deliver innovative solutions designed to enhance corporate efficiency and drive success.
+    </xpath>
+    <!-- Paragraph 2 -->
+    <xpath expr="(//p[hasclass('lead')])[2]" position="replace" mode="inner">
+        Embrace the future of technology.
+    </xpath>
+</template>
+<template id="s_empowerment" inherit_id="website.s_empowerment">
+    <!-- Badge content -->
+    <xpath expr="//span[hasclass('s_cta_badge')]" position="replace" mode="inner">
+        <i class="fa fa-fw fa-info-circle o_not-animable" role="img"/>&#160;&#160;Customer-first approach&#160;&#160;&#160;&#160;
+        <a href="#">Read our reviews&#160;&#160; <i class="fa fa-long-arrow-right" role="img"/></a>
+    </xpath>
+    <!-- Title -->
+    <xpath expr="//h1" position="replace" mode="inner">
+       Exceeding expectations<br/>with PrimeService Co.
+    </xpath>
+    <!-- Paragraphs -->
+    <xpath expr="//p" position="replace" mode="inner">
+        <br/>Delivering top-tier solutions with a personal touch.<br/><br/>
+    </xpath>
+    <!-- Button -->
+    <xpath expr="//a[hasclass('btn')][1]" position="replace" mode="inner">
+        Our services
+    </xpath>
+    <!-- Second Button -->
+    <xpath expr="//a[hasclass('btn')][2]" position="replace" mode="inner">
+        Contact us today
     </xpath>
 </template>
 
