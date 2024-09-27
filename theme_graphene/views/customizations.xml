@@ -213,7 +213,7 @@
         <attribute name="class" add="col-lg-8" remove="col-lg-9" separator=" "/>
     </xpath>
     <xpath expr="//div[hasclass('col-lg-8')]/p" position="attributes">
-        <attribute name="style" add="text-align: right;" separator=" "/>
+        <attribute name="style" add="text-align: right;" separator=";"/>
     </xpath>
 </template>
 
@@ -591,7 +591,7 @@
         90%
     </xpath>
     <xpath expr="//h2/following-sibling::div" position="attributes">
-        <attribute name="style" add="font-size: 7.75rem;" remove="font-size: 10.75rem;" separator=";"/>
+        <attribute name="style" add="font-size: 7.75rem;" remove="font-size: 2.25rem;" separator=";"/>
     </xpath>
 </template>
 
