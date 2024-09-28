@@ -562,6 +562,10 @@
 
 <!-- ======== CAROUSEL INTRO ======== -->
 <template id="s_carousel_intro" inherit_id="website.s_carousel_intro" name="Vehicle s_carousel_intro">
+    <xpath expr="//div[hasclass('carousel-item')][2]//div[hasclass('o_grid_item')][2]" position="attributes">
+        <attribute name="class" add="g-height-3" remove="g-height-2" separator=" "/>
+        <attribute name="style" add="grid-area: 6 / 7 / 9 / 11;" remove="grid-area: 7 / 7 / 9 / 11;" separator=";"/>
+    </xpath>
     <xpath expr="//h1" position="replace" mode="inner">
         Driving excellence with luxury vehicles
     </xpath>
@@ -688,6 +692,9 @@
     </xpath>
     <xpath expr="//p[hasclass('lead')]" position="replace" mode="inner">
         Transform your driving experience with our exclusive collection, where opulence meets cutting-edge technology. Elevate your journey with vehicles that blend sophistication and performance seamlessly.
+    </xpath>
+    <xpath expr="//div[hasclass('o_grid_item')][2]" position="attributes" mode="inner">
+        <attribute name="style" add="--grid-item-padding-y: 12px;" remove="--grid-item-padding-y: 24px;" separator=";"/>
     </xpath>
 </template>
 
