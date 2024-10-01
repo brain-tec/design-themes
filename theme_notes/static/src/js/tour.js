@@ -12,17 +12,17 @@ const snippets = [
     {
         id: 's_image_text',
         name: 'Image Text',
-        groupName: "Images",
+        groupName: "Content",
     },
     {
         id: 's_three_columns',
         name: 'Three Columns',
-        groupName: "Content",
+        groupName: "Columns",
     },
     {
         id: 's_images_wall',
         name: 'Images Wall',
-        groupName: "Content",
+        groupName: "Images",
     },
     {
         id: 's_text_image',
@@ -37,7 +37,7 @@ const snippets = [
     {
         id: 's_title',
         name: 'Title',
-        groupName: "Content",
+        groupName: "Text",
     },
     {
         id: 's_call_to_action',
@@ -48,17 +48,17 @@ const snippets = [
 
 wTourUtils.registerThemeHomepageTour("notes_tour", () => [
     wTourUtils.assertCssVariable('--color-palettes-name', '"default-19"'),
-    ...wTourUtils.dragNDrop(snippets[0]),
-    ...wTourUtils.clickOnText(snippets[0], 'h2'),
+    ...wTourUtils.insertSnippet(snippets[0]),
+    ...wTourUtils.clickOnText(snippets[0], 'h1'),
     wTourUtils.goBackToBlocks(),
-    ...wTourUtils.dragNDrop(snippets[1]),
-    ...wTourUtils.dragNDrop(snippets[2]),
+    ...wTourUtils.insertSnippet(snippets[1]),
+    ...wTourUtils.insertSnippet(snippets[2]),
     ...wTourUtils.clickOnSnippet(snippets[2]),
     wTourUtils.changeOption('ContainerWidth', 'we-button-group.o_we_user_value_widget', _t('width')),
     wTourUtils.goBackToBlocks(),
-    ...wTourUtils.dragNDrop(snippets[3]),
-    ...wTourUtils.dragNDrop(snippets[4]),
-    ...wTourUtils.dragNDrop(snippets[5]),
-    ...wTourUtils.dragNDrop(snippets[6]),
-    ...wTourUtils.dragNDrop(snippets[7]),
+    ...wTourUtils.insertSnippet(snippets[3]),
+    ...wTourUtils.insertSnippet(snippets[4]),
+    ...wTourUtils.insertSnippet(snippets[5]),
+    ...wTourUtils.insertSnippet(snippets[6]),
+    ...wTourUtils.insertSnippet(snippets[7]),
 ]);
