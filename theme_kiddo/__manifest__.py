@@ -44,6 +44,7 @@
         'views/snippets/s_pricelist_boxed.xml',
         'views/snippets/s_image_hexagonal.xml',
         'views/snippets/s_striped_center_top.xml',
+        'views/snippets/s_company_team_card.xml',
         'views/snippets/s_image_title.xml',
         'views/snippets/s_key_images.xml',
         'views/snippets/s_intro_pill.xml',
@@ -56,6 +57,7 @@
         'views/snippets/s_text_cover.xml',
         'views/snippets/s_empowerment.xml',
         'views/snippets/s_company_team_grid.xml',
+        'views/snippets/s_numbers_boxed.xml',
         'views/new_page_template.xml',
     ],
     'images': [
