@@ -41,6 +41,7 @@
         'views/snippets/s_striped_center_top.xml',
         'views/snippets/s_showcase.xml',
         'views/snippets/s_quadrant.xml',
+        'views/snippets/s_company_team_card.xml',
         'views/snippets/s_unveil.xml',
         'views/snippets/s_accordion_image.xml',
         'views/snippets/s_key_benefits.xml',
@@ -56,6 +57,7 @@
         'views/snippets/s_text_cover.xml',
         'views/snippets/s_empowerment.xml',
         'views/snippets/s_company_team_spotlight.xml',
+        'views/snippets/s_numbers_boxed.xml',
         'views/new_page_template.xml',
     ],
     'images': [
