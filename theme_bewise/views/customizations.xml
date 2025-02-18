@@ -907,10 +907,10 @@
     </xpath>
 
     <!-- Text -->
-    <xpath expr="//h2/div" position="replace" mode="inner">
-        <font class="text-gradient" style="background-image: linear-gradient(0deg, rgb(29, 32, 48) 0%, rgb(222, 222, 222) 56%);">60+</font>
+    <xpath expr="//h2/span" position="replace" mode="inner">
+        <font class="text-gradient" style="background-image: linear-gradient(0deg, var(--o-color-1) 0%, var(--o-color-4) 90%);">60+</font>
     </xpath>
-    <xpath expr="//h2/following-sibling::div" position="replace" mode="inner">
+    <xpath expr="//p/span" position="replace" mode="inner">
         academic programs available
     </xpath>
 </template>
@@ -1196,6 +1196,18 @@
     <!-- Team Member 4 -->
     <xpath expr="(//div[hasclass('card')])[4]" position="attributes">
         <attribute name="class" add="o_cc4" remove="o_cc3" separator=" "/>
+    </xpath>
+</template>
+
+<!-- ======== SPLIT INTRO ======== -->
+<template id="s_split_intro" inherit_id="website.s_split_intro">
+    <!-- Title -->
+    <xpath expr="//h1" position="replace" mode="inner">
+        Enhance your<br/>academic journey
+    </xpath>
+    <!-- Paragraph -->
+    <xpath expr="//p" position="replace" mode="inner">
+        <br/>Discover a university experience designed to elevate your learning. With state-of-the-art facilities and expert faculty, we provide an environment where knowledge thrives. From innovative programs to hands-on research opportunities, we empower you to achieve your academic goals and prepare for a successful future.<br/><br/>
     </xpath>
 </template>
 

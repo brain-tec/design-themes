@@ -105,6 +105,8 @@
         'views/snippets/s_cta_mobile.xml',
         'views/snippets/s_website_form_cover.xml',
         'views/snippets/s_numbers_boxed.xml',
+        'views/snippets/s_split_intro.xml',
+        'views/snippets/s_form_aside.xml',
         'views/new_page_template.xml',
     ],
     'images': [
