@@ -1,42 +1,29 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# * theme_buzzy
+# 	* theme_buzzy
 #
-# Translators:
-# Veikko Väätäjä <veikko.vaataja@gmail.com>, 2024
-# Ossi Mantylahti <ossi.mantylahti@obs-solutions.fi>, 2024
-# Miika Nissi <miika.nissi@tawasta.fi>, 2024
-# Martin Trigaux, 2024
-# Jarmo Kortetjärvi <jarmo.kortetjarvi@gmail.com>, 2024
-# Jessica Jakara, 2025
-# "Jessica Tuulia Sade Jäkärä (jtsj)" <jtsj@odoo.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-07 13:30+0000\n"
-"PO-Revision-Date: 2025-08-06 08:40+0000\n"
-"Last-Translator: \"Jessica Tuulia Sade Jäkärä (jtsj)\" <jtsj@odoo.com>\n"
-"Language-Team: Finnish <https://translate.odoo.com/projects/odoo-18/"
-"theme_buzzy/fi/>\n"
-"Language: fi\n"
+"PO-Revision-Date: 2024-10-07 13:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"Plural-Forms: \n"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_big_number
 msgid "90%"
-msgstr "90%"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_empowerment
 msgid "<br/>Driving innovation and excellence in every partnership.<br/><br/>"
 msgstr ""
-"<br/>Innovaation ja erinomaisuuden aallonharjalla jokaisen "
-"yhteistyökumppanuuden kohdalla.<br/><br/>"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_empowerment
@@ -44,13 +31,11 @@ msgid ""
 "<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/>  Industry"
 " Leaders"
 msgstr ""
-"<i class=\"fa fa-fw fa-info-circle o_not-animable\" "
-"role=\"img\"/>  Toimialan suurimmat toimijat"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_discovery
 msgid "<span style=\"font-weight: normal;\">Discover our solutions</span>"
-msgstr "<span style=\"font-weight: normal;\">Tutustu ratkaisuihimme</span>"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_key_benefits
@@ -60,24 +45,21 @@ msgid ""
 "o_translate_inline o_text_highlight_bold_2 o_text_highlight_fill\">three "
 "benefits</span></span>"
 msgstr ""
-"<span style=\"font-weight: normal;\">Tutustu</span><br/><span style=\"font-"
-"weight: normal;\">kolmeen tärkeimpään etuumme<span class=\"o_text_highlight "
-"o_translate_inline o_text_highlight_bold_2 o_text_highlight_fill\"></span>"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_image_text
 msgid "A new open world"
-msgstr "Uusi avoin maailma"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_empowerment
 msgid "About us"
-msgstr "Tietoa meistä"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_three_columns
 msgid "All data <br/>in your hands"
-msgstr "Kaikki tiedot <br/>käsissäsi"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_key_benefits
@@ -85,8 +67,6 @@ msgid ""
 "Benefit from unique collaborations and partnerships that give your business "
 "a competitive edge in the market."
 msgstr ""
-"Hyödy uniikeista yhteistyömahdollisuuksista ja -kumppanuuksista, jotka "
-"lisäävät yrityksesi kilpailukykyä markkinoilla."
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_cover
@@ -94,23 +74,21 @@ msgid ""
 "Bring the best for your team, start the journey with our amazing tools "
 "<br/>and collaborate no matter where you are."
 msgstr ""
-"Tuo tiimillesi parasta, aloita matka upeiden työkalujemme avulla <br/>ja tee"
-" yhteistyötä missä tahansa oletkin."
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_three_columns
 msgid "Built to <br/>your effigy"
-msgstr "Rakennettu osoitteeseen <br/>"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
 msgid "Business Strategy Consulting"
-msgstr "Liiketoimintakonsultointi"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
 msgid "Cloud Computing Solutions"
-msgstr "Pilvipalveluratkaisut"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
@@ -118,8 +96,6 @@ msgid ""
 "Comprehensive financial planning, including risk assessment, investment "
 "strategy, and tax optimization for your business."
 msgstr ""
-"Kattava taloudellinen suunnittelu yrityksellesi, mukaan lukien riskien "
-"arviointi, sijoitusstrategia ja verojen optimointi. "
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
@@ -127,39 +103,36 @@ msgid ""
 "Customized HR solutions, including talent acquisition, employee training, "
 "and performance management to boost productivity."
 msgstr ""
-"Räätälöidyt henkilöstöhallinnan ratkaisut, mukaan lukien rekrytointi, "
-"työntekijöiden koulutus ja suorituskyvyn hallinta tuottavuuden "
-"parantamiseksi."
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_key_images
 msgid "Customized solutions for your business needs"
-msgstr "Räätälöidyt ratkaisut liiketoimintatarpeisiisi"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_image_punchy
 msgid "DRIVING INNOVATION"
-msgstr "INNOVAATION EDISTÄMINEN"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_key_benefits
 msgid "Dedicated Support"
-msgstr "Omistautunut tukipalvelu"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
 msgid "Digital Marketing Services"
-msgstr "Digitaalisen markkinoinnin palvelut"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_freegrid
 msgid "Discover Services"
-msgstr "Tutustu palveluihin"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_cta_box
 msgid "Discover our<br/>different open-spaces"
-msgstr "Tutustu erilaisiin<br/>open-space -tiloihimme"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_three_columns
@@ -168,14 +141,11 @@ msgid ""
 "want. Analyze them easily with our friendly interface and grow your "
 "activity."
 msgstr ""
-"Älä menetä enää yhtään tietoa ja saat kaikki tarvitsemasi raportit silloin "
-"ja siellä, missä haluat. Analysoi niitä helposti ystävällisen "
-"käyttöliittymämme avulla ja kasvata toimintaasi."
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_card_offset
 msgid "Drive success through innovation."
-msgstr "Menestyksen edistämistä innovaation avulla"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_striped_center_top
@@ -183,33 +153,31 @@ msgid ""
 "Drive success with our cutting-edge corporate services, blending technology "
 "and creative design to deliver impactful results."
 msgstr ""
-"Edistä menestystä huippuluokan yrityspalveluillamme, jotka yhdistävät "
-"teknologian ja luovan suunnittelun vaikuttavien tulosten saavuttamiseksi."
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_freegrid
 msgid "Driving Innovation in Corporate Services"
-msgstr "Innovaation edistäminen yrityspalveluissa"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_key_images
 msgid "Driving Success Through Innovation"
-msgstr "Menestyksen luominen innovaation avulla"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_three_columns
 msgid "Editable from <br/>A to Z"
-msgstr "Muokattavissa osoitteesta <br/>A-Ö"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_empowerment
 msgid "Elevate your business<br/>with ApexCorp Solutions"
-msgstr "Nosta liiketoimintasi uudelle tasolle<br/>ApexCorp Solutionsin avulla"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_key_images
 msgid "Empowering Businesses to Reach New Heights"
-msgstr "Yritysten apuna uusien korkeuksien saavuttamisessa"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
@@ -217,14 +185,11 @@ msgid ""
 "Enhance your business operations with our comprehensive suite of "
 "professional services, tailored to meet your corporate needs."
 msgstr ""
-"Paranna liiketoiminnallisia operaatioitasi kattavan ammatillisten "
-"palveluiden valikoimamme avulla, joka on räätälöity täyttämään yrityksesi "
-"tarpeet."
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_key_benefits
 msgid "Exclusive Partnerships"
-msgstr "Eksklusiiviset yhteistyökumppanuudet"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
@@ -232,19 +197,16 @@ msgid ""
 "Expert advice on business planning, market analysis, and competitive "
 "strategy to help your company achieve its goals."
 msgstr ""
-"Asiantuntevaa neuvontaa liiketoimintasuunnitteluun, markkina-analyysiin ja "
-"kilpailustrategiaan, jotta voimme auttaa yritystäsi saavuttamaan "
-"tavoitteensa."
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_key_images
 msgid "Expert advice to navigate complex challenges"
-msgstr "Asiantuntevaa neuvontaa monimutkaisten haasteiden ratkaisuun"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_cover
 msgid "Faster, lighter and more powerful"
-msgstr "Nopeampi, kevyempi ja tehokkaampi"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_showcase
@@ -252,8 +214,6 @@ msgid ""
 "Features <span class=\"o_text_highlight o_translate_inline "
 "o_text_highlight_scribble_3 o_text_highlight_fill\">showcase</span>"
 msgstr ""
-"Ominaisuuksien <span class=\"o_text_highlight o_translate_inline "
-"o_text_highlight_scribble_3 o_text_highlight_fill\">esittely</span>"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_three_columns
@@ -262,59 +222,56 @@ msgid ""
 " any technical and complex computer language. You will helped by our "
 "intuitive tools."
 msgstr ""
-"Voit vapaasti muokata sisältöä haluamallasi tavalla. Sinun ei tarvitse osata"
-" mitään teknistä ja monimutkaista tietokonekieltä. Sinua auttavat "
-"intuitiiviset työkalumme."
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
 msgid "Financial Advisory Services"
-msgstr "Taloudelliset neuvontapalvelut"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_striped_center_top
 msgid "Get Started"
-msgstr "Aloita"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_empowerment
 msgid "Get in touch"
-msgstr "Ota yhteyttä"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_image_text
 msgid "Get what you want, where and when you want."
-msgstr "Saat mitä haluat, missä ja milloin haluat."
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
 msgid "Human Resources Management"
-msgstr "Henkilöstöhallinnon palvelut"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
 msgid "IT Support Services"
-msgstr "IT-tukipalvelut"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_text_image
 msgid "Improve your efficiency"
-msgstr "Paranna tehokkuutta"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_title
 msgid "Increase your productivity"
-msgstr "Lisää tuottavuutta"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_card_offset
 msgid "Innovation at the Heart of Business"
-msgstr "Innovaatio yritystoiminnan ytimessä"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_striped_center_top
 msgid "Innovative Solutions for Your Business"
-msgstr "Innovatiiviset ratkaisut yrityksellesi"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_text_image
@@ -322,33 +279,31 @@ msgid ""
 "It's not that easy to be efficient if we don't have the correct tools than "
 "we need. Can you imagine Batman saving Gotham City without his bat-tools?"
 msgstr ""
-"Ei ole helppoa olla tehokas ilman tarvitsemiamme työkaluja. Voisitko "
-"kuvitella Batmanin pelastavan Gotham Cityn ilman batvarusteitaan?"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_carousel_intro
 msgid "Leading the future with innovation"
-msgstr "Tie tulevaisuuteen käy innovaation kautta"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_cta_box
 msgid "Learn more"
-msgstr "Lue lisää"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_cta_box
 msgid "Looking for a place to work ? We got you covered<br/><br/>"
-msgstr "Etsitkö työpaikkaa? Me voimme auttaa<br/><br/>"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_call_to_action
 msgid "Make your company a better place."
-msgstr "Tee yrityksestäsi parempi paikka."
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
 msgid "Our Corporate Services"
-msgstr "Yrityspalvelumme"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_freegrid
@@ -357,9 +312,6 @@ msgid ""
 "through innovative technology and creative design. Explore how we can help "
 "your business reach new heights."
 msgstr ""
-"Yrityspalvelumme on suunniteltu parantamaan liiketoimintaasi innovatiivisen "
-"teknologian ja luovan suunnittelun avulla. Tutustu, kuinka voimme auttaa "
-"yritystäsi saavuttamaan uusia korkeuksia."
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_key_benefits
@@ -367,18 +319,16 @@ msgid ""
 "Our team provides continuous support, ensuring your projects run smoothly "
 "and challenges are addressed promptly."
 msgstr ""
-"Tiimimme tarjoaa jatkuvaa tukea, varmistaen, että projektisi etenevät "
-"sujuvasti ja haasteet ratkaistaan nopeasti."
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_key_images
 msgid "Partner with us to unlock your potential"
-msgstr "Aloita yhteistyö kanssamme vapauttaaksesi koko potentiaalisi"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_key_images
 msgid "Proven strategies for sustainable growth"
-msgstr "Todistetut strategiat kestävään kasvuun"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
@@ -386,8 +336,6 @@ msgid ""
 "Reliable IT support, network management, and cybersecurity solutions to "
 "safeguard your business operations and data integrity."
 msgstr ""
-"Luotettava IT-tuki, verkonhallinta ja tietoverkkoturvallisuuden ratkaisut, "
-"jotta yrityksesi toiminnot ja datan koskemattomuus on turvattu."
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
@@ -395,54 +343,51 @@ msgid ""
 "Scalable cloud services to enhance your business’s flexibility and data "
 "accessibility, supporting remote work and collaboration."
 msgstr ""
-"Skaalattavat pilvipalvelut yrityksesi joustavuuden ja datan saatavuuden "
-"parantamiseksi, samalla tukien etätyöskentelyä ja yhteistyön tekemistä."
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_empowerment
 msgid "See our Success Stories   <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
-msgstr "Katso Menestystarinamme  <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_striped_center_top
 msgid "Solutions crafted with precision"
-msgstr "Täsmällisesti kootut ratkaisut"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_call_to_action
 msgid "Start to build your robust activity with these powerful tools"
 msgstr ""
-"Aloita monipuolisen toiminnan rakentaminen näillä tehokkailla työkaluilla"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
 msgid "Starting at $1,500"
-msgstr "Alkaen $1,500"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
 msgid "Starting at $1,800"
-msgstr "Alkaen $1,800"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
 msgid "Starting at $2,000"
-msgstr "Alkaen $2,000"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
 msgid "Starting at $2,500"
-msgstr "Alkaen $2,500"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
 msgid "Starting at $3,000"
-msgstr "Alkaen $3,000"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_key_benefits
 msgid "Strategic Solutions"
-msgstr "Strategiset ratkaisut"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
@@ -450,18 +395,16 @@ msgid ""
 "Strategic online marketing, SEO optimization, and social media management to"
 " boost your brand visibility and customer engagement."
 msgstr ""
-"Strateginen verkkomarkkinointi, hakukoneoptimointi ja sosiaalisen median "
-"hallinta tehostavat brändisi näkyvyyttä ja asiakassitoutumista."
 
 #. module: theme_buzzy
 #: model:ir.model,name:theme_buzzy.model_theme_utils
 msgid "Theme Utils"
-msgstr "Teeman työkalut"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_text_image
 msgid "There is no magic, it's time to get the tools you deserve."
-msgstr "Ihmeiden aika ei ole ohi, on aika hankkia kunnon työkalut."
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_accordion_image
@@ -470,9 +413,6 @@ msgid ""
 "o_text_highlight_scribble_4 o_text_highlight_fill\">questions</span> "
 "answered"
 msgstr ""
-"Useimmiten kysyttyjen <span class=\"o_text_highlight o_translate_inline "
-"o_text_highlight_scribble_4 o_text_highlight_fill\">kysymysten</span> "
-"vastaukset"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_card_offset
@@ -481,9 +421,6 @@ msgid ""
 "innovative solutions that streamline operations and enhance corporate "
 "efficiency."
 msgstr ""
-"Muunna yrityksesi uusinta teknologiaa käyttävien palveluidemme avulla. Me "
-"integroimme ratkaisut, jotka tekevät yritystoiminnoistasi sujuvampia samalla"
-" parantarn koko yrityksesi tehokkuutta. "
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_banner
@@ -492,9 +429,6 @@ msgid ""
 "class=\"o_text_highlight o_translate_inline o_text_highlight_scribble_3 "
 "o_text_highlight_fill\">potential</span>.</strong>"
 msgstr ""
-"Vapauta <strong class=\"o_default_snippet_text\"><span "
-"class=\"o_text_highlight o_translate_inline o_text_highlight_scribble_3 "
-"o_text_highlight_fill\">potentiaalisi</span>.</strong>"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_key_benefits
@@ -502,8 +436,6 @@ msgid ""
 "We offer tailored strategies that align with your business goals, driving "
 "growth and maximizing efficiency."
 msgstr ""
-"Tarjoamme räätälöityjä strategisia ratkaisuja, jotka mukautuvat yrityksesi "
-"tavoitteisiin, mahdollistaen kasvun ja uudentasoisen tehokkuuden."
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_image_text
@@ -512,9 +444,6 @@ msgid ""
 " is better. With our Cloud service accessing to your data has never been so "
 "easy."
 msgstr ""
-"Toimistossa työskentely on hyvä asia, mutta parempi on työskennellä siellä, "
-"missä haluamme, ilman häiriötekijöitä. Pilvipalvelumme avulla pääsy "
-"tietoihin ei ole koskaan ollut näin helppoa."
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_three_columns
@@ -523,16 +452,13 @@ msgid ""
 "website based on our attractive templates to the tailor-made website "
 "reflecting your company's values."
 msgstr ""
-"Löydät aina ihanteellisen, tarpeisiisi sopivan vaihtoehdon. Viehättäviin "
-"malleihimme perustuvasta perussivustosta aina yrityksesi arvoja heijastavaan"
-" räätälöityyn verkkosivustoon."
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
 msgid "✽  Consulting Services"
-msgstr "✽  Konsultointipalvelut"
+msgstr ""
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
 msgid "✽  Technology Solutions"
-msgstr "✽  Teknologiaratkaisut"
+msgstr ""
