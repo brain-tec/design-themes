@@ -1,24 +1,19 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# * theme_bistro
+# 	* theme_bistro
 #
-# "Tiffany Chang (tic)" <tic@odoo.com>, 2025.
-# Saara Hakanen <sahak@odoo.com>, 2026.
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server saas~18.2\n"
+"Project-Id-Version: Odoo Server 19.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-09 10:55+0000\n"
-"PO-Revision-Date: 2026-02-14 19:40+0000\n"
-"Last-Translator: Saara Hakanen <sahak@odoo.com>\n"
-"Language-Team: Finnish <https://translate.odoo.com/projects/odoo-19/"
-"theme_bistro/fi/>\n"
-"Language: fi\n"
+"PO-Revision-Date: 2025-10-09 10:55+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"Plural-Forms: \n"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_quotes_carousel_minimal
@@ -26,8 +21,6 @@ msgid ""
 "\" A perfect spot for great food. <br/>Cozy atmosphere, excellent service, "
 "and delicious meals. \""
 msgstr ""
-"\" Täydellinen paikka nauttia hyvästä ruoasta. <br/>Viihtyisä ilmapiiri, "
-"erinomainen palvelu ja herkulliset ateriat. \""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_quotes_carousel_minimal
@@ -35,8 +28,6 @@ msgid ""
 "\" Exceptional flavors and service! <br/>They made every dining experience "
 "unforgettable. \""
 msgstr ""
-"\" Poikkeuksellisia makuja ja palvelu! <br/>He tekivät jokaisesta "
-"ruokailukokemuksesta unohtumattoman. \""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_quotes_carousel_minimal
@@ -44,23 +35,21 @@ msgid ""
 "\" Their dishes are a delight. Fresh, flavorful, and beautifully presented. "
 "\""
 msgstr ""
-"\" Heidän tarjoamat ateriansa ovat ihastuttavia. Tuoreita, maukkaita ja "
-"kauniisti esiteltyjä. \""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_numbers_boxed
 msgid "30+"
-msgstr "30+"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_big_number
 msgid "350+"
-msgstr "350+"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_numbers_boxed
 msgid "45%"
-msgstr "45%"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_split_intro
@@ -71,11 +60,6 @@ msgid ""
 "leisurely meal, our welcoming atmosphere and delicious dishes make every "
 "visit special.<br/><br/>"
 msgstr ""
-"<br/>Nauti ruokailuelämyksestä, jossa maku ja mukavuus yhdistyvät. "
-"Bistrossamme yhdistämme tuoreet raaka-aineet kulinaariseen luovuuteen ja "
-"tarjoamme menun, joka hivelee kaikkia makunystyröitä. Saavutpa haukkaamaan "
-"pikaisen suupalan tai vietät rentoa iltaa hitaammin, kodikas tunnelma ja "
-"herkulliset annokset tekevät jokaisesta vierailusta erityisen.<br/><br/>"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_text_cover
@@ -84,15 +68,12 @@ msgid ""
 "simplifies all the steps, from setup to menu management, making it easy for "
 "guests to explore and enjoy your offerings.<br/>"
 msgstr ""
-"<br/>Esittele bistrosi ruokalistaa verkossa käyttäjäystävällisellä "
-"alustalla, joka yksinkertaistaa jokaisen vaiheen asetuksista ruokalistan "
-"hallintaan. Vieraiden on helppo tutustua tarjontaasi ja nauttia siitä.<br/>"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_empowerment
 msgid ""
 "<br/>Where every meal is a celebration of flavor and ambiance.<br/><br/>"
-msgstr "<br/>Missä jokainen ateria on makujen ja tunnelman juhlaa.<br/><br/>"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_empowerment
@@ -100,34 +81,29 @@ msgid ""
 "<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/>  Explore "
 "our signature dishes"
 msgstr ""
-"<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/>  Tutustu "
-"maineikkaisimpiin aterioihimme"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_card_offset
 msgid "A Culinary Journey Awaits You"
-msgstr "Kulinaarinen matka odottaa sinua"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_image_title
 msgid "A Deep Dive into Flavor and Innovation"
-msgstr "Syväsukellus makuihin ja innovaatioihin"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_key_images
 msgid "A cozy ambiance for any occasion"
-msgstr "Viihtyisä tunnelma kaikkiin tilaisuuksiin"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_text_block
 msgid ""
 "A healthy kitchen with local products. We’re constantly looking to propose "
-"new products and receipts. <b>While respecting seasons' products and nature."
-"</b>"
+"new products and receipts. <b>While respecting seasons' products and "
+"nature.</b>"
 msgstr ""
-"Terveellinen keittiö, jossa käytetään paikallisia tuotteita. Etsimme "
-"jatkuvasti uusia tuotteita ja reseptejä <b>kunnioittaen samalla "
-"sesonkituotteita ja luontoa.</b>"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_quotes_carousel
@@ -135,8 +111,6 @@ msgid ""
 "A truly exquisite dining experience. I highly recommend the Mustard Sauce, "
 "out of this world."
 msgstr ""
-"Todella hieno ruokailukokemus. Suosittelen lämpimästi sinappikastiketta; "
-"aivan mieletön."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_text_block
@@ -146,35 +120,31 @@ msgid ""
 "delicious cakes that satisfy your sweet tooth. <b>And each day, you’ll "
 "discover our Today’s Special.</b>"
 msgstr ""
-"Bistrossa voit odottaa päivittäin terveellisiä aterioita. <br/>Tule "
-"sunnuntaibrunssille, nauttimaan terveellisistä mehuista, jotka ovat täynnä "
-"ravinteita, tai herkullisista kakkuista, jotka tyydyttävät sokerihampaasi. "
-"<b>Ja joka päivä löydät päivän erikoisuutemme.</b>"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_key_benefits
 msgid "Attentive Service"
-msgstr "Huomaavainen palvelu"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_empowerment
 msgid "Book a table"
-msgstr "Varaa pöytä"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cta_box
 msgid "Book now"
-msgstr "Varaa nyt"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features
 msgid "Breakfast"
-msgstr "Aamupala"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_striped_top
 msgid "Charming Culinary Escape: Your Neighborhood Bistro Delight"
-msgstr "Viehättävä kulinaarinen matka: naapuruston bistro-herkkupaikka"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_quotes_carousel
@@ -182,42 +152,38 @@ msgid ""
 "Cosy and friendly, good atmosphere and super food. Especially the spiced "
 "fruit crumble."
 msgstr ""
-"Viihtyisä ja ystävällinen, hyvä ilmapiiri ja hyvää ruokaa. Erityisesti "
-"maustettu hedelmähyve."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_striped_center_top
 msgid "Crafted with flavors of passion"
-msgstr "Höystetty intohimon mauilla"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_carousel_intro
 msgid "Culinary delights crafted just for you"
-msgstr "Kulinaarisia herkkuja, jotka on valmistettu juuri sinua varten"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_key_benefits
 msgid "Curated Menus"
-msgstr "Valikoidut menut"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cards_grid
 msgid "Cutting-Edge Culinary Techniques"
-msgstr "Huippuluokan ruokakulttuuritekniikat"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cover
 msgid ""
-"Daily fresh products combined with our professional yet convivial service<br/"
-"> to create a true gastronomic experience."
+"Daily fresh products combined with our professional yet convivial "
+"service<br/> to create a true gastronomic experience."
 msgstr ""
-"Päivittäiset tuoreet tuotteet yhdistettynä ammattitaitoiseen ja "
-"ystävälliseen palveluumme<br/> luovat todellisen gastronomisen kokemuksen."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_key_images
 msgid "Delight in Every Bite, Every Moment"
-msgstr "Nauti jokaisesta suupalasta, jokaisesta hetkestä"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features_wall
@@ -225,43 +191,41 @@ msgid ""
 "Delight in attentive and personalized service that ensures a memorable "
 "dining experience from start to finish."
 msgstr ""
-"Nauti huomaavaisesta ja henkilökohtaisesta palvelusta, joka takaa "
-"ikimuistoisen ruokailukokemuksen alusta loppuun."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_shape_image
 msgid "Dining experiences"
-msgstr "Ruokailukokemukset"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features
 msgid "Dinner"
-msgstr "Illallinen"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cta_box
 msgid "Discover our<br/>large choice of dishes"
-msgstr "Tutustu<br/>laajaan valikoimaan ruokia"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_intro_pill
 msgid "Discover our<br/>new menu"
-msgstr "Tutustu uuteen<br/> menuumme"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_carousel_intro
 msgid "Discover your favorite dish"
-msgstr "Löydä suosikkiruokasi"
+msgstr ""
 
 #. module: theme_bistro
 #: model:ir.model.fields,field_description:theme_bistro.field_theme_utils__display_name
 msgid "Display Name"
-msgstr "Näyttönimi"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_carousel_intro
 msgid "Elevate your dining experience with our unique recipes."
-msgstr "Paranna ruokailukokemustasi ainutlaatuisilla resepteillämme."
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features_wall
@@ -269,20 +233,14 @@ msgid ""
 "Enjoy a curated selection of unique cocktails and fine wines, expertly "
 "paired to complement your meal."
 msgstr ""
-"Nauti kuratoidusta valikoimasta ainutlaatuisia drinkkejä ja hienoja viinejä, "
-"jotka on yhdistetty asiantuntevasti täydentämään ateriasi."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cards_grid
 msgid ""
 "Enjoy tailored culinary advice with bespoke menus designed to suit your "
-"taste preferences and dietary needs. Our personalized consultations ensure a "
-"dining experience just for you."
+"taste preferences and dietary needs. Our personalized consultations ensure a"
+" dining experience just for you."
 msgstr ""
-"Nauti räätälöidyistä kulinaarisista neuvoista ja räätälöidyistä menuista, "
-"jotka on suunniteltu makumieltymyksiisi ja ruokavalioosi sopiviksi. "
-"Henkilökohtaiset konsultaatiomme takaavat juuri sinulle sopivan "
-"ruokailukokemuksen."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features
@@ -290,13 +248,11 @@ msgid ""
 "Enjoy tasty food with friends.<br/><small>From <b>6:30 pm</b> to <b>10:30 "
 "pm</b></small>"
 msgstr ""
-"Nauti maukkaasta ruoasta ystävien kanssa.<br/><small>Klo <b>18:30</b> - "
-"<b>22:30</b></small>"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_striped_top
 msgid "Enjoy the tastiest meal of your life at our place"
-msgstr "Nauti elämäsi maukkaimmasta ateriasta luonamme"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_key_benefits
@@ -304,56 +260,47 @@ msgid ""
 "Enjoy thoughtfully crafted dishes that highlight seasonal ingredients and "
 "local flavors, offering a unique dining experience."
 msgstr ""
-"Nauti ajatuksella valmistetuista ruokalajeista, jotka korostavat kauden "
-"aineksia ja paikallisia makuja ja tarjoavat ainutlaatuisen "
-"ruokailukokemuksen."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features_wall
 msgid "Exceptional Service"
-msgstr "Poikkeuksellisen hyvä palvelu"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_key_benefits
 msgid "Exclusive Events"
-msgstr "Eksklusiiviset tapahtumat"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_empowerment
 msgid "Experience Culinary<br/>Excellence at Bella Bistro"
-msgstr "Koe kulinaarinen<br/>huippuosaaminen Bella Bistrossa"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_card_offset
 msgid ""
-"Experience culinary excellence at our bistros and cafes. Our menu is crafted "
-"to delight your senses, offering a unique blend of flavors that celebrate "
+"Experience culinary excellence at our bistros and cafes. Our menu is crafted"
+" to delight your senses, offering a unique blend of flavors that celebrate "
 "the art of dining."
 msgstr ""
-"Nauti kulinaarisesta huippuosaamisesta bistroissamme ja kahviloissamme. "
-"Ruokalistamme on suunniteltu ilahduttamaan aistejasi ja se tarjoaa "
-"ainutlaatuisen yhdistelmän makuja, jotka juhlistavat ruokailun taidetta."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_key_images
 msgid "Experience our passion for great food and service"
-msgstr "Koe intohimomme hyvää ruokaa ja palvelua kohtaan"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cards_grid
 msgid "Experience the Pinnacle of Fine Dining and Innovation"
-msgstr "Koe hienon ruokailun ja innovaation huipentuma"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_quadrant
 msgid ""
 "Experience the finest in dining with our carefully curated menus. Whether "
-"you’re at a bistro, bar, or cafe, our culinary offerings are sure to delight."
-"<br/><br/> Taste the difference in every dish."
+"you’re at a bistro, bar, or cafe, our culinary offerings are sure to "
+"delight.<br/><br/> Taste the difference in every dish."
 msgstr ""
-"Koe ruokailun huippu huolellisesti kuratoitujen menujemme avulla. Olitpa "
-"sitten bistrossa, baarissa tai kahvilassa, kulinaarinen tarjonta varmasti "
-"ihastuttaa.<br/><br/> Maista ero jokaisessa ruokalajissa."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cards_grid
@@ -362,19 +309,16 @@ msgid ""
 "techniques. Our unique flavor combinations and modern methods elevate the "
 "art of dining to new heights."
 msgstr ""
-"Koe uusimmat gastronomiset innovaatiot ja kehittyneet kokkaustekniikat. "
-"Ainutlaatuiset makuyhdistelmämme ja nykyaikaiset menetelmämme nostavat "
-"ruokailun uusiin korkeuksiin."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cards_grid
 msgid "Expert Chef Workshops"
-msgstr "Asiantuntijakokin työpajat"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_wavy_grid
 msgid "Expertise and Flavor"
-msgstr "Asiantuntemus ja maku"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_carousel_intro
@@ -382,39 +326,36 @@ msgid ""
 "Explore more and find your favorite flavors crafted with passion, designed "
 "to delight your palate and satisfy your cravings."
 msgstr ""
-"Tutustu lisää ja löydä suosikkimakusi, jotka on valmistettu intohimoisesti "
-"ja suunniteltu ilahduttamaan makuaistiasi ja tyydyttämään mielihalusi."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cta_box
 msgid "Explore our different menus and plan your next lunch <br/><br/>"
 msgstr ""
-"Tutustu eri ruokalistoihimme ja suunnittele seuraava lounaasi <br/><br/>"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_key_images
 msgid "Fresh ingredients, deliciously prepared"
-msgstr "Tuoreet raaka-aineet, herkullisesti valmistettu"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_text_cover
 msgid "Get started"
-msgstr "Aloita"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features_wall
 msgid "Gourmet Dining Experience"
-msgstr "Gourmet-ruokailukokemus"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cards_grid
 msgid "Gourmet Dining Experiences"
-msgstr "Gourmet-ruokailukokemukset"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_key_images
 msgid "Gourmet dishes that will tempt your taste buds"
-msgstr "Gourmet-ruokalajeja, jotka kutkuttelevat makunystyröitäsi"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features
@@ -422,18 +363,16 @@ msgid ""
 "Help you start your morning right.<br/><small>From <b>7:30 am</b> to "
 "<b>10:30 am</b></small>"
 msgstr ""
-"Auttaa sinua nousemaan oikealla jalalla.<br/><small>Klo <b>7:30</b> - "
-"<b>10:30</b></small>"
 
 #. module: theme_bistro
 #: model:ir.model.fields,field_description:theme_bistro.field_theme_utils__id
 msgid "ID"
-msgstr "Tunnus"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_freegrid
 msgid "Indulge in Culinary Excellence at Our Bistros"
-msgstr "Hemmottele itseäsi kulinaarisella huippuosaamisella Bistroissamme"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_carousel_intro
@@ -441,34 +380,29 @@ msgid ""
 "Indulge in fresh, flavorful dishes with our menu that brings a taste of "
 "comfort and gourmet excellence, every time."
 msgstr ""
-"Hemmottele itseäsi menumme tuoreilla, maukkailla ruokalajeilla, jotka "
-"kielivät joka kerta herkullisuudesta ja gourmet-osaamisesta."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cards_grid
 msgid ""
-"Join hands-on workshops led by renowned chefs. Learn advanced cooking skills "
-"and insider tips to refine your culinary expertise and bring new flavors to "
-"your kitchen."
+"Join hands-on workshops led by renowned chefs. Learn advanced cooking skills"
+" and insider tips to refine your culinary expertise and bring new flavors to"
+" your kitchen."
 msgstr ""
-"Osallistu tunnettujen kokkien vetämiin käytännön työpajoihin. Opi "
-"edistyneitä kokkaustaitoja ja saat sisäpiirin vinkkejä, joiden avulla voit "
-"kehittää kulinaarista osaamistasi ja tuoda keittiöösi uusia makuja."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features
 msgid "Lunch"
-msgstr "Lounas"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cover
 msgid "Our Menu"
-msgstr "Menu"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_images_mosaic
 msgid "Our Newest Culinary Delights"
-msgstr "Uusimmat kulinaariset herkut"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_key_benefits
@@ -476,44 +410,42 @@ msgid ""
 "Our team is here to provide warm, personalized service, ensuring that every "
 "visit is comfortable and memorable."
 msgstr ""
-"Tiimimme on täällä tarjoamassa lämmintä, henkilökohtaista palvelua "
-"varmistaakseen, että jokainen vierailu on mukava ja ikimuistoinen."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cards_grid
 msgid "Personalized Culinary Consultations"
-msgstr "Henkilökohtaiset kulinaariset konsultaatiot"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_wavy_grid
 msgid "Personalized Dining"
-msgstr "Henkilökohtainen ruokailu"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_text_cover
 msgid "Present your<br/>menus.Easily."
-msgstr "Esittele<br/>menusi. Helposti."
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_wavy_grid
 msgid "Quality and Freshness"
-msgstr "Laatu ja tuoreus"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_striped_center_top
 msgid "Reserve Your Table"
-msgstr "Varaa pöytäsi"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_freegrid
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_quadrant
 msgid "Reserve a Table"
-msgstr "Pöydän varaaminen"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_card_offset
 msgid "Reserve your table today."
-msgstr "Varaa pöytäsi jo tänään."
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cards_grid
@@ -522,9 +454,6 @@ msgid ""
 "experiences feature innovative dishes and premium ingredients, promising an "
 "unforgettable meal."
 msgstr ""
-"Nautiskele huippukokkien valmistamista hienoista kulinaarisista luomuksista. "
-"Gourmet-ruokailukokemuksemme sisältävät innovatiivisia ruokalajeja ja "
-"ensiluokkaisia raaka-aineita, joista koostuu unohtumaton ateria."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features_wall
@@ -532,8 +461,6 @@ msgid ""
 "Savor exquisite dishes crafted with fresh, high-quality ingredients in a "
 "sophisticated and welcoming atmosphere."
 msgstr ""
-"Nauti tuoreista, korkealaatuisista raaka-aineista valmistettuja hienoja "
-"ruokia hienostuneessa ja viihtyisässä ilmapiirissä."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_shape_image
@@ -542,27 +469,21 @@ msgid ""
 "occasion. Our menu features a blend of classic favorites and innovative "
 "creations, all crafted with fresh, high-quality ingredients."
 msgstr ""
-"Maistele herkullisia ruokiamme ja nauti viihtyisästä ilmapiiristä, joka "
-"sopii mihin tahansa tilaisuuteen. Menummme on sekoitus klassisia suosikkeja "
-"ja innovatiivisia luomuksia, jotka kaikki on valmistettu tuoreista, "
-"korkealaatuisista raaka-aineista."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_images_mosaic
 msgid "Savor our latest menu items crafted for a memorable dining experience."
 msgstr ""
-"Nauti uusimmista ruokalajeistamme, jotka on suunniteltu ikimuistoista "
-"ruokailukokemusta varten."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_key_images
 msgid "Savor the Flavors of Our Bistro"
-msgstr "Nauti Bistromme mauista"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_split_intro
 msgid "Savor the art<br/>of casual dining"
-msgstr "Nauti rennon <br/>ruokailun taiteesta"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_freegrid
@@ -571,9 +492,6 @@ msgid ""
 "crafted with passion and precision. Whether it’s a casual meal or a special "
 "occasion, we have something for everyone."
 msgstr ""
-"Nauti hienoimmista ruokalajeista bistroissamme ja kahviloissamme, joissa "
-"jokainen ruokalaji valmistetaan intohimoisesti ja tarkasti. Olipa kyseessä "
-"rento ateria tai erityistilaisuus, meillä on jokaiselle jotakin."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_striped_center_top
@@ -581,38 +499,36 @@ msgid ""
 "Savor the finest culinary delights at our bistro, where exceptional food "
 "meets an unforgettable dining experience."
 msgstr ""
-"Nauti hienoimmista kulinaarisista herkuista bistrossamme, jossa "
-"poikkeuksellinen ruoka kohtaa unohtumattoman ruokailukokemuksen."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_image_hexagonal
 msgid "Savor the flavor: a culinary experience awaits"
-msgstr "Nautiskele mausta: kulinaarinen elämys odottaa"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_carousel_intro
 msgid "Savor the flavors of our bistro"
-msgstr "Nauti bistromme mauista"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cover
 msgid "Seasonal<br/> Flavors"
-msgstr "Sesongin<br/> maut"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_empowerment
 msgid "See Today's Specials"
-msgstr "Katso tämän päivän tarjoukset"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features_wall
 msgid "Signature Cocktails and Wines"
-msgstr "Nimikkodrinkit ja viinit"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_wavy_grid
 msgid "Sustainable Ingredients"
-msgstr "Kestävät ainekset"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features
@@ -620,8 +536,6 @@ msgid ""
 "Take a break from your busy schedule.<br/><small>From <b>11:30 am</b> to "
 "<b>2:30 pm</b></small>"
 msgstr ""
-"Pidä tauko kiireisestä aikataulusta.<br/><small>Klo <b>11:30</b> - <b>14:30</"
-"b></small>"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_key_benefits
@@ -629,51 +543,48 @@ msgid ""
 "Take part in special events and tasting nights that showcase new dishes, "
 "local wines, and culinary creativity."
 msgstr ""
-"Osallistu erikoistapahtumiin ja maisteluiltoihin, joissa esitellään uusia "
-"ruokia, paikallisia viinejä ja kulinaarista luovuutta."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_quadrant
 msgid "Taste &amp; Enjoy"
-msgstr "Maista &amp; nauti"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_picture
 msgid ""
-"Taste our chef's special, an almond macaroon with orange blossom buttercream."
+"Taste our chef's special, an almond macaroon with orange blossom "
+"buttercream."
 msgstr ""
-"Maista keittiömestarin erikoisuus: mantelimakaroni "
-"appelsiininkukkavoikreemillä."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_striped_center_top
 msgid "Taste the Difference"
-msgstr "Maista ero"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_banner
 msgid "Tasty Meals"
-msgstr "Maukkaita aterioita"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_picture
 msgid "The perfect dessert to share for the table."
-msgstr "Täydellinen jälkiruoka jaettavaksi pöytään."
+msgstr ""
 
 #. module: theme_bistro
 #: model:ir.model,name:theme_bistro.model_theme_utils
 msgid "Theme Utils"
-msgstr "Suunnittelutyökalut"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_quotes_carousel
 msgid "This place is perfect for groups or a casual date night."
-msgstr "Tämä paikka sopii täydellisesti ryhmille tai rentoon treffi-iltaan."
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_picture
 msgid "Today's special"
-msgstr "Päivän erikoisateria"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_image_title
@@ -682,19 +593,16 @@ msgid ""
 "meet modern creativity. Elevate your palate with flavors that blend "
 "tradition and innovation seamlessly."
 msgstr ""
-"Muunna ruokailukokemuksesi uudella ruokalistallamme, jossa klassiset "
-"ruokalajit kohtaavat modernin luovuuden. Laajenna makumaailmaasi mauilla, "
-"joissa perinteet ja innovaatiot yhdistyvät saumattomasti."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_empowerment
 msgid "View Our Menu   <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
-msgstr "Katso menumme   <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_intro_pill
 msgid "View more"
-msgstr "Katso lisää"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_wavy_grid
@@ -702,9 +610,6 @@ msgid ""
 "We craft custom dishes to match your unique tastes. Our chefs work closely "
 "with you to ensure a delightful dining experience from appetizer to dessert."
 msgstr ""
-"Valmistamme räätälöityjä ruokia vastaamaan ainutlaatuista makuasi. Kokkimme "
-"työskentelevät tiiviisti kanssasi varmistaakseen, että ruokailukokemus on "
-"ihastuttava aina alkupalasta jälkiruokaan asti."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_wavy_grid
@@ -712,22 +617,18 @@ msgid ""
 "We offer innovative recipes and classic favorites. Leveraging the finest "
 "ingredients, we help you savor every bite."
 msgstr ""
-"Tarjoamme innovatiivisia reseptejä ja klassisia suosikkeja. Hienoimpia raaka-"
-"aineita hyödyntäen varmistamme, että nautit jokaisesta suupalasta."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_wavy_grid
 msgid "What we offer to our guests"
-msgstr "Mitä tarjoamme vieraillemme"
+msgstr ""
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_wavy_grid
 msgid ""
-"With extensive experience and a passion for culinary arts, we provide dishes "
-"that keep you coming back for more."
+"With extensive experience and a passion for culinary arts, we provide dishes"
+" that keep you coming back for more."
 msgstr ""
-"Meillä on vuosien kokemus ja intohimo kulinaarisia taitoja kohtaan, joten "
-"tarjoamme ruokia, jotka saavat sinut palaamaan takaisin maistamaan lisää."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_wavy_grid
@@ -735,10 +636,8 @@ msgid ""
 "Your satisfaction is our priority. Our staff is always ready to assist, "
 "ensuring you enjoy a smooth and memorable meal."
 msgstr ""
-"Tyytyväisyytesi on etusijalla. Henkilökuntamme on aina valmiina auttamaan, "
-"jotta nautit sujuvasta ja ikimuistoisesta ateriasta."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_big_number
 msgid "happy guests served"
-msgstr "onnellisten vieraiden palvelua"
+msgstr ""
