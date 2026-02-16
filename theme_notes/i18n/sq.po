@@ -1,24 +1,19 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# * theme_notes
+# 	* theme_notes
 #
-# "Tiffany Chang (tic)" <tic@odoo.com>, 2025.
-# Saara Hakanen <sahak@odoo.com>, 2026.
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server saas~18.4\n"
+"Project-Id-Version: Odoo Server 19.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-09 10:56+0000\n"
-"PO-Revision-Date: 2026-02-14 19:40+0000\n"
-"Last-Translator: Saara Hakanen <sahak@odoo.com>\n"
-"Language-Team: Finnish <https://translate.odoo.com/projects/odoo-19/"
-"theme_notes/fi/>\n"
-"Language: fi\n"
+"PO-Revision-Date: 2025-10-09 10:56+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"Plural-Forms: \n"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_quotes_carousel_minimal
@@ -26,8 +21,6 @@ msgid ""
 "\" A must-see for rock fans. <br/>Powerful music, great atmosphere, and a "
 "night to remember. \""
 msgstr ""
-"\"Rock-musiikin ystävien on pakko käydä katsomassa. <br/>Voimakasta "
-"musiikkia, mahtava tunnelma ja ikimuistoinen ilta.\""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_quotes_carousel_minimal
@@ -35,8 +28,6 @@ msgid ""
 "\" Outstanding show and sound! <br/>They delivered an epic performance that "
 "rocked the house. \""
 msgstr ""
-"\"Erinomainen show ja ääni! <br/>He tarjosivat eeppisen esityksen, joka "
-"järisytti taloa.\""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_quotes_carousel_minimal
@@ -44,189 +35,157 @@ msgid ""
 "\" The rock concert was electrifying. <br/>High-energy, incredible "
 "performances, and unforgettable vibes. \""
 msgstr ""
-"\"Rock-konsertti oli sähköinen. <br/>Korkea energia, uskomattomat esitykset "
-"ja unohtumaton tunnelma.\""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_title
 msgid "#PulseOfTheFuture"
-msgstr "#PulseOfTheFuture"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "$109.50"
-msgstr "$109.50"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "$115.50"
-msgstr "$115.50"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "$19.00"
-msgstr "$19.00"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "$25.00"
-msgstr "$25.00"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "$59.00"
-msgstr "$59.00"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "$65.00"
-msgstr "$65.00"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_big_number
 msgid "20M"
-msgstr "20M"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_masonry_block_default_template
 msgid "21th of August"
-msgstr "21. elokuuta"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_key_benefits
 msgid "24/7 Booking Support"
-msgstr "24/7 varausten tuki"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_three_columns
 msgid "24th AUGUST"
-msgstr "24. elokuuta"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_masonry_block_default_template
 msgid "24th of August"
-msgstr "24. elokuuta"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_three_columns
 msgid "27th AUGUST"
-msgstr "27. elokuuta"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_masonry_block_default_template
 msgid "27th of August"
-msgstr "27. elokuuta"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_numbers_boxed
 msgid "30+"
-msgstr "30+"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_numbers_boxed
 msgid "45%"
-msgstr "45%"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_masonry_block_default_template
 msgid "4th of September"
-msgstr "4. syyskuuta"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
 msgid "6 Days Pass"
-msgstr "6 päivän lippu"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_numbers
 msgid "72"
-msgstr "72"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_three_columns
 msgid "9th SEPTEMBER"
-msgstr "9. SYYSKUUTA"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_three_columns
 msgid ""
-"<a class=\"btn btn-primary o_translate_inline\" href=\"#\">Get your tickets</"
-"a>"
+"<a class=\"btn btn-primary o_translate_inline\" href=\"#\">Get your "
+"tickets</a>"
 msgstr ""
-"<a class=\"btn btn-primary o_translate_inline\" href=\"#\">Hanki lippusi</a>"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
 msgid ""
-"<a href=\"/\" class=\"btn btn-primary btn-lg o_translate_inline\">More Info</"
-"a>"
+"<a href=\"/\" class=\"btn btn-primary btn-lg o_translate_inline\">More "
+"Info</a>"
 msgstr ""
-"<a href=\"/\" class=\"btn btn-primary btn-lg "
-"o_translate_inline\">Lisätietoja</a>"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_media_list
 msgid ""
 "<br/>\n"
-"        Once again this year, the festival, with the support of the non-"
-"profit organisations that implement the necessary means to facilitate access "
-"to the event for people with reduced mobility and people affected by or "
-"carrying a disability."
+"        Once again this year, the festival, with the support of the non-profit organisations that implement the necessary means to facilitate access to the event for people with reduced mobility and people affected by or carrying a disability."
 msgstr ""
-"<br/>\n"
-"        Myös tänä vuonna festivaali tukee voittoa tavoittelemattomia "
-"järjestöjä, jotka tekevät tarvittavat muutokset helpottaakseen "
-"liikuntarajoitteisten ja vammaisten henkilöiden pääsyä tapahtumaan."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_media_list
 msgid ""
 "<br/>\n"
-"        Where and when to exchange your festival bracelets? Where to buy "
-"food and drink tickets? What is the price for children? The answer can be "
-"found here!"
+"        Where and when to exchange your festival bracelets? Where to buy food and drink tickets? What is the price for children? The answer can be found here!"
 msgstr ""
-"<br/>\n"
-"        Missä ja milloin voit vaihtaa festivaalirannekkeesi? Mistä voi ostaa "
-"ruoka- ja juomalippuja? Mikä on lasten hinta? Vastaus löytyy täältä!"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_media_list
 msgid ""
 "<br/>\n"
-"        You will find here the different means of transport to get to the "
-"festival. The festival is accessible by bike. Be careful, you will be riding "
-"in the city centre where there are a lot of cars. Please make sure to park "
-"your bike in the designated areas of the city."
+"        You will find here the different means of transport to get to the festival. The festival is accessible by bike. Be careful, you will be riding in the city centre where there are a lot of cars. Please make sure to park your bike in the designated areas of the city."
 msgstr ""
-"<br/>\n"
-"        Löydät täältä tietoa liikennevälineistä, joilla pääset "
-"festivaalille. Festivaalille voi saapua myös pyörällä. Ole varovainen, sillä "
-"pyöräilet kaupungin keskustassa, jossa on paljon autoja. Muistathan "
-"pysäköidä pyöräsi kaupungin pyörille varatuille alueille."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_empowerment
 msgid ""
 "<br/>Bringing you unforgettable live music and electrifying shows.<br/><br/>"
 msgstr ""
-"<br/>Tarjoamme sinulle unohtumatonta live-musiikkia ja sähköisiä esityksiä."
-"<br/><br/>"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_split_intro
 msgid ""
 "<br/>Join us for live performances that captivate and energize. Our music "
 "band brings passion and expertise to every show, delivering a memorable "
-"experience with every note. From original compositions to beloved covers, we "
-"create a vibrant atmosphere that resonates with fans and keeps the music "
+"experience with every note. From original compositions to beloved covers, we"
+" create a vibrant atmosphere that resonates with fans and keeps the music "
 "alive.<br/><br/>"
 msgstr ""
-"<br/>Tule mukaan live-esityksiin, jotka vangitsevat ja antavat energiaa. "
-"Bändimme tuo jokaiselle keikalle intohimoa ja ammattitaitoa, tarjoten "
-"unohtumattomia kokemuksia. Alkuperäisistä sävellyksistä rakastettuihin "
-"covereihin, luomme säkenöivän tunnelman, joka resonoi myös yleisön kanssa."
-"<br/><br/>"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_text_cover
@@ -235,10 +194,6 @@ msgid ""
 "platform that simplifies everything, from setup to track management, making "
 "it easy for fans to discover and enjoy your sound.<br/>"
 msgstr ""
-"<br/>Esittele bändisi musiikkia ja päivityksiä verkossa "
-"käyttäjäystävällisellä alustalla, joka yksinkertaistaa kaiken aina "
-"asetuksista kappaleiden hallintaan. Fanien on helpompi löytää sinut ja "
-"nauttia soundistasi.<br/>"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_empowerment
@@ -246,19 +201,14 @@ msgid ""
 "<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/>  High-"
 "energy performances"
 msgstr ""
-"<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/> "
-"  Energiset esitykset"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_images_wall
 msgid ""
 "<span class=\"o_text_highlight o_text_highlight_underline "
-"o_translate_inline\" style=\"--text-highlight-color: var(--o-color-4); --"
-"text-highlight-width: 3px;\">Band Gallery</span>"
+"o_translate_inline\" style=\"--text-highlight-color: var(--o-color-4); "
+"--text-highlight-width: 3px;\">Band Gallery</span>"
 msgstr ""
-"<span class=\"o_text_highlight o_text_highlight_underline "
-"o_translate_inline\" style=\"--text-highlight-color: var(--o-color-4); --"
-"text-highlight-width: 3px;\">Bändigalleria</span>"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_three_columns
@@ -267,9 +217,6 @@ msgid ""
 "o_translate_inline\" style=\"--text-highlight-width: 4px; --text-highlight-"
 "color: var(--o-color-4);\">Upcoming concerts</span>"
 msgstr ""
-"<span class=\"o_text_highlight o_text_highlight_underline "
-"o_translate_inline\" style=\"--text-highlight-width: 4px; --text-highlight-"
-"color: var(--o-color-4);\">Tulevat konsertit</span>"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_text_image
@@ -278,9 +225,6 @@ msgid ""
 "o_text_highlight_underline\" style=\"--text-highlight-width: 3px; --text-"
 "highlight-color: var(--o-color-1);\">Our History</span>"
 msgstr ""
-"<span class=\"o_text_highlight o_translate_inline "
-"o_text_highlight_underline\" style=\"--text-highlight-width: 3px; --text-"
-"highlight-color: var(--o-color-1);\">Historiamme</span>"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_image_text
@@ -289,10 +233,6 @@ msgid ""
 "o_text_highlight_underline\" style=\"--text-highlight-width: 3px; --text-"
 "highlight-color: var(--o-color-1);\">Redefining modern rocks</span>"
 msgstr ""
-"<span class=\"o_text_highlight o_translate_inline "
-"o_text_highlight_underline\" style=\"--text-highlight-width: 3px; --text-"
-"highlight-color: var(--o-color-1);\">Nykyaikaista rock-musiikkia "
-"uudelleenmäärittelmässä</span>"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_shapes
@@ -301,19 +241,16 @@ msgid ""
 "o_text_highlight_underline\" style=\"--text-highlight-width: 4px; --text-"
 "highlight-color: var(--o-color-4);\">Meet The Band</span>"
 msgstr ""
-"<span class=\"o_text_highlight o_translate_inline "
-"o_text_highlight_underline\" style=\"--text-highlight-width: 4px; --text-"
-"highlight-color: var(--o-color-4);\">Tapaa bändi</span>"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_image_title
 msgid "A Deep Dive into Rock and Energy"
-msgstr "Syväsukellus rock-musiikkiin ja energiaan"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_key_images
 msgid "A diverse selection of food and drink options"
-msgstr "Monipuolinen valikoima ruoka- ja juomavaihtoehtoja"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_framed_intro
@@ -321,8 +258,6 @@ msgid ""
 "A groundbreaking force in modern rock, bringing an electrifying blend of "
 "high-energy performances and innovative sound"
 msgstr ""
-"Modernin rockin uraauurtava voima, joka tuo sekoituksen energisiä esityksiä "
-"ja innovatiivista ääntä"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
@@ -330,8 +265,6 @@ msgid ""
 "A premier arts festival showcasing contemporary art, installations, and "
 "performances from around the globe in the artistic city of Paris."
 msgstr ""
-"Ensiluokkainen taidefestivaali, joka esittelee nykytaidetta, installaatioita "
-"ja esityksiä ympäri maailman taiteen sydänkaupungissa Pariisissa."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
@@ -339,9 +272,6 @@ msgid ""
 "A vibrant music festival featuring top artists across genres, food trucks, "
 "and interactive art installations in the heart of Central Park."
 msgstr ""
-"Elinvoimainen musiikkifestivaali, jossa on eri genrejen huippuartisteja, "
-"ruokarekkoja ja interaktiivisia taideinstallaatioita Central Parkin "
-"sydämessä."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
@@ -349,14 +279,12 @@ msgid ""
 "Alexander Rivera is a skilled guitarist known for his exceptional technique "
 "and innovative playing style."
 msgstr ""
-"Alexander Rivera on taitava kitaristi, joka tunnetaan poikkeuksellisesta "
-"tekniikastaan ja innovatiivisesta soittotyylistään."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_basic
 msgid "Aline"
-msgstr "Aline"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team
@@ -365,10 +293,6 @@ msgid ""
 "as the most powerful and influential French person by Vanity Fair, who "
 "noticed her radiance of French genius."
 msgstr ""
-"Aline on ranskalainen laulaja, lauluntekijä ja tuottaja. Vuonna 2016 Vanity "
-"Fair sijoitti hänet vaikutusvaltaisimmaksi ja vaikutusvaltaisimmaksi "
-"ranskalaiseksi henkilöksi ja noteerasi hänen säteilevän ranskalaista "
-"neroutta."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel_intro
@@ -376,18 +300,16 @@ msgid ""
 "Amplify your night with our lineup of top rock bands and thrilling shows, "
 "combining high energy with a rock 'n' roll experience."
 msgstr ""
-"Tee illastasi unohtumaton huippurockyhtyeiden ja jännittävien esitystemme "
-"avulla, joissa yhdistyvät korkea energia ja rock 'n' roll -elämys."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_masonry_block_default_template
 msgid "Amsterdam"
-msgstr "Amsterdam"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_three_columns
 msgid "Amsterdam Tour"
-msgstr "Amsterdamin kiertue"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
@@ -395,8 +317,6 @@ msgid ""
 "An enchanting celebration of jazz and blues music with performances by "
 "renowned artists, workshops, and street parades in the heart of New Orleans."
 msgstr ""
-"Lumoava jazz- ja bluesmusiikin juhla, joka sisältää kuuluisten artistien "
-"esityksiä, työpajoja ja katukulkueita New Orleansin sydämessä."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
@@ -404,64 +324,61 @@ msgid ""
 "An immersive festival celebrating global cultural traditions with "
 "performances, crafts, and culinary experiences from diverse cultures."
 msgstr ""
-"Elämyksellinen festivaali, jossa juhlitaan maailmanlaajuisia eri maiden "
-"kulttuuriperinteitä esityksillä, käsityötaidoilla ja kulinaarisilla "
-"kokemuksilla."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_key_images
 msgid "Art installations and interactive exhibits"
-msgstr "Taideinstallaatiot ja interaktiiviset näyttelyt"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_numbers
 msgid "Artists from around the world"
-msgstr "Taiteilijoita ympäri maailman"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "August 15-17, 2024"
-msgstr "15.-17. elokuuta 2024"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_masonry_block_default_template
 msgid "Barcelona"
-msgstr "Barcelona"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_three_columns
 msgid "Barcelona Night"
-msgstr "Barcelonan yö"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_three_columns
 msgid "Belgium Tour"
-msgstr "Belgian kiertue"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_masonry_block_default_template
 msgid "Brussels"
-msgstr "Bryssel"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "Brussels edition"
-msgstr "Brysselin versio"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_empowerment
 msgid "Buy tickets"
-msgstr "Osta liput"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_list
 msgid "CD Albums"
-msgstr "CD-albumit"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_list
 msgid "Caps"
-msgstr "Lippikset"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
@@ -469,18 +386,16 @@ msgid ""
 "Celebrate cinema with screenings of international films, director Q&amp;A "
 "sessions, and red carpet events at this prestigious film festival."
 msgstr ""
-"Elävän kuvan taiteen juhlaa kansainvälisten elokuvien näytöksillä, ohjaajien "
-"kyselytunneilla ja punaisen maton tapahtumilla."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "Central Park, New York"
-msgstr "Central Park, New York"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_empowerment
 msgid "Check tour dates"
-msgstr "Tarkista kiertueen päivämäärät"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_cards_grid
@@ -489,24 +404,21 @@ msgid ""
 "from interactive games to community art projects, creating memories that "
 "last a lifetime."
 msgstr ""
-"Tutustu muihin festivaalikävijöihin erilaisissa sosiaalisissa "
-"aktiviteeteissa, esimerkiksi interaktiivisissa peleissä yhteisöllisissä "
-"taidehetkissä ja luo muistoja, jotka säilyvät eliniän."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_wavy_grid
 msgid "Creativity and Engagement"
-msgstr "Luovuus ja sitoutuminen"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "Cultural Heritage Festival"
-msgstr "Kulttuuriperintöfestivaali"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_key_benefits
 msgid "Custom Setlists"
-msgstr "Mukautetut settilistat"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
@@ -514,60 +426,58 @@ msgid ""
 "Daniel Foster is a dynamic rapper known for his sharp lyrics and compelling "
 "storytelling."
 msgstr ""
-"Daniel Foster on dynaaminen räppäri, joka tunnetaan kolahtavista "
-"sanoituksistaan ja kiehtovasta tarinankerronnastaan."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "December 1-3, 2024"
-msgstr "1.-3. joulukuuta 2024"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_cover
 msgid "Discover <br/>the Miraillet Festival"
-msgstr "Tutustu <br/>Miraillet-festivaaliin"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_freegrid
 msgid "Discover Music"
-msgstr "Tutustu musiikkiin"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_basic
 msgid "Discover our talented artists"
-msgstr "Tutustu lahjakkaisiin artisteihin"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_intro_pill
 msgid "Discover our<br/>latest album"
-msgstr "Tutustu<br/>uusimpaan albumiin"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_striped_top
 msgid "Discover the Ultimate Festival Experience"
-msgstr "Tutustu mielettömään festivaalikokemukseen"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_three_columns
 msgid "Discover the new album live."
-msgstr "Tutustu uuteen albumiin livenä."
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_cta_box
 msgid "Discover upcoming<br/>concerts in your area"
-msgstr "Löydä tulevia<br/>konsertteja omalla alueellasi"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
 msgid ""
 "Discover what makes the reputation of the Miraillet festival through these "
 "after-movies."
-msgstr "Tutustu Miraillet-festivaalin tunnelmaan näiden jälkielokuvien avulla."
+msgstr ""
 
 #. module: theme_notes
 #: model:ir.model.fields,field_description:theme_notes.field_theme_utils__display_name
 msgid "Display Name"
-msgstr "Näyttönimi"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel_intro
@@ -575,8 +485,6 @@ msgid ""
 "Dive into electrifying performances and powerful music with our rock "
 "concerts that promise unforgettable moments and pure energy."
 msgstr ""
-"Sukella sähköisiin esityksiin ja musiikkiin rock-konserteissamme, joista "
-"ammennat unohtumattomia hetkiä ja energiaa."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_quadrant
@@ -585,24 +493,21 @@ msgid ""
 "sound to stage, we bring you the best in music entertainment.<br/><br/> "
 "Experience the magic of live performances."
 msgstr ""
-"Sukella musiikin maailmaan live-konserteissamme ja taidetapahtumissamme. "
-"Äänentoistosta lavaesiintymiseen, me tarjoamme sinulle parasta "
-"musiikkiviihdettä.<br/><br/> Koe live-esitysten taika."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_wavy_grid
 msgid "Eco-Friendly Fun"
-msgstr "Hauskanpitoa ympäristöystävällisesti"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_numbers
 msgid "Editions through the Europe"
-msgstr "Julkaisut Euroopan kautta"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
 msgid "Electronic DJ"
-msgstr "Elektronisen musiikin DJ"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
@@ -610,18 +515,16 @@ msgid ""
 "Emily Carter is a captivating singer known for her enchanting voice and "
 "magnetic stage presence."
 msgstr ""
-"Emily Carter on lumoava laulaja, joka tunnetaan lumoavasta äänestään ja "
-"magneettisesta lavakarismastaan."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_cards_grid
 msgid "Engaging Social Activities"
-msgstr "Mukaansatempaava sosiaalinen toiminta"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_images_mosaic
 msgid "Enjoy fresh activities and top performances at our event."
-msgstr "Nauti tuoreista aktiviteeteista ja huippuesityksistä tapahtumassamme."
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_cards_grid
@@ -629,14 +532,12 @@ msgid ""
 "Enjoy performances from a diverse range of talented artists, bringing you "
 "the best in music, dance, and visual arts from around the world."
 msgstr ""
-"Nauti monenlaisten lahjakkaiden taiteilijoiden esityksistä, jotka esittävät "
-"parasta musiikkia, tanssia ja kuvataidetta ympäri maailman."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_banner
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_striped_top
 msgid "Enjoy the atmosphere"
-msgstr "Nauti ilmapiiristä"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_features_wall
@@ -644,44 +545,41 @@ msgid ""
 "Enjoy unforgettable live performances from top artists in an immersive and "
 "electrifying atmosphere."
 msgstr ""
-"Nauti huippuartistien unohtumattomista live-esityksistä mukaansatempaavassa "
-"ja sähköisessä ilmapiirissä."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel_intro
 msgid "Epic rock concerts"
-msgstr "Eeppiset rock-konsertit"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_wavy_grid
 msgid "Excellence and Excitement"
-msgstr "Huippuosaamista ja jännitystä"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_cards_grid
 msgid "Exclusive Festival Merchandise"
-msgstr "Eksklusiivinen festivaalitarvike"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_key_benefits
 msgid "Exclusive Performances"
-msgstr "Eksklusiiviset esitykset"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_features_wall
 msgid "Exclusive VIP Access"
-msgstr "Eksklusiivinen VIP-pääsy"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_key_images
 msgid "Experience Music, Art, and Fun for All Ages"
-msgstr "Musiikkia, taidetta ja hauskanpitoa kaikenikäisille"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_cta_box
 msgid "Experience a memorable concert with local artists<br/><br/>"
 msgstr ""
-"Koe ikimuistoinen konsertti paikallisten taiteilijoiden seurassa<br/><br/>"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_shape_image
@@ -690,20 +588,16 @@ msgid ""
 "of genres and styles to suit any event, providing high-energy performances "
 "that create unforgettable memories for your audience."
 msgstr ""
-"Koe mukaansatempaavia live-musiikkiesityksiä lahjakkaan bändimme esittäminä. "
-"Tarjoamme erilaisia genrejä ja tyylejä, jotka sopivat mihin tahansa "
-"tapahtumaan, ja tarjoamme energisiä esityksiä, jotka luovat yleisöllesi "
-"unohtumattomia muistoja."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_cards_grid
 msgid "Experience the Best of Our Festival"
-msgstr "Koe festivaalimme parhaat puolet"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel_intro
 msgid "Experience the energy of rock"
-msgstr "Koe rockin energia"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
@@ -711,8 +605,6 @@ msgid ""
 "Experience the excitement of our upcoming festivals with a diverse range of "
 "music, arts, and culture. Don’t miss out on these unforgettable events!"
 msgstr ""
-"Koe tulevien festivaaliemme tunnelma monipuolisen musiikin, taiteen ja "
-"kulttuurin parissa. Älä jää paitsi näistä unohtumattomista tapahtumista!"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_card_offset
@@ -721,9 +613,6 @@ msgid ""
 "and services. Whether you're into concerts or recordings, we bring the best "
 "of the music world to you."
 msgstr ""
-"Koe live-musiikin taika ja löydä uusia soundeja tapahtumiemme ja "
-"palveluidemme kautta. Olitpa sitten kiinnostunut konserteista tai "
-"äänitteistä, me tuomme musiikkimaailman parhaat puolet luoksesi."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_striped_center_top
@@ -731,8 +620,6 @@ msgid ""
 "Experience the thrill of live music with our curated events, featuring top "
 "artists and unforgettable performances."
 msgstr ""
-"Koe live-musiikin taika kuratoitujen tapahtumiemme avulla, joissa esiintyvät "
-"huippuartistit."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_key_benefits
@@ -740,8 +627,6 @@ msgid ""
 "Experience unique and special performances that highlight our band's "
 "signature style and offer an unforgettable show."
 msgstr ""
-"Koe ainutlaatuiset esitykset, jotka korostavat yhtyeemme tunnusomaista "
-"tyyliä ja tarjoavat unohtumattoman show'n."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel_intro
@@ -749,8 +634,6 @@ msgid ""
 "Explore more and find the ultimate rock concert experience, crafted to "
 "deliver adrenaline-pumping performances and lasting memories."
 msgstr ""
-"Tutustu tarkemmin ja löydä täydellinen rock-konserttikokemus, joka tarjoaa "
-"adrenaliinipitoisia esityksiä ja pysyviä muistoja."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_freegrid
@@ -759,24 +642,21 @@ msgid ""
 "Whether you’re attending a live concert or browsing our records, we bring "
 "the best of sound and artistry to you."
 msgstr ""
-"Tutustu musiikin moninaiseen maailmaan kuratoitujen tapahtumien ja "
-"kokoelmien avulla. Osallistutpa live-konserttiin tai selailet levyjämme, "
-"tuomme luoksesi äänen ja taiteellisuuden parhaat puolet."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_unveil
 msgid "Feel the Beat"
-msgstr "Tunne rytmi"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_card_offset
 msgid "Feel the rhythm, live the music."
-msgstr "Tunne rytmi, elä musiikin tahdissa."
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel_intro
 msgid "Feel the rock vibe"
-msgstr "Tunne rock-tunnelma sielussasi"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
@@ -784,13 +664,11 @@ msgid ""
 "From the 12th to the 17th of August, come and enjoy the atmosphere at the "
 "Miraillet Festival. Discover the line up below."
 msgstr ""
-"Tule nauttimaan Miraillet-festivaalin tunnelmasta 12.-17. elokuuta. Tutustu "
-"kokoonpanoon alla."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_key_images
 msgid "Fun activities and games for the whole family"
-msgstr "Hauskoja aktiviteetteja ja pelejä koko perheelle"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_features_wall
@@ -798,38 +676,36 @@ msgid ""
 "Get closer to the action with VIP tickets offering premium seating, "
 "backstage passes, and special amenities."
 msgstr ""
-"Pääset lähemmäs toimintaa VIP-lippujen avulla, jotka tarjoavat "
-"ensiluokkaiset istumapaikat, kulkuluvat ja erityisiä mukavuuksia."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_text_cover
 msgid "Get started"
-msgstr "Aloita"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_three_columns
 msgid "Get up close with the artists."
-msgstr "Pääset lähelle artisteja."
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_call_to_action
 msgid "Get your ticket"
-msgstr "Hanki lippusi"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "Get your ticket now"
-msgstr "Hanki lippusi nyt"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "Global Film Festival"
-msgstr "Maailmanlaajuinen elokuvafestivaali"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_media_list
 msgid "Go to the <br/>Miraillet Festival"
-msgstr "Vieraile <br/>Miraillet-festivaalilla"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_cards_grid
@@ -837,34 +713,31 @@ msgid ""
 "Grab your exclusive festival merch, from stylish apparel to unique "
 "souvenirs, so you can remember your festival experience in style."
 msgstr ""
-"Hanki eksklusiiviset festivaalituotteet, tyylikkäistä vaatteista "
-"ainutlaatuisiin matkamuistoihin, jotta voit muitella festivaalikokemuksesi "
-"tyylikkäästi."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
 msgid "Guitarist"
-msgstr "Kitaristi"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_cards_grid
 msgid "High-Quality Music Experience"
-msgstr "Laadukas musiikkikokemus"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_list
 msgid "Hoodies"
-msgstr "Hupparit"
+msgstr ""
 
 #. module: theme_notes
 #: model:ir.model.fields,field_description:theme_notes.field_theme_utils__id
 msgid "ID"
-msgstr "Tunnus"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_freegrid
 msgid "Immerse Yourself in the World of Music"
-msgstr "Uppoudu musiikin maailmaan"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_cards_grid
@@ -872,33 +745,28 @@ msgid ""
 "Immerse yourself in an exceptional audio journey with high-quality sound "
 "systems and curated playlists, ensuring an unforgettable musical experience."
 msgstr ""
-"Uppoudu poikkeukselliselle äänimatkalle laadukkaiden "
-"äänentoistojärjestelmien ja kuratoitujen soittolistojen avulla, jotka "
-"takaavat unohtumattoman musiikkielämyksen."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_features_wall
 msgid ""
-"Immerse yourself in diverse music genres and vibrant cultural experiences at "
-"our curated music festivals."
+"Immerse yourself in diverse music genres and vibrant cultural experiences at"
+" our curated music festivals."
 msgstr ""
-"Uppoudu monipuolisiin musiikkigenreihin ja elinvoimaisiin "
-"kulttuurikokemuksiin kuratoiduilla musiikkifestivaaleillamme."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_cards_grid
 msgid "Incredible Lineup of Artists"
-msgstr "Uskomaton kokoonpano"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "International Art Expo"
-msgstr "Kansainvälinen taidenäyttely"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_basic
 msgid "Iris"
-msgstr "Iiris"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
@@ -906,40 +774,38 @@ msgid ""
 "James Mitchell is a dynamic lead singer known for his captivating stage "
 "presence and powerful vocals."
 msgstr ""
-"James Mitchell on dynaaminen laulaja, joka tunnetaan vangitsevasta "
-"lavaesiintymisestään ja voimakkaasta laulustaan."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "Jazz &amp; Blues Gala"
-msgstr "Jazz &amp; Blues-gaala"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_key_images
 msgid "Join the Celebration at Our Festival"
-msgstr "Liity juhlaan festivaalillamme"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_unveil
 msgid ""
 "Join the celebration with electrifying performances and unforgettable "
 "moments."
-msgstr "Osallistu esityksten ja unohtumattomien hetkien juhlaan."
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_image_hexagonal
 msgid "Join the<br/>celebration"
-msgstr "Liity<br/>juhlaan"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_call_to_action
 msgid "Join us and make this weekend unforgettable!"
-msgstr "Tule mukaan ja tee tästä viikonlopusta unohtumaton!"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team
 msgid "Joseris"
-msgstr "Joseris"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team
@@ -950,30 +816,26 @@ msgid ""
 "encompass alternative, electronica, electro-pop, rock, and a mixture of "
 "others."
 msgstr ""
-"Joseris on belgialainen yhtye, joka perustettiin lokakuussa 1995. Vaikka "
-"heidät alun perin luokiteltiin trip hop -yhtyeeksi, he laajensivat nopeasti "
-"soundiaan niin, että heitä ei enää voitu kuvata yhdellä genrellä, vaan he "
-"ovat pikemminkin alternative-, elektroniikka-, elektropop-, rock-yhtye."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "July 10-12, 2024"
-msgstr "10.-12. heinäkuuta 2024"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_basic
 msgid "Lead Singer"
-msgstr "Päälaulaja"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
 msgid "Lead singer"
-msgstr "Päälaulaja"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_intro_pill
 msgid "Listen now"
-msgstr "Kuuntele nyt"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_empowerment
@@ -981,119 +843,111 @@ msgid ""
 "Listen to our latest tracks   <i class=\"fa fa-long-arrow-right\" "
 "role=\"img\"/>"
 msgstr ""
-"Kuuntele uusimmat kappaleemme  <i class=\"fa fa-long-arrow-right\" "
-"role=\"img\"/>"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_split_intro
 msgid "Listen to your<br/>favorite tunes"
-msgstr "Kuuntele <br/>lempikappaleesi"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_features_wall
 msgid "Live Concert Experiences"
-msgstr "Live-konserttikokemukset"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_key_images
 msgid "Live performances by top artists and bands"
-msgstr "Huippuartistien ja -yhtyeiden live-esityksiä"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_call_to_action
 msgid "Live the Miraillet <br/>Festival experience"
-msgstr "Koe Miraillet <br/>-festivaalin elämys"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
 msgid "Meet our talents"
-msgstr "Tutustu talentteihimme"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_basic
 msgid "Mich"
-msgstr "Mich"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team
 msgid "Mich Starck"
-msgstr "Mich Starck"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team
 msgid ""
-"Mich Starck is a French DJ, record producer and songwriter. He has sold over "
-"nine million albums and thirty million singles worldwide. In 2011, he was "
+"Mich Starck is a French DJ, record producer and songwriter. He has sold over"
+" nine million albums and thirty million singles worldwide. In 2011, he was "
 "voted as the number one DJ in the DJ Mag Top 100 DJs poll."
 msgstr ""
-"Mich Starck on ranskalainen DJ, tuottaja ja lauluntekijä. Hän on myynyt "
-"maailmanlaajuisesti yli yhdeksän miljoonaa albumia ja kolmekymmentä "
-"miljoonaa singleä. Vuonna 2011 hänet äänestettiin DJ Mag Top 100 DJs "
-"-äänestyksessä DJ Magin ykköseksi."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
 msgid "Miraillet Festival"
-msgstr "Miraillet-festivaali"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_big_number
 msgid "Monthly listeners on streaming platforms"
-msgstr "Kuukausittaiset kuuntelijat suoratoistoalustoilla"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
 msgid "More Info"
-msgstr "Lisätiedot"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_media_list
 msgid "More info"
-msgstr "Lisätiedot"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_quadrant
 msgid "Music &amp; Concerts"
-msgstr "Musiikki ja konsertit"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_card_offset
 msgid "Music That Moves You"
-msgstr "Musiikki, joka liikuttaa sinua"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_shape_image
 msgid "Music performances"
-msgstr "Musiikkiesitykset"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "New Orleans, Louisiana"
-msgstr "New Orleans, Louisiana"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "November 10-14, 2024"
-msgstr "10.-14. marraskuuta 2024"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "October 20-22, 2024"
-msgstr "20.-22. lokakuuta 2024"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
 msgid ""
-"Olivia Reed is a talented singer-songwriter famous for her soulful voice and "
-"heartfelt lyrics."
+"Olivia Reed is a talented singer-songwriter famous for her soulful voice and"
+" heartfelt lyrics."
 msgstr ""
-"Olivia Reed on lahjakas laulaja-lauluntekijä, joka tunnetaan sielukkaasta "
-"äänestään ja sydäntä koskettavista sanoituksistaan."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_images_mosaic
 msgid "Our New Festival Highlights"
-msgstr "Uudet festivaalin kohokohdat"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_key_benefits
@@ -1101,99 +955,97 @@ msgid ""
 "Our team is available around the clock to handle bookings and logistics, "
 "ensuring a smooth and hassle-free process."
 msgstr ""
-"Tiimimme on käytettävissä ympäri vuorokauden varausten ja logistiikan "
-"hoitamiseksi, mikä takaa sujuvan ja vaivattoman prosessin."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_masonry_block_default_template
 msgid "Paris"
-msgstr "Pariisi"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "Paris edition"
-msgstr "Pariisin versio"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "Paris, France"
-msgstr "Pariisi, Ranska"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
 msgid "Rapper"
-msgstr "Räppäri"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
 msgid "Recent Editions"
-msgstr "Viimeisimmät versiot"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "Red Rocks Amphitheatre, Colorado"
-msgstr "Red Rocks Amphitheatre, Colorado"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "Regular ticket"
-msgstr "Tavallinen lippu"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "Regular ticket + hotel"
-msgstr "Tavallinen lippu + hotelli"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "Rock On Festival"
-msgstr "Rock On -festivaali"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_empowerment
 msgid "Rock out with your favorite band on tour"
-msgstr "Rokkaa suosikkibändisi kanssa kiertueella"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_numbers
 msgid "Scenes outdoor &amp; indoor"
-msgstr "Kohtaukset ulkona &amp; sisätiloissa"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_quadrant
 msgid "See Events"
-msgstr "Katso tapahtumat"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_striped_center_top
 msgid "See Upcoming Events"
-msgstr "Katso tulevat tapahtumat"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "September 5-7, 2024"
-msgstr "5.-7. syyskuuta 2024"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_text_cover
 msgid "Share Music.<br/>Effortlessly."
-msgstr "Jaa musiikkia.<br/>Vaivattomasti."
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_basic
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
 msgid "Singer"
-msgstr "Laulaja"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
 msgid "Singer &amp; Songwriter"
-msgstr "Laulaja &amp; lauluntekijä"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_basic
 msgid "Singer / Song Writer"
-msgstr "Laulaja / lauluntekijä"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
@@ -1201,32 +1053,28 @@ msgid ""
 "Sophia Benett is a renowned underground techno DJ celebrated for her "
 "innovative sound."
 msgstr ""
-"Sophia Benett on tunnettu underground-tekno-DJ, joka on tunnettu "
-"innovatiivisesta soundistaan."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "Summer Music Fest"
-msgstr "Kesän musiikkifestivaali"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_list
 msgid "Sunglasses"
-msgstr "Aurinkolasit"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_list
 msgid "T-shirts"
-msgstr "T-paidat"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
 msgid ""
-"Talented musicians and performers who are dedicated to bringing you the best "
-"in live music."
+"Talented musicians and performers who are dedicated to bringing you the best"
+" in live music."
 msgstr ""
-"Lahjakkaita muusikoita ja esiintyjiä, jotka ovat omistautuneet tarjoamaan "
-"sinulle parasta live-musiikkia."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_text_image
@@ -1236,27 +1084,19 @@ msgid ""
 "innovative sound. As they honed their craft, their fanbase grew, fueled by "
 "word-of-mouth buzz and their undeniable chemistry on stage."
 msgstr ""
-"Alkuaikoinaan he soittivat pieniä keikkoja paikallisilla klubeilla, joissa "
-"he saivat nopeasti mainetta energisistä esityksistään ja innovatiivisesta "
-"soundistaan. Kun he hioivat taitojaan, heidän fanikuntansa kasvoi ja suusta "
-"suuhun suositusten ja kiistattoman lavakemiansa ansiosta."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_image_text
 msgid ""
 "Their music isn't just heard—it's felt, combining powerful melodies with "
-"deeply relatable lyrics. Each song connects on a personal level, while their "
-"unmatched musicianship drives every note forward."
+"deeply relatable lyrics. Each song connects on a personal level, while their"
+" unmatched musicianship drives every note forward."
 msgstr ""
-"Heidän musiikkinsa ei tavoita vain korvia - se löytää tiensä sieluun saakka "
-"ja siinä yhdistyvät voimakkaat melodiat ja syvät sanoitukset. Jokainen "
-"kappale tuntuu henkilökohtaisella tasolla, kun taas heidän vertaansa vailla "
-"oleva taitonsa vie jokaista nuottia eteenpäin."
 
 #. module: theme_notes
 #: model:ir.model,name:theme_notes.model_theme_utils
 msgid "Theme Utils"
-msgstr "Suunnittelutyökalut"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
@@ -1264,54 +1104,46 @@ msgid ""
 "Three days of electrifying rock performances at the iconic Red Rocks, with "
 "stunning views and a packed lineup of legendary bands."
 msgstr ""
-"Kolme päivää sähköisiä rock-esityksiä ikonisella Red Rocks "
-"-tapahtumapaikalla; upeat näkymät ja legendaaristen bändien runsas "
-"esiintyjäkaarti."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_media_list
 msgid "Ticketing <br/>&amp; timetables"
-msgstr "Lipunmyynti <br/> ja aikataulut"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
 msgid ""
 "Tickets will be on sale soon. Do not miss our 6 Days Pass. Free camping!"
 msgstr ""
-"Liput tulevat pian myyntiin. Älä unohda kuuden päivän lippua. Ilmainen "
-"leiriytyminen!"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "Tokyo, Japan"
-msgstr "Tokio, Japani"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_basic
 msgid "Tony"
-msgstr "Tony"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team
 msgid ""
 "Tony is praised for the quality of his flow and beats but often criticised "
-"because of the controversial nature of his lyrics. He has also established a "
-"label, and developed a line of jewellery."
+"because of the controversial nature of his lyrics. He has also established a"
+" label, and developed a line of jewellery."
 msgstr ""
-"Tony on saanut kiitosta flow'nsa ja biittiensä laadusta, mutta häntä "
-"kritisoidaan usein hänen sanoitustensa kiistanalaisuudesta. Hän on myös "
-"perustanut levy-yhtiön ja kehittänyt korumalliston."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "Toronto, Canada"
-msgstr "Toronto, Kanada"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_three_columns
 msgid "Tour Grand Final."
-msgstr "Kiertueen loppuhuipentuma."
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_image_title
@@ -1320,24 +1152,21 @@ msgid ""
 "powerful performances meet raw energy. Elevate your vibe with shows that "
 "blend intense music and unforgettable moments seamlessly."
 msgstr ""
-"Muunna kokemuksesi sähköisellä rockfestivaalillamme, jossa voimakkaat "
-"esitykset kohtaavat raa'an energian. Kohota tunnelmaa esityksillä, joissa "
-"intensiivinen musiikki ja unohtumattomat hetket yhdistyvät saumattomasti."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_wavy_grid
 msgid "Unforgettable Moments"
-msgstr "Unohtumattomia hetkiä"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_features_wall
 msgid "Unique Music Festivals"
-msgstr "Ainutlaatuiset musiikkifestivaalit"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_striped_center_top
 msgid "Unleash the Power of Live Music"
-msgstr "Vapauta live-musiikin voima"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_framed_intro
@@ -1346,35 +1175,31 @@ msgid ""
 "o_text_highlight_underline\" style=\"--text-highlight-width: 6px; --text-"
 "highlight-color: var(--o-color-1);\">Ultimate</span> Music Experience"
 msgstr ""
-"Irrottautuminen ja rentoutuminen: The <span class=\"o_text_highlight "
-"o_translate_inline o_text_highlight_underline\" style=\"--text-highlight-"
-"width: 6px; --text-highlight-color: var(--o-color-1);\">Ultimate</span> "
-"Music Experience"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "Upcoming Festivals"
-msgstr "Tulevat festivaalit"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "Upcoming events"
-msgstr "Tulevat tapahtumat"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "VIP ticket"
-msgstr "VIP-lippu"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_cta_box
 msgid "View the agenda"
-msgstr "Näytä ohjelma"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_list
 msgid "Vinyls"
-msgstr "Vinyylit"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_wavy_grid
@@ -1383,9 +1208,6 @@ msgid ""
 "memories. Our team ensures a thrilling and immersive experience from "
 "beginning to end."
 msgstr ""
-"Suunnittelemme poikkeuksellisia tapahtumia ja aktiviteetteja, jotka on "
-"suunniteltu luomaan pysyviä muistoja. Tiimimme takaa jännittävän ja "
-"mukaansatempaavan kokemuksen alusta loppuun."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_key_benefits
@@ -1393,34 +1215,29 @@ msgid ""
 "We craft personalized setlists that match the mood and theme of your event, "
 "delivering a memorable musical experience."
 msgstr ""
-"Laadimme yksilöllisiä settilistoja, jotka sopivat tapahtumasi tunnelmaan ja "
-"teemaan ja tarjoavat ikimuistoisen musiikkikokemuksen."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_wavy_grid
 msgid ""
 "We introduce innovative concepts and interactive elements to our events. "
-"Embracing the latest trends, we ensure every activity is fun and captivating "
-"for all guests."
+"Embracing the latest trends, we ensure every activity is fun and captivating"
+" for all guests."
 msgstr ""
-"Otamme käyttöön innovatiivisia konsepteja ja interaktiivisia elementtejä "
-"tapahtumissamme. Uusimpia trendejä omaksumalla varmistamme, että jokainen "
-"aktiviteetti on hauska ja kiehtova kaikille vieraille."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_wavy_grid
 msgid "What we bring to our guests"
-msgstr "Mitä annamme vieraillemme"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_media_list
 msgid "Wheelchair <br/>accessibility"
-msgstr "Pääsy <br/>pyörätuolilla"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_striped_center_top
 msgid "Where music meets passion"
-msgstr "Missä musiikki kohtaa intohimon"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_text_image
@@ -1430,11 +1247,6 @@ msgid ""
 "relentless drive and commitment to making authentic, powerful music have "
 "brought them to where they are today—a band on the brink of rock stardom."
 msgstr ""
-"Jokaisen uuden julkaisun myötä Nova Pulse on jatkanut kehittymistään "
-"kokeilemalla eri genrejä pysyen kuitenkin uskollisena omalle "
-"ainutlaatuiselle tyylilleen. Heidän väsymätön tarmonsa ja sitoutumisensa "
-"autenttisen, voimakkaan musiikin tekemiseen ovat kantaneet heitä ja nyt "
-"bändi on rock-tähteyden kynnyksellä."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_image_text
@@ -1442,8 +1254,6 @@ msgid ""
 "With electrifying performances and a sound that's both raw and innovative, "
 "they bring an energy that keeps fans captivated from start to finish."
 msgstr ""
-"Sähköiset esitykset ja ääni, joka on raaka ja innovatiivinen. He tuovat "
-"energian, joka vangitsee fanit."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_wavy_grid
@@ -1451,9 +1261,6 @@ msgid ""
 "With extensive expertise and a commitment to high standards, we offer top-"
 "notch performances and attractions that keep you entertained and engaged."
 msgstr ""
-"Laajan asiantuntemuksen ja korkeisiin standardeihin sitoutumisen ansiosta "
-"voimme tarjota huippuluokan esityksiä ja nähtävyyksiä, jotka pitävät "
-"viihdyttävät ja vangitsevat sinut."
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_wavy_grid
@@ -1462,22 +1269,19 @@ msgid ""
 "staff is here to support you, making sure your festival experience is "
 "enjoyable and sustainable."
 msgstr ""
-"Nautintosi ja planeettamme yhvinvointi ovat ensisijaisia tavoitteita. "
-"Ystävällinen henkilökuntamme tukee sinua ja varmistaa, että "
-"festivaalikokemuksesi on nautinnollinen ja ekologinen."
 
 #. module: theme_notes
 #. odoo-javascript
 #: code:addons/theme_notes/static/src/js/tour.js:0
 msgid "width"
-msgstr "leveys"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "✽  Arts &amp; Culture Festivals"
-msgstr "✽   Taide- &amp; kulttuurifestivaalit"
+msgstr ""
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "✽  Music Festivals"
-msgstr "✽  Musiikkifestivaalit"
+msgstr ""
