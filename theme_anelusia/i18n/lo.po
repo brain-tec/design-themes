@@ -1,28 +1,19 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# * theme_anelusia
+# 	* theme_anelusia
 #
-# Translators:
-# Maria Boyadjieva <marabo2000@gmail.com>, 2024
-# Petko Karamotchev, 2024
-# Milena Georgieva, 2024
-# Martin Dinovski, 2025
-# Weblate <noreply-mt-weblate@weblate.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-07 13:29+0000\n"
-"PO-Revision-Date: 2026-05-13 14:25+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
-"Language-Team: Bulgarian <https://translate.odoo.com/projects/odoo-18/"
-"theme_anelusia/bg/>\n"
-"Language: bg\n"
+"PO-Revision-Date: 2024-10-07 13:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17\n"
+"Plural-Forms: \n"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_quotes_carousel_minimal
@@ -47,7 +38,7 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
 msgid "$120.00"
-msgstr "$120.00"
+msgstr ""
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
@@ -261,7 +252,7 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cover
 msgid "Discover"
-msgstr "Открийте"
+msgstr ""
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_key_images
@@ -277,7 +268,7 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_shape_image
 msgid "Discover more"
-msgstr "Открийте повече"
+msgstr ""
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
@@ -428,9 +419,6 @@ msgid ""
 "of the trends. From innovative materials to cutting-edge designs, we offer "
 "products that combine style and performance."
 msgstr ""
-"Разгледайте нашата колекция от модни и спортни облекла, създадени да ви "
-"държат в тенденциите. От иновативни материали до авангардни дизайни, ние "
-"предлагаме продукти, които съчетават стил и ефективност."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_shape_image
@@ -594,7 +582,7 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_media_list
 msgid "Read more"
-msgstr "Прочетете повече"
+msgstr ""
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_key_images
@@ -649,8 +637,6 @@ msgid ""
 "Sharp and sophisticated tailored blazer, crafted from high-quality wool, "
 "featuring structured shoulders and a slim fit."
 msgstr ""
-"Елегантен и изтънчен сако по мярка, изработено от висококачествена вълна, с "
-"подчертани рамене и прилепваща кройка."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_striped_center_top
@@ -837,7 +823,7 @@ msgstr ""
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_big_number
 msgid "happy customers"
-msgstr "Щастливи клиенти"
+msgstr ""
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_pricelist_boxed
