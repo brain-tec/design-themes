@@ -13,7 +13,6 @@
 
         'views/snippets/s_striped_top.xml',
         'views/snippets/s_cta_box.xml',
-        'views/snippets/s_countdown.xml',
         'views/snippets/s_company_team_detail.xml',
         'views/snippets/s_contact_info.xml',
         'views/snippets/s_parallax.xml',
@@ -114,7 +113,6 @@
         'views/snippets/s_form_aside.xml',
         'views/snippets/s_numbers_framed.xml',
         'views/snippets/s_company_team_card.xml',
-        'views/new_page_template.xml',
     ],
     'images': [
         'static/description/artists_description.webp',
