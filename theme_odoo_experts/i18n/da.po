@@ -7,13 +7,14 @@
 # Martin Trigaux, 2024
 #
 # Weblate <noreply-mt-weblate@weblate.org>, 2025, 2026.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2026-06-20 18:40+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-27 18:41+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Danish <https://translate.odoo.com/projects/odoo-18/"
 "theme_odoo_experts/da/>\n"
 "Language: da\n"
@@ -361,8 +362,8 @@ msgid ""
 "Expert advice on business planning, market analysis, and competitive "
 "strategy to help your company achieve its goals."
 msgstr ""
-"Ekspertrådgivning om forretningsplanlægning, markedsanalyse og "
-"konkurrencestrategi, der kan hjælpe din virksomhed med at nå sine mål."
+"Ekspertrådgivning i forretningsplanlægning, markedsanalyse og "
+"konkurrencestrategi, der understøtter din virksomheds målopfyldelse."
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_key_images
@@ -443,7 +444,7 @@ msgstr "Vi driver fremtiden gennem innovation"
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_mockup_image
 msgid "Learn more"
-msgstr "Lær mere"
+msgstr "Få mere at vide"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_cta_box
@@ -683,7 +684,7 @@ msgstr ""
 #. module: theme_odoo_experts
 #: model:ir.model,name:theme_odoo_experts.model_theme_utils
 msgid "Theme Utils"
-msgstr "Tema værktøjer"
+msgstr "Designværktøjer"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_striped_center_top

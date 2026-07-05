@@ -6,13 +6,14 @@
 # Martin Trigaux, 2024
 #
 # Weblate <noreply-mt-weblate@weblate.org>, 2025, 2026.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2026-06-20 18:40+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-27 18:42+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Danish <https://translate.odoo.com/projects/odoo-18/"
 "theme_monglia/da/>\n"
 "Language: da\n"
@@ -579,7 +580,7 @@ msgstr "KØB BILLETTER NU"
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_text_cover
 msgid "Get started"
-msgstr "Kom igang"
+msgstr "Kom i gang"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
@@ -829,7 +830,7 @@ msgstr "Theia Hayward"
 #. module: theme_monglia
 #: model:ir.model,name:theme_monglia.model_theme_utils
 msgid "Theme Utils"
-msgstr "Tema værktøjer"
+msgstr "Designværktøjer"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_features_wall
