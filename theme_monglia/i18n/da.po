@@ -6,13 +6,14 @@
 # Martin Trigaux, 2023
 # Sanne Kristensen <sanne@vkdata.dk>, 2024
 # Weblate <noreply-mt-weblate@weblate.org>, 2026.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 17.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-28 12:23+0000\n"
-"PO-Revision-Date: 2026-03-07 17:40+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-23 16:34+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Danish <https://translate.odoo.com/projects/odoo-17/"
 "theme_monglia/da/>\n"
 "Language: da\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_cover
@@ -30,7 +31,7 @@ msgstr "21/22 December"
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_call_to_action
 msgid "<b>APPLY FOR OUR V.I.P. CARD</b>"
-msgstr ""
+msgstr "<b>ANSØG OM VORES V.I.P.-KORT</b>"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_image_text
@@ -38,6 +39,8 @@ msgid ""
 "<font style=\"background-image: linear-gradient(135deg, var(--o-color-1) "
 "25%, var(--o-color-2) 100%);\" class=\"text-gradient\">Mixology</font>"
 msgstr ""
+"<font style=\"background-image: linear-gradient(135deg, var(--o-color-1) "
+"25%, var(--o-color-2) 100%);\" class=\"text-gradient\">Mixologi</font>"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_text_image
@@ -45,6 +48,8 @@ msgid ""
 "<font style=\"background-image: linear-gradient(135deg, var(--o-color-1) "
 "25%, var(--o-color-2) 100%);\" class=\"text-gradient\">Music is magic</font>"
 msgstr ""
+"<font style=\"background-image: linear-gradient(135deg, var(--o-color-1) "
+"25%, var(--o-color-2) 100%);\" class=\"text-gradient\">Musik er magi</font>"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_title
@@ -75,6 +80,9 @@ msgid ""
 "the largest concert venue in Europe. Book your tickets now, there won't be "
 "room for everybody."
 msgstr ""
+"DJ’er og elektroniske kunstnere mødes hvert år til Electro Dance Festival i "
+"Europas største koncertsal. Bestil dine billetter nu, for der er ikke plads "
+"nok til alle."
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_image_text
@@ -82,6 +90,8 @@ msgid ""
 "Every evening, renowned mixologists take turns preparing the best cocktails "
 "for you. Drink responsibly."
 msgstr ""
+"Hver aften skiftes anerkendte mixologer til at lave de bedste cocktails til "
+"dig. Drik ansvarligt."
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_media_list
@@ -90,6 +100,9 @@ msgid ""
 "festivals to prove it. Grab your cowboy hat and boots because we've put "
 "together the best country bands in the USA."
 msgstr ""
+"Alle ved, at USA er countrymusikkens hjemland, og der er masser af "
+"festivaler, der beviser det. Tag din cowboyhat og dine støvler på, for vi "
+"har samlet de bedste countrybands i USA."
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_text_block
@@ -114,7 +127,7 @@ msgstr "Lær mere"
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_carousel
 msgid "Martina Clarck"
-msgstr ""
+msgstr "Martina Clarck"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_cover
@@ -126,7 +139,7 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_media_list
 msgid "Old Town Road"
-msgstr ""
+msgstr "Old Town Road"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_text_image
@@ -134,16 +147,18 @@ msgid ""
 "Open 24/7, the club welcomes you and your friends in a relaxed and friendly "
 "atmosphere."
 msgstr ""
+"Klubben har åbent døgnet rundt og byder dig og dine venner velkommen i en "
+"afslappet og venlig atmosfære."
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_media_list
 msgid "Smack My Band Up"
-msgstr ""
+msgstr "Smack My Band Up"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_media_list
 msgid "Sodade Club"
-msgstr ""
+msgstr "Sodade Club"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_media_list
@@ -151,11 +166,13 @@ msgid ""
 "Sodade is a beautiful concept that is difficult to put into words, but can "
 "be experienced by enjoying the diverse range of music on offer."
 msgstr ""
+"Sodade er et vidunderligt koncept, der er svært at sætte ord på, men man kan "
+"opleve det, når man nyder det mangfoldige musikudvalg, der tilbydes."
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_call_to_action
 msgid "The vip card allows you to benefit from tickets before everyone else."
-msgstr ""
+msgstr "Med VIP-kortet kan du få adgang til billetter før alle andre."
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_three_columns
@@ -165,7 +182,7 @@ msgstr "Theia Hayward"
 #. module: theme_monglia
 #: model:ir.model,name:theme_monglia.model_theme_utils
 msgid "Theme Utils"
-msgstr "Tema værktøjer"
+msgstr "Designværktøjer"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_carousel
@@ -173,6 +190,8 @@ msgid ""
 "This is the first full-length studio release in seven years for the British "
 "singer-songwriter."
 msgstr ""
+"Dette er den britiske singer-songwriters første fuldlængde studieudgivelse i "
+"syv år."
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_three_columns

@@ -1,23 +1,27 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_bookstore
-# 
+# * theme_bookstore
+#
 # Translators:
 # Martin Trigaux, 2023
-# 
+#
+# Weblate <noreply-mt-weblate@weblate.org>, 2026.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 17.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-28 12:23+0000\n"
-"PO-Revision-Date: 2023-10-27 15:39+0000\n"
-"Last-Translator: Martin Trigaux, 2023\n"
-"Language-Team: Danish (https://app.transifex.com/odoo/teams/41243/da/)\n"
+"PO-Revision-Date: 2026-06-23 16:34+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Danish <https://translate.odoo.com/projects/odoo-17/"
+"theme_bookstore/da/>\n"
+"Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: da\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_text_image
@@ -25,6 +29,8 @@ msgid ""
 "<br/>\n"
 "        Discover all the publications. There is probably your next favorite book amoung them."
 msgstr ""
+"<br/>\n"
+"        Oplev alle udgivelserne. Din næste yndlingsbog er sikkert blandt dem."
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_image_text
@@ -32,11 +38,14 @@ msgid ""
 "<br/>\n"
 "        Discover the history of Belgium in this well-documented book with many illustrations and testimonials."
 msgstr ""
+"<br/>\n"
+"        Oplev Belgiens historie i denne veldokumenterede bog med mange "
+"illustrationer og vidnesbyrd."
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_three_columns
 msgid "A Belgian Story"
-msgstr ""
+msgstr "En belgisk historie"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_numbers
@@ -46,7 +55,7 @@ msgstr "Fantastiske sider"
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_three_columns
 msgid "At the Mars conquest"
-msgstr ""
+msgstr "Erobringen af Mars"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_numbers
@@ -56,17 +65,17 @@ msgstr "Smukke snippets"
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
 msgid "Biographies"
-msgstr ""
+msgstr "Biografier"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_call_to_action
 msgid "Browse collection"
-msgstr ""
+msgstr "Gennemse samlingen"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_call_to_action
 msgid "Browse through <br/>our complete library"
-msgstr ""
+msgstr "Gå på opdagelse i <br/>hele vores bibliotek"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_banner
@@ -81,7 +90,7 @@ msgstr "Opdag mere"
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_picture
 msgid "Discover our <br/>limited editions"
-msgstr ""
+msgstr "Oplev vores <br/>begrænsede oplag"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_three_columns
@@ -89,21 +98,23 @@ msgid ""
 "Discover the history of Belgium in this well-documented book with many "
 "illustrations and testimonials."
 msgstr ""
+"Udforsk Belgiens historie i denne omfattende bog med mange billeder og "
+"øjenvidneberetninger."
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
 msgid "Discover unknown universes"
-msgstr ""
+msgstr "Opdag ukendte universer"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_picture
 msgid "Don't rely on a book's cover,"
-msgstr ""
+msgstr "Lad dig ikke narre af bogens omslag,"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
 msgid "Enjoy your fears"
-msgstr ""
+msgstr "Nyd frygten"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_picture
@@ -111,16 +122,18 @@ msgid ""
 "Explore our top-end Collector's Editions. <br/>Signed and limited tributes "
 "to some of the most outstanding writers of all time."
 msgstr ""
+"Oplev vores eksklusive Collector’s Editions. <br/>Signerede og begrænsede "
+"udgaver til ære for nogle af alle tiders mest betydningsfulde forfattere."
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
 msgid "Horror"
-msgstr ""
+msgstr "Gyser"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_cover
 msgid "Immerse yourself <br/>in original universes"
-msgstr ""
+msgstr "Fordyb dig <br/>i originale universer"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_image_text
@@ -129,16 +142,18 @@ msgid ""
 "Learn about the difficulties encountered by NASA engineers in sending the "
 "first men to Mars."
 msgstr ""
+"Læs mere om de udfordringer, som NASA-ingeniørerne stødte på i forbindelse "
+"med at sende de første mennesker til Mars."
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
 msgid "Meet great people"
-msgstr ""
+msgstr "Mød fantastiske mennesker"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_image_text
 msgid "Once upon a time..."
-msgstr ""
+msgstr "Der var engang ..."
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_numbers
@@ -148,17 +163,17 @@ msgstr "Enestående billeder"
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_text_image
 msgid "Probably your next <br/>favorite book"
-msgstr ""
+msgstr "Sandsynligvis din næste <br/>favoritbog"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_three_columns
 msgid "Re-edition"
-msgstr ""
+msgstr "Genudgivelse"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
 msgid "Read the best love stories"
-msgstr ""
+msgstr "Læs de bedste kærlighedshistorier"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_title
@@ -168,12 +183,12 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
 msgid "Romance"
-msgstr ""
+msgstr "Romance"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_masonry_block_default_template
 msgid "Science fiction"
-msgstr ""
+msgstr "Science fiction"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_banner
@@ -186,11 +201,13 @@ msgid ""
 "The first re-edition of this Latin dictionary, from 1460. Printed originally"
 " on the Gutenberg press."
 msgstr ""
+"Det første genoptryk af denne latinske ordbog fra år 1460. Oprindeligt trykt "
+"på Gutenbergs trykpresse."
 
 #. module: theme_bookstore
 #: model:ir.model,name:theme_bookstore.model_theme_utils
 msgid "Theme Utils"
-msgstr "Tema værktøjer"
+msgstr "Designværktøjer"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_numbers
@@ -200,16 +217,16 @@ msgstr "Nyttige indstillinger"
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_product_list
 msgid "View the book"
-msgstr ""
+msgstr "Se bogen"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_picture
 msgid "discover more about it"
-msgstr ""
+msgstr "læs mere om det"
 
 #. module: theme_bookstore
 #. odoo-javascript
 #: code:addons/theme_bookstore/static/src/js/tour.js:0
 #, python-format
 msgid "width"
-msgstr ""
+msgstr "bredde"

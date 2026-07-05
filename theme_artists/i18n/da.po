@@ -6,13 +6,14 @@
 # Martin Trigaux, 2023
 # Sanne Kristensen <sanne@vkdata.dk>, 2024
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 17.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-28 12:23+0000\n"
-"PO-Revision-Date: 2025-12-20 17:40+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-23 16:34+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Danish <https://translate.odoo.com/projects/odoo-17/"
 "theme_artists/da/>\n"
 "Language: da\n"
@@ -20,12 +21,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel
 msgid "<b>Painting concept / April 2021</b>"
-msgstr ""
+msgstr "<b>Malerkoncept / april 2021</b>"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel
@@ -50,7 +51,7 @@ msgstr "Om mig"
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel
 msgid "Aquitani"
-msgstr ""
+msgstr "Aquitani"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_comparisons
@@ -71,22 +72,22 @@ msgstr "Kontakt mig for at besøge mit atelier."
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
 msgid "Discover"
-msgstr "Opdag"
+msgstr "Se"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_image_text
 msgid "Discover <br/>my works"
-msgstr ""
+msgstr "Se <br/>mine værker"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_cover
 msgid "Emotions <br/>through the colors"
-msgstr ""
+msgstr "Følelser <br/>gennem farverne"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_banner
 msgid "Emotions through the colors"
-msgstr ""
+msgstr "Følelser gennem farverne"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
@@ -94,6 +95,8 @@ msgid ""
 "Formerly a corporate accountant, I started a professional transition 10 "
 "years ago."
 msgstr ""
+"Jeg har tidligere arbejdet som regnskabsmedarbejder i en virksomhed og "
+"skiftede karriere for 10 år siden."
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
@@ -103,7 +106,7 @@ msgstr "Her er et udvalg af mine værker, udstillet i mit atelier."
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel
 msgid "Immemorabili"
-msgstr ""
+msgstr "Immemorabili"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_title
@@ -113,7 +116,7 @@ msgstr "Det handler om opfattelse"
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_text_image
 msgid "Let yourself <br/>be transported"
-msgstr ""
+msgstr "Lad dig <br/>føre væk"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
@@ -128,7 +131,7 @@ msgstr "Mere info"
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
 msgid "My artistic process"
-msgstr "Min kunstneriske vej"
+msgstr "Min kunstneriske proces"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
@@ -141,11 +144,13 @@ msgid ""
 "The choice of materials, colours are not insignificant, discover more about "
 "my artistic process."
 msgstr ""
+"Valget af materialer og farver er ikke uden betydning – læs mere om min "
+"kunstneriske proces."
 
 #. module: theme_artists
 #: model:ir.model,name:theme_artists.model_theme_utils
 msgid "Theme Utils"
-msgstr "Tema værktøjer"
+msgstr "Designværktøjer"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel
@@ -158,6 +163,6 @@ msgid ""
 "Welcome to my online home. I invite you to come in, learn more about me and "
 "my work, and stop to embrace the slow pleasure of art and beauty."
 msgstr ""
-"Velkommen til mit online hjem. Jeg inviterer dig til at komme ind, lære mere"
-" om mig og mit arbejde, og stoppe op for at omfavne kunstens og skønhedens "
-"langsomme fornøjelse."
+"Velkommen til mit online hjem. Jeg inviterer dig til at gå på opdagelse, "
+"lære mere om mig og mit arbejde og tage et øjeblik til at nyde kunstens og "
+"skønhedens langsomme glæde."
