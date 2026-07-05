@@ -7,13 +7,14 @@
 # Larissa Manderfeld, 2025
 #
 # "Noemi Pla Garcia (nopl)" <nopl@odoo.com>, 2026.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2026-05-23 22:40+0000\n"
-"Last-Translator: \"Noemi Pla Garcia (nopl)\" <nopl@odoo.com>\n"
+"PO-Revision-Date: 2026-06-27 22:44+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Spanish <https://translate.odoo.com/projects/odoo-s18-3/"
 "theme_real_estate/es/>\n"
 "Language: es\n"
@@ -22,7 +23,7 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n != 0 && n % 1000000 == "
 "0) ? 1 : 2);\n"
-"X-Generator: Weblate 5.17\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_quotes_carousel_minimal
@@ -92,8 +93,8 @@ msgstr ""
 "ensueño. Le guiamos por cada paso del proceso de compra o venta, ofrecemos "
 "soporte personalizado y un gran conocimiento del mercado. No importa si "
 "busca un nuevo hogar o una propiedad de inversión, estamos aquí para "
-"ayudarle a tomar decisiones informadas y y a encontrar un hogar que le guste."
-"<br/><br/>"
+"ayudarle a tomar decisiones informadas y y a encontrar un hogar que le "
+"guste.<br/><br/>"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_cover
@@ -965,8 +966,8 @@ msgstr ""
 msgid ""
 "With a simple click, finding your dream home has never been easier.<br/><br/>"
 msgstr ""
-"Con un simple clic, encontrar la casa de sus sueños nunca ha sido tan fácil."
-"<br/><br/>"
+"Con un simple clic, encontrar la casa de sus sueños nunca ha sido tan "
+"fácil.<br/><br/>"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_wavy_grid

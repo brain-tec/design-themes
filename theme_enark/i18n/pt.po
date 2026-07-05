@@ -3,13 +3,14 @@
 # * theme_enark
 #
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-11-15 22:54+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-27 22:45+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Portuguese <https://translate.odoo.com/projects/odoo-s18-3/"
 "theme_enark/pt/>\n"
 "Language: pt\n"
@@ -17,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_quotes_carousel_minimal
@@ -378,8 +379,7 @@ msgstr "Encontre o espaço perfeito pra você conosco"
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_key_images
 msgid "Flexible leasing options for residential and commercial properties"
-msgstr ""
-"Opções flexíveis de aluguel para propriedades residenciais e comerciais"
+msgstr "Opções flexíveis de aluguel para propriedades residenciais e comerciais"
 
 #. module: theme_enark
 #: model_terms:theme.ir.ui.view,arch:theme_enark.s_cards_grid

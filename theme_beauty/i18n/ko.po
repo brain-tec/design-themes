@@ -1,24 +1,27 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_beauty
+# * theme_beauty
 #
 # Translators:
 # Wil Odoo, 2025
 # Sarah Park, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Sarah Park, 2025\n"
-"Language-Team: Korean (https://app.transifex.com/odoo/teams/41243/ko/)\n"
+"PO-Revision-Date: 2026-06-27 22:43+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Korean <https://translate.odoo.com/projects/odoo-s18-3/"
+"theme_beauty/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_quotes_carousel_minimal
@@ -81,8 +84,8 @@ msgid ""
 msgstr ""
 "<br/>나만의 아름다움이 돋보이게 디자인된 고급 제품으로 새로운 시대를 향해 한 "
 "걸음 나아가세요. 스킨케어를 개선하는 것부터 완벽한 결과물까지, 저희 솔루션은 "
-"빛나는 성공을 위한 토대를 제공합니다. 더 이상 뒤떨어진 루틴에 얽매이지 마세"
-"요.<br/><br/>"
+"빛나는 성공을 위한 토대를 제공합니다. 더 이상 뒤떨어진 루틴에 얽매이지 "
+"마세요.<br/><br/>"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_empowerment
@@ -118,8 +121,8 @@ msgid ""
 "A lightweight, long-lasting foundation that provides full coverage while "
 "allowing your skin to breathe."
 msgstr ""
-"피부가 숨 쉴 수 있으면서도 완벽한 커버력을 자랑하는 가볍고 오래 지속되는 파운"
-"데이션"
+"피부가 숨 쉴 수 있으면서도 완벽한 커버력을 자랑하는 가볍고 오래 지속되는 "
+"파운데이션"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_pricelist_boxed
@@ -320,9 +323,9 @@ msgid ""
 "products. Our experts provide personalized care to help you look and feel "
 "your best every day."
 msgstr ""
-"스킨케어 및 화장품 제품으로 자연스러운 아름다움을 더해 보세요. 전문 직원이 개"
-"인 맞춤형으로 관리하여 매일 최상의 모습과 분위기를 유지할 수 있도록 도와드립"
-"니다."
+"스킨케어 및 화장품 제품으로 자연스러운 아름다움을 더해 보세요. 전문 직원이 "
+"개인 맞춤형으로 관리하여 매일 최상의 모습과 분위기를 유지할 수 있도록 "
+"도와드립니다."
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_unveil
@@ -337,8 +340,8 @@ msgid ""
 "Enhance your radiance and confidence with our carefully curated products "
 "that bring out your natural beauty, every day."
 msgstr ""
-"매일 자연스러운 아름다움을 이끌어낼 수 있도록 엄선된 제품으로 광채와 자신감"
-"을 더욱 높여 보세요"
+"매일 자연스러운 아름다움을 이끌어낼 수 있도록 엄선된 제품으로 광채와 "
+"자신감을 더욱 높여 보세요"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_key_benefits
@@ -742,8 +745,8 @@ msgid ""
 "We provide custom pricing based on the unique needs of your project, "
 "ensuring you receive exceptional design services that fit your budget."
 msgstr ""
-"프로젝트의 고유 요구 사항에 따라 맞춤형으로 가격을 제안하여 예산에 맞춘 뛰어"
-"난 디자인 서비스를 받을 수 있게 지원해 드립니다."
+"프로젝트의 고유 요구 사항에 따라 맞춤형으로 가격을 제안하여 예산에 맞춘 "
+"뛰어난 디자인 서비스를 받을 수 있게 지원해 드립니다."
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_wavy_grid

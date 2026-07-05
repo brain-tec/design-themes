@@ -6,13 +6,14 @@
 # Wil Odoo, 2025
 #
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-11-15 22:53+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-27 22:44+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Thai <https://translate.odoo.com/projects/odoo-s18-3/"
 "theme_anelusia/th/>\n"
 "Language: th\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_quotes_carousel_minimal
@@ -61,11 +62,9 @@ msgid ""
 "experience. Don’t let conventional choices limit your style any longer.<br/"
 "><br/>"
 msgstr ""
-"<br/>ก้าวสู่อนาคตด้วยสไตล์ที่เปิดกว้างของเรา "
-"ซึ่งออกแบบมาเพื่อเฉลิมฉลองตัวตนและความเป็นเอกลักษณ์ของคุณ "
-"ไม่ว่าจะเป็นการเติมเต็มตู้เสื้อผ้าหรือการเปิดรับเทรนด์ใหม่ๆ "
-"คอลเลกชันของเราคือรากฐานของประสบการณ์แฟชั่นที่มีชีวิตชีวา อย่าปล่อยให้ทางเลือกแบบเดิมๆ "
-"จำกัดสไตล์ของคุณอีกต่อไป<br/><br/>"
+"<br/>ก้าวสู่อนาคตด้วยสไตล์ที่เปิดกว้างของเรา ซึ่งออกแบบมาเพื่อเฉลิมฉลองตัวตนและความเป็นเอกลักษ"
+"ณ์ของคุณ ไม่ว่าจะเป็นการเติมเต็มตู้เสื้อผ้าหรือการเปิดรับเทรนด์ใหม่ๆ คอลเลกชันของเราคือรากฐานของ"
+"ประสบการณ์แฟชั่นที่มีชีวิตชีวา อย่าปล่อยให้ทางเลือกแบบเดิมๆ จำกัดสไตล์ของคุณอีกต่อไป<br/><br/>"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_empowerment
@@ -183,8 +182,8 @@ msgid ""
 "A beautiful midi dress with vibrant floral prints, designed with a flowing "
 "skirt and fitted bodice, ideal for summer outings."
 msgstr ""
-"ชุดเดรสยาวปานกลางที่มีดีไซน์สวยงามพร้อมลายดอกไม้สีสันสดใส มาพร้อมกระโปรงและเสื้อรัดรูป "
-"เหมาะสำหรับออกไปเที่ยวในฤดูร้อน"
+"ชุดเดรสยาวปานกลางที่มีดีไซน์สวยงามพร้อมลายดอกไม้สีสันสดใส มาพร้อมกระโปรงและเสื้อรัดรูป เหมาะ"
+"สำหรับออกไปเที่ยวในฤดูร้อน"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_key_images
@@ -289,9 +288,8 @@ msgid ""
 "Designed for the modern individual, our fashion seamlessly transitions from "
 "day to night, offering versatile pieces for any wardrobe."
 msgstr ""
-"ออกแบบมาสำหรับผู้คนในยุคสมัยใหม่ "
-"แฟชั่นของเราสามารถเปลี่ยนแปลงได้อย่างลงตัวจากกลางวันสู่กลางคืน "
-"มอบเสื้อผ้าที่หลากหลายให้เหมาะกับทุกงาน"
+"ออกแบบมาสำหรับผู้คนในยุคสมัยใหม่ แฟชั่นของเราสามารถเปลี่ยนแปลงได้อย่างลงตัวจากกลางวันสู่กลางคื"
+"น มอบเสื้อผ้าที่หลากหลายให้เหมาะกับทุกงาน"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cover
@@ -421,8 +419,8 @@ msgid ""
 "Elevate your wardrobe with personalized styling advice from our experts, "
 "helping you express your individuality effortlessly."
 msgstr ""
-"ยกระดับตู้เสื้อผ้าของคุณด้วยคำแนะนำด้านสไตล์ส่วนตัวจากผู้เชี่ยวชาญของเรา "
-"ช่วยให้คุณแสดงออกถึงความเป็นตัวคุณได้อย่างง่ายดาย"
+"ยกระดับตู้เสื้อผ้าของคุณด้วยคำแนะนำด้านสไตล์ส่วนตัวจากผู้เชี่ยวชาญของเรา ช่วยให้คุณแสดงออกถึงความ"
+"เป็นตัวคุณได้อย่างง่ายดาย"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_quadrant
@@ -482,8 +480,8 @@ msgid ""
 "Explore more and find unique fashion that aligns with your personal style, "
 "crafted for confidence and sophistication."
 msgstr ""
-"สำรวจเพิ่มเติมและค้นพบแฟชั่นที่ไม่เหมือนใครซึ่งเข้ากับสไตล์ส่วนตัวของคุณ "
-"ออกแบบมาเพื่อความมั่นใจและความหรูหรา"
+"สำรวจเพิ่มเติมและค้นพบแฟชั่นที่ไม่เหมือนใครซึ่งเข้ากับสไตล์ส่วนตัวของคุณ ออกแบบมาเพื่อความมั่นใจและ"
+"ความหรูหรา"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_freegrid
@@ -502,9 +500,8 @@ msgid ""
 "styles. We believe in inclusivity, offering collections that represent "
 "everyone. Fashion is for all—find your unique expression with us."
 msgstr ""
-"ค้นพบแฟชั่นหลากหลายสไตล์ของเราที่สะท้อนถึงตัวตนและสไตล์ต่างๆ "
-"เรานำเสนอคอลเลกชั่นที่เป็นตัวแทนของทุกคน แฟชั่นที่ลงตัวสำหรับทุกคน—"
-"ค้นหาการแสดงออกที่เป็นเอกลักษณ์ของคุณกับเรา"
+"ค้นพบแฟชั่นหลากหลายสไตล์ของเราที่สะท้อนถึงตัวตนและสไตล์ต่างๆ เรานำเสนอคอลเลกชั่นที่เป็นตัวแทนข"
+"องทุกคน แฟชั่นที่ลงตัวสำหรับทุกคน—ค้นหาการแสดงออกที่เป็นเอกลักษณ์ของคุณกับเรา"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_images_mosaic
@@ -547,9 +544,8 @@ msgid ""
 "Go off beaten track and discover unexpected and curious places. Here’s our "
 "ultimate guide to the best-kept secret spots that you simply must visit!"
 msgstr ""
-"ออกไปนอกเส้นทางที่ไม่มีใครเคยรู้จักและค้นพบสถานที่ที่คาดไม่ถึงและแปลกประหลาด "
-"ต่อไปนี้เป็นคำแนะนำของเราเกี่ยวกับสถานที่ที่น้อยคนจะรู้และได้รับการเก็บรักษาไว้อย่างดีที่สุด "
-"คุณต้องไปเยี่ยมชม!"
+"ออกไปนอกเส้นทางที่ไม่มีใครเคยรู้จักและค้นพบสถานที่ที่คาดไม่ถึงและแปลกประหลาด ต่อไปนี้เป็นคำแนะนำ"
+"ของเราเกี่ยวกับสถานที่ที่น้อยคนจะรู้และได้รับการเก็บรักษาไว้อย่างดีที่สุด คุณต้องไปเยี่ยมชม!"
 
 #. module: theme_anelusia
 #: model:ir.model.fields,field_description:theme_anelusia.field_theme_utils__id
@@ -640,8 +636,8 @@ msgid ""
 "Perfectly combined by fashion experts. Get fresh outfit ideas for the new "
 "season and every occasion. Discover what's made for him."
 msgstr ""
-"ผสมผสานกันอย่างลงตัวโดยผู้เชี่ยวชาญด้านแฟชั่น "
-"รับไอเดียการแต่งกายที่สดใหม่สำหรับฤดูกาลใหม่และทุกโอกาส ค้นพบสิ่งที่สร้างมาเพื่อเขา"
+"ผสมผสานกันอย่างลงตัวโดยผู้เชี่ยวชาญด้านแฟชั่น รับไอเดียการแต่งกายที่สดใหม่สำหรับฤดูกาลใหม่และทุกโ"
+"อกาส ค้นพบสิ่งที่สร้างมาเพื่อเขา"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_features_wall
@@ -900,8 +896,8 @@ msgid ""
 "We craft bespoke styles to reflect your unique identity. Our team "
 "collaborates with you to ensure flawless fashion from concept to creation."
 msgstr ""
-"เราออกแบบสไตล์เฉพาะตัวเพื่อสะท้อนถึงเอกลักษณ์เฉพาะตัวของคุณ "
-"ทีมงานของเราทำงานร่วมกับคุณเพื่อให้แน่ใจว่าแฟชั่นจะสมบูรณ์แบบตั้งแต่แนวคิดจนถึงการสร้างสรรค์"
+"เราออกแบบสไตล์เฉพาะตัวเพื่อสะท้อนถึงเอกลักษณ์เฉพาะตัวของคุณ ทีมงานของเราทำงานร่วมกับคุณเพื่อใ"
+"ห้แน่ใจว่าแฟชั่นจะสมบูรณ์แบบตั้งแต่แนวคิดจนถึงการสร้างสรรค์"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_wavy_grid

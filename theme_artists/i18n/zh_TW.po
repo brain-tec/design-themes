@@ -1,25 +1,27 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_artists
+# * theme_artists
 #
 # Translators:
 # Wil Odoo, 2025
 # Tony Ng, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Tony Ng, 2025\n"
-"Language-Team: Chinese (Taiwan) (https://app.transifex.com/odoo/teams/41243/"
-"zh_TW/)\n"
+"PO-Revision-Date: 2026-06-27 22:48+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://translate.odoo.com/"
+"projects/odoo-s18-3/theme_artists/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_quotes_carousel_minimal
@@ -432,8 +434,7 @@ msgstr "以顏色傳遞情感"
 msgid ""
 "Enhance your talent with our exclusive guidance, showcasing the best version "
 "of your artistic expression, every day."
-msgstr ""
-"利用我們的獨家指導服務，提升你的才華，讓你每天都能展示自己最佳的藝術表現力。"
+msgstr "利用我們的獨家指導服務，提升你的才華，讓你每天都能展示自己最佳的藝術表現力。"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_features_wall
@@ -810,16 +811,15 @@ msgid ""
 "We craft personalized art to express your unique vision. Our team works "
 "closely with you to bring your ideas to life from concept to completion."
 msgstr ""
-"我們匠心精製個人化藝術作品，將你的獨特願景完美表達。我們的團隊會與你緊密合"
-"作，由構思至完成，為你實現腦海想法。"
+"我們匠心精製個人化藝術作品，將你的獨特願景完美表達。我們的團隊會與你緊密合作"
+"，由構思至完成，為你實現腦海想法。"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_key_benefits
 msgid ""
 "We craft personalized artworks that capture your vision and style, "
 "delivering unique pieces that reflect your individuality."
-msgstr ""
-"我們精心製作個人化藝術品，捕捉你的想法與風格，提供能夠反映你個性的獨特作品。"
+msgstr "我們精心製作個人化藝術品，捕捉你的想法與風格，提供能夠反映你個性的獨特作品。"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_wavy_grid

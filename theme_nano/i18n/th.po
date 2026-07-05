@@ -7,13 +7,14 @@
 #
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
 # Nusara Boonma <nuboo@odoo.com>, 2026.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2026-05-30 22:40+0000\n"
-"Last-Translator: Nusara Boonma <nuboo@odoo.com>\n"
+"PO-Revision-Date: 2026-06-27 22:48+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Thai <https://translate.odoo.com/projects/odoo-s18-3/"
 "theme_nano/th/>\n"
 "Language: th\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_split_intro
@@ -31,10 +32,9 @@ msgid ""
 "projects. Whether crafting a unique piece or developing a prototype, we’re "
 "here to bring your vision to life.<br/><br/>"
 msgstr ""
-"<br/>สำรวจโลกแห่งการสร้างสรรค์ไปกับบริการสำหรับนักสร้างของเรา เราพร้อมมอบเครื่องมือ "
-"ทรัพยากร และความเชี่ยวชาญ เพื่อเปลี่ยนไอเดียของคุณให้เป็นผลงานจริง "
-"ไม่ว่าคุณจะต้องการประดิษฐ์ชิ้นงานเฉพาะตัว หรือพัฒนาต้นแบบใหม่ๆ "
-"เราพร้อมช่วยให้วิสัยทัศน์ของคุณกลายเป็นความจริง<br/><br/>"
+"<br/>สำรวจโลกแห่งการสร้างสรรค์ไปกับบริการสำหรับนักสร้างของเรา เราพร้อมมอบเครื่องมือ ทรัพยา"
+"กร และความเชี่ยวชาญ เพื่อเปลี่ยนไอเดียของคุณให้เป็นผลงานจริง ไม่ว่าคุณจะต้องการประดิษฐ์ชิ้นงานเฉ"
+"พาะตัว หรือพัฒนาต้นแบบใหม่ๆ เราพร้อมช่วยให้วิสัยทัศน์ของคุณกลายเป็นความจริง<br/><br/>"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_empowerment
@@ -70,8 +70,8 @@ msgid ""
 "<i class=\"fa fa-circle text-success\" aria-hidden=\"true\"/>  AVAILABLE FOR "
 "NEW PROJECTS"
 msgstr ""
-"<i class=\"fa fa-circle text-success\" aria-hidden=\"true\"/"
-">  พร้อมสำหรับโปรเจ็กต์ใหม่"
+"<i class=\"fa fa-circle text-success\" aria-hidden=\"true\"/>  พร้อมสำหรับโปรเจ็"
+"กต์ใหม่"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_discovery
@@ -171,7 +171,9 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_unveil
 msgid ""
 "Bring your ideas to life with our innovative design and creative expertise."
-msgstr "นำความคิดของคุณให้กลายเป็นจริงด้วยการออกแบบอันล้ำสมัยและความเชี่ยวชาญด้านความคิดสร้างสรรค์ของเรา"
+msgstr ""
+"นำความคิดของคุณให้กลายเป็นจริงด้วยการออกแบบอันล้ำสมัยและความเชี่ยวชาญด้านความคิดสร้างสรรค์ขอ"
+"งเรา"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_split_intro

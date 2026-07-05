@@ -1,24 +1,27 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_odoo_experts
+# * theme_odoo_experts
 #
 # Translators:
 # Wil Odoo, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Wil Odoo, 2025\n"
-"Language-Team: French (https://app.transifex.com/odoo/teams/41243/fr/)\n"
+"PO-Revision-Date: 2026-06-27 22:47+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: French <https://translate.odoo.com/projects/odoo-s18-3/"
+"theme_odoo_experts/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
-"1000000 == 0 ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : ((n != 0 && n % "
+"1000000 == 0) ? 1 : 2);\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_call_to_action
@@ -35,8 +38,8 @@ msgid ""
 "        They are here to help you grow your business!"
 msgstr ""
 "<br/>\n"
-"        Posez vos questions et discutez de vos projets avec nos partenaires."
-"<br/>\n"
+"        Posez vos questions et discutez de vos projets avec nos "
+"partenaires.<br/>\n"
 "        Ils sont là pour vous aider à développer votre activité !"
 
 #. module: theme_odoo_experts
@@ -148,9 +151,8 @@ msgid ""
 msgstr ""
 "<span class=\"o_text_highlight o_translate_inline "
 "o_text_highlight_circle_1\" style=\"--text-highlight-width: 6px; --text-"
-"highlight-color: var(--o-color-1);\"><span "
-"class=\"o_text_highlight_item\">Transformez</span></span> votre "
-"entreprise<br/>avec de véritables données"
+"highlight-color: var(--o-color-1);\"><span class=\"o_text_highlight_item\">"
+"Transformez</span></span> votre entreprise<br/>avec de véritables données"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_media_list
@@ -509,8 +511,8 @@ msgid ""
 msgstr ""
 "Optimisez votre stratégie commerciale grâce à nos services consultatifs "
 "d'experts. Nous vous fournissons les informations et le soutien dont vous "
-"avez besoin pour naviguer en toute confiance dans le monde des affaires.<br/"
-"><br/> Ensemble, nous atteindrons vos objectifs commerciaux."
+"avez besoin pour naviguer en toute confiance dans le monde des affaires.<br/>"
+"<br/> Ensemble, nous atteindrons vos objectifs commerciaux."
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_pricelist_boxed
@@ -722,9 +724,9 @@ msgid ""
 msgstr ""
 "Libérez la\n"
 "                <span class=\"o_text_highlight o_translate_inline "
-"o_text_highlight_circle_1\" style=\"--text-highlight-color: var(--o-"
-"color-1); --text-highlight-width: 6px;\"><span "
-"class=\"o_text_highlight_item\">croissance</span></span>\n"
+"o_text_highlight_circle_1\" style=\"--text-highlight-color: var(--o-color-1)"
+"; --text-highlight-width: 6px;\"><span class=\"o_text_highlight_item\">"
+"croissance</span></span>\n"
 "                de votre entreprise"
 
 #. module: theme_odoo_experts

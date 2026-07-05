@@ -1,24 +1,27 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_real_estate
+# * theme_real_estate
 #
 # Translators:
 # Wil Odoo, 2025
 # Manon Rondou, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Manon Rondou, 2025\n"
-"Language-Team: Dutch (https://app.transifex.com/odoo/teams/41243/nl/)\n"
+"PO-Revision-Date: 2026-06-27 22:49+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Dutch <https://translate.odoo.com/projects/odoo-s18-3/"
+"theme_real_estate/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_quotes_carousel_minimal
@@ -72,8 +75,8 @@ msgid ""
 "<br/>Connecting you with the perfect property through personalized guidance."
 "<br/><br/>"
 msgstr ""
-"<br/>Je verbinden met de perfecte woning door persoonlijke begeleiding.<br/"
-"><br/>"
+"<br/>Je verbinden met de perfecte woning door persoonlijke begeleiding.<br/>"
+"<br/>"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_split_intro
@@ -88,8 +91,8 @@ msgstr ""
 "begeleiden je in elke fase van het koop- of verkoopproces en bieden "
 "persoonlijke ondersteuning en diepgaande marktkennis. Of je nu op zoek bent "
 "naar een nieuw huis of een investeringspand, wij helpen je weloverwogen "
-"beslissingen te nemen en een plek te vinden waar je van zult houden.<br/><br/"
-">"
+"beslissingen te nemen en een plek te vinden waar je van zult houden.<br/>"
+"<br/>"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_cover
@@ -436,8 +439,7 @@ msgstr ""
 msgid ""
 "Explore stunning properties and beautiful interiors to discover your perfect "
 "space."
-msgstr ""
-"Ontdek prachtige panden en mooie interieurs en vind jouw ideale woning."
+msgstr "Ontdek prachtige panden en mooie interieurs en vind jouw ideale woning."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_carousel_intro
@@ -467,8 +469,8 @@ msgid ""
 "solutions.<br/><br/> Your perfect home is just a click away."
 msgstr ""
 "Vind je droomhuis met onze vastgoeddiensten. Of je nu wilt kopen, verkopen "
-"of huren, wij bieden deskundige begeleiding en persoonlijke oplossingen.<br/"
-"><br/> Je perfecte huis is slechts een klik verwijderd."
+"of huren, wij bieden deskundige begeleiding en persoonlijke oplossingen.<br/>"
+"<br/> Je perfecte huis is slechts een klik verwijderd."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_images_mosaic

@@ -1,23 +1,26 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_nano
+# * theme_nano
 #
 # Translators:
 # Wil Odoo, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Wil Odoo, 2025\n"
-"Language-Team: Korean (https://app.transifex.com/odoo/teams/41243/ko/)\n"
+"PO-Revision-Date: 2026-06-27 22:48+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Korean <https://translate.odoo.com/projects/odoo-s18-3/"
+"theme_nano/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_split_intro
@@ -27,18 +30,17 @@ msgid ""
 "projects. Whether crafting a unique piece or developing a prototype, we’re "
 "here to bring your vision to life.<br/><br/>"
 msgstr ""
-"<br/>메이커 서비스로 창작의 세계를 탐험해 보세요. 모든 도구와 리소스, 전문 지"
-"식을 동원하여 고객의 아이디어를 실제 프로젝트로 구현해 드립니다.독특한 작품부"
-"터 프로토타입에 이르기까지, 고객의 비전을 실현하는 것을 도와드립니다.<br/"
-"><br/>"
+"<br/>메이커 서비스로 창작의 세계를 탐험해 보세요. 모든 도구와 리소스, 전문 "
+"지식을 동원하여 고객의 아이디어를 실제 프로젝트로 구현해 드립니다.독특한 "
+"작품부터 프로토타입에 이르기까지, 고객의 비전을 실현하는 것을 "
+"도와드립니다.<br/><br/>"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_empowerment
 msgid ""
 "<br/>Transforming ideas into tangible creations with precision and flair.<br/"
 "><br/>"
-msgstr ""
-"<br/>정확성과 감각을 통해 아이디어를 실제 창작물로 전환합니다.<br/><br/>"
+msgstr "<br/>정확성과 감각을 통해 아이디어를 실제 창작물로 전환합니다.<br/><br/>"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_key_images
@@ -66,8 +68,8 @@ msgid ""
 "<i class=\"fa fa-circle text-success\" aria-hidden=\"true\"/>  AVAILABLE FOR "
 "NEW PROJECTS"
 msgstr ""
-"<i class=\"fa fa-circle text-success\" aria-hidden=\"true\"/>  신규 프로젝트"
-"에 사용 가능"
+"<i class=\"fa fa-circle text-success\" aria-hidden=\"true\"/>  신규 "
+"프로젝트에 사용 가능"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_discovery
@@ -167,8 +169,7 @@ msgstr "Ben Cole"
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_unveil
 msgid ""
 "Bring your ideas to life with our innovative design and creative expertise."
-msgstr ""
-"혁신적인 디자인과 창의적인 전문성을 통해 고객의 아이디어를 현실로 구현합니다."
+msgstr "혁신적인 디자인과 창의적인 전문성을 통해 고객의 아이디어를 현실로 구현합니다."
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_split_intro

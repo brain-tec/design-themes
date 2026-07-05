@@ -1,30 +1,32 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_odoo_experts
+# * theme_odoo_experts
 #
 # Translators:
 # Wil Odoo, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Wil Odoo, 2025\n"
-"Language-Team: Italian (https://app.transifex.com/odoo/teams/41243/it/)\n"
+"PO-Revision-Date: 2026-06-27 22:45+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Italian <https://translate.odoo.com/projects/odoo-s18-3/"
+"theme_odoo_experts/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
-"1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n != 0 && n % 1000000 == "
+"0) ? 1 : 2);\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_call_to_action
 msgid "50,000+ clients trust us <br/>to protect their assets"
-msgstr ""
-"Oltre 50.000 clienti si fidano di noi <br/>affidandoci le loro attività"
+msgstr "Oltre 50.000 clienti si fidano di noi <br/>affidandoci le loro attività"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_picture
@@ -80,8 +82,8 @@ msgid ""
 "<br/>Providing personalized strategies and insights to help you succeed.<br/"
 "><br/>"
 msgstr ""
-"<br/>Offriamo strategie personalizzate e idee per aiutarti ad avere successo."
-"<br/><br/>"
+"<br/>Offriamo strategie personalizzate e idee per aiutarti ad avere "
+"successo.<br/><br/>"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_picture
@@ -147,9 +149,8 @@ msgid ""
 msgstr ""
 "<span class=\"o_text_highlight o_translate_inline "
 "o_text_highlight_circle_1\" style=\"--text-highlight-width: 6px; --text-"
-"highlight-color: var(--o-color-1);\"><span "
-"class=\"o_text_highlight_item\">Trasforma</span></span> la tua azienda<br/"
-">con metriche reali"
+"highlight-color: var(--o-color-1);\"><span class=\"o_text_highlight_item\">"
+"Trasforma</span></span> la tua azienda<br/>con metriche reali"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_media_list
@@ -503,8 +504,8 @@ msgid ""
 "with confidence.<br/><br/> Let’s achieve your business goals together."
 msgstr ""
 "Ottimizza la tua strategia aziendale con i servizi di consulenza di esperti. "
-"Forniamo idee e supporto per navigare nel mondo aziendale con sicurezza.<br/"
-"><br/>Raggiungiamo i tuoi obiettivi insieme."
+"Forniamo idee e supporto per navigare nel mondo aziendale con sicurezza.<br/>"
+"<br/>Raggiungiamo i tuoi obiettivi insieme."
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_pricelist_boxed
@@ -707,9 +708,9 @@ msgid ""
 msgstr ""
 "Fai\n"
 "                <span class=\"o_text_highlight o_translate_inline "
-"o_text_highlight_circle_1\" style=\"--text-highlight-color: var(--o-"
-"color-1); --text-highlight-width: 6px;\"><span "
-"class=\"o_text_highlight_item\">crescere</span></span>\n"
+"o_text_highlight_circle_1\" style=\"--text-highlight-color: var(--o-color-1)"
+"; --text-highlight-width: 6px;\"><span class=\"o_text_highlight_item\">"
+"crescere</span></span>\n"
 "                la tua azienda"
 
 #. module: theme_odoo_experts
