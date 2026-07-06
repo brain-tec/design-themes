@@ -1,23 +1,26 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_buzzy
+# * theme_buzzy
 #
 # Translators:
 # Wil Odoo, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Wil Odoo, 2025\n"
-"Language-Team: Thai (https://app.transifex.com/odoo/teams/41243/th/)\n"
+"PO-Revision-Date: 2026-06-27 22:46+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Thai <https://translate.odoo.com/projects/odoo-s18-3/"
+"theme_buzzy/th/>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_empowerment
@@ -353,8 +356,8 @@ msgid ""
 "Our team provides continuous support, ensuring your projects run smoothly "
 "and challenges are addressed promptly."
 msgstr ""
-"ทีมงานของเราพร้อมให้การสนับสนุนอย่างต่อเนื่อง "
-"เพื่อให้โปรเจ็กต์ของคุณดำเนินไปอย่างราบรื่นและสามารถแก้ไขปัญหาได้ทันที"
+"ทีมงานของเราพร้อมให้การสนับสนุนอย่างต่อเนื่อง เพื่อให้โปรเจ็กต์ของคุณดำเนินไปอย่างราบรื่นและสามา"
+"รถแก้ไขปัญหาได้ทันที"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_key_images
@@ -504,9 +507,9 @@ msgid ""
 "website based on our attractive templates to the tailor-made website "
 "reflecting your company's values."
 msgstr ""
-"คุณจะพบกับตัวเลือกที่เหมาะสมที่สุดที่ปรับให้เหมาะกับความต้องการของคุณเสมอ "
-"ตั้งแต่เว็บไซต์พื้นฐานที่ใช้เทมเพลตที่น่าสนใจของเรา "
-"ไปจนถึงเว็บไซต์ที่ออกแบบตามความต้องการซึ่งสะท้อนถึงค่านิยมของบริษัทของคุณ"
+"คุณจะพบกับตัวเลือกที่เหมาะสมที่สุดที่ปรับให้เหมาะกับความต้องการของคุณเสมอ ตั้งแต่เว็บไซต์พื้นฐานที่ใช้เ"
+"ทมเพลตที่น่าสนใจของเรา ไปจนถึงเว็บไซต์ที่ออกแบบตามความต้องการซึ่งสะท้อนถึงค่านิยมของบริษัทของคุ"
+"ณ"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed

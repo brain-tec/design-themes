@@ -7,13 +7,14 @@
 # Larissa Manderfeld, 2025
 #
 # "Noemi Pla Garcia (nopl)" <nopl@odoo.com>, 2026.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2026-05-23 22:40+0000\n"
-"Last-Translator: \"Noemi Pla Garcia (nopl)\" <nopl@odoo.com>\n"
+"PO-Revision-Date: 2026-06-27 22:47+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Spanish <https://translate.odoo.com/projects/odoo-s18-3/"
 "theme_monglia/es/>\n"
 "Language: es\n"
@@ -22,7 +23,7 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n != 0 && n % 1000000 == "
 "0) ? 1 : 2);\n"
-"X-Generator: Weblate 5.17\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_quotes_carousel_minimal
@@ -106,8 +107,8 @@ msgstr ""
 "especial será un momento inolvidable. Gestionamos cada detalle, desde el "
 "concepto hasta la ejecución, para asegurarnos de que podrá disfrutar de una "
 "experiencia que jamás olvidará. No importa si es una boda, reunión "
-"empresarial o celebración privada, creamos eventos que no podrá olvidar.<br/"
-"><br/>"
+"empresarial o celebración privada, creamos eventos que no podrá olvidar.<br/>"
+"<br/>"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_big_number
@@ -147,8 +148,8 @@ msgid ""
 "<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/"
 ">  Memorable experiences"
 msgstr ""
-"<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/"
-">  Experiencias inolvidables"
+"<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/>  "
+"Experiencias inolvidables"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_cover
@@ -535,8 +536,8 @@ msgid ""
 "        Explore the schedule to make the most out of every moment.<br/><br/>"
 msgstr ""
 "Vive un fin de semana inolvidable de música en vivo, diversión y "
-"entretenimiento con actuaciones de algunos de los mejores artistas.<br/><br/"
-">\n"
+"entretenimiento con actuaciones de algunos de los mejores artistas.<br/><br/>"
+"\n"
 "Explora el horario para aprovechar cada momento.<br/><br/>"
 
 #. module: theme_monglia

@@ -1,24 +1,26 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_kiddo
+# * theme_kiddo
 #
 # Translators:
 # Wil Odoo, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Wil Odoo, 2025\n"
-"Language-Team: Chinese (Taiwan) (https://app.transifex.com/odoo/teams/41243/"
-"zh_TW/)\n"
+"PO-Revision-Date: 2026-06-27 22:45+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://translate.odoo.com/"
+"projects/odoo-s18-3/theme_kiddo/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_quotes_carousel_minimal
@@ -672,8 +674,7 @@ msgstr ""
 msgid ""
 "The countryside nursery since 2002.<br/>A truly unique service in a highly "
 "secure and tranquil setting."
-msgstr ""
-"創辦於 2002 年的鄉村託兒所。<br/>在高度安全和寧靜的環境中，提供真正獨特服務。"
+msgstr "創辦於 2002 年的鄉村託兒所。<br/>在高度安全和寧靜的環境中，提供真正獨特服務。"
 
 #. module: theme_kiddo
 #: model:ir.model,name:theme_kiddo.model_theme_utils
@@ -747,8 +748,8 @@ msgid ""
 "Our caring teachers provide a safe and stimulating environment for early "
 "growth and exploration."
 msgstr ""
-"我們會根據每個小朋友的需要，量身設計引人入勝又好玩的體驗。我們充滿愛心的老"
-"師，為兒童早期成長及探索，提供安全及激發學習的環境。"
+"我們會根據每個小朋友的需要，量身設計引人入勝又好玩的體驗。我們充滿愛心的老師"
+"，為兒童早期成長及探索，提供安全及激發學習的環境。"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_cards_grid
@@ -767,8 +768,8 @@ msgid ""
 "learn, and grow. Our programs are designed to foster creativity, curiosity, "
 "and a love for learning from an early age."
 msgstr ""
-"我們提供安全、吸引人互動的環境，讓小朋友盡情探索、學習及成長。課程經專門設"
-"計，旨在從小培養小朋友的創造力、好奇心，以及對學習的熱愛。"
+"我們提供安全、吸引人互動的環境，讓小朋友盡情探索、學習及成長。課程經專門設計"
+"，旨在從小培養小朋友的創造力、好奇心，以及對學習的熱愛。"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_wavy_grid
@@ -777,8 +778,8 @@ msgid ""
 "learn and grow. Using innovative methods, we make every day a new adventure "
 "in discovery."
 msgstr ""
-"我們提供動手實踐及發揮創意的活動，幫助小朋友學習及成長。我們採用創新教育方"
-"法，讓每一天都是滿載新發現的探索之旅。"
+"我們提供動手實踐及發揮創意的活動，幫助小朋友學習及成長。我們採用創新教育方法"
+"，讓每一天都是滿載新發現的探索之旅。"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_key_benefits

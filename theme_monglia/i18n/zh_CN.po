@@ -1,25 +1,27 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_monglia
+# * theme_monglia
 #
 # Translators:
 # Wil Odoo, 2025
 # Chloe Wang, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Chloe Wang, 2025\n"
-"Language-Team: Chinese (China) (https://app.transifex.com/odoo/teams/41243/"
-"zh_CN/)\n"
+"PO-Revision-Date: 2026-06-27 22:46+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://translate.odoo.com/"
+"projects/odoo-s18-3/theme_monglia/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_quotes_carousel_minimal
@@ -697,8 +699,7 @@ msgstr "我们的服务"
 msgid ""
 "Our team provides full support from planning to execution, making sure your "
 "event runs smoothly and leaves a lasting impression."
-msgstr ""
-"我们的团队提供从策划到执行的全面支持，确保您的活动顺利进行并留下深刻印象。"
+msgstr "我们的团队提供从策划到执行的全面支持，确保您的活动顺利进行并留下深刻印象。"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
@@ -909,8 +910,8 @@ msgid ""
 "Leveraging the latest trends, we create fun and engaging activities for all "
 "attendees."
 msgstr ""
-"我们为活动带来最前沿的理念和互动功能。我们利用最新趋势，为所有与会者创造有"
-"趣、吸引人的活动。"
+"我们为活动带来最前沿的理念和互动功能。我们利用最新趋势，为所有与会者创造有趣"
+"、吸引人的活动。"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_key_benefits

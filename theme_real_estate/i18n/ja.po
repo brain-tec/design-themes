@@ -1,24 +1,27 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_real_estate
+# * theme_real_estate
 #
 # Translators:
 # Wil Odoo, 2025
 # Junko Augias, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Junko Augias, 2025\n"
-"Language-Team: Japanese (https://app.transifex.com/odoo/teams/41243/ja/)\n"
+"PO-Revision-Date: 2026-06-27 22:48+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Japanese <https://translate.odoo.com/projects/odoo-s18-3/"
+"theme_real_estate/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_quotes_carousel_minimal
@@ -82,8 +85,8 @@ msgid ""
 "for a new house or an investment property, we're here to help you make "
 "informed decisions and find a space you'll love.<br/><br/>"
 msgstr ""
-"<br/>専門の不動産サービスで理想の住まいを見つけましょう。当社は購入や売却のプ"
-"ロセスをすべてサポートし、パーソナライズされた支援と深い市場知識を提供しま"
+"<br/>専門の不動産サービスで理想の住まいを見つけましょう。当社は購入や売却の"
+"プロセスをすべてサポートし、パーソナライズされた支援と深い市場知識を提供しま"
 "す。新しい家をお探しの方も、投資物件をお探しの方も、納得のいく決断ができるよ"
 "うお手伝いし、ご満足いただける空間を見つけるサポートをいたします。<br/><br/>"
 
@@ -181,8 +184,8 @@ msgid ""
 "Comprehensive management services for residential properties, including "
 "tenant screening, rent collection, and maintenance coordination."
 msgstr ""
-"テナント審査、家賃徴収、メンテナンス調整など、住宅物件の総合的な管理サービ"
-"ス。"
+"テナント審査、家賃徴収、メンテナンス調整など、住宅物件の総合的な管理サービス"
+"。"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_empowerment
@@ -345,8 +348,8 @@ msgid ""
 "Experience a smooth real estate transaction with our expert guidance and "
 "support throughout the buying and selling process."
 msgstr ""
-"売買プロセス全体を通して、当社エキスパートによるガイドとサポートにより、ス"
-"ムーズな不動産取引をお約束します。"
+"売買プロセス全体を通して、当社エキスパートによるガイドとサポートにより、"
+"スムーズな不動産取引をお約束します。"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_cards_grid
@@ -393,9 +396,9 @@ msgid ""
 "Explore more and find real estate solutions that fit your goals, crafted to "
 "provide a smooth and successful property experience."
 msgstr ""
-"詳しく検索して、お客様の目標に合った不動産ソリューションを見つけましょう。ス"
-"ムーズで満足のいく不動産体験を提供できるよう、細部までこだわってご用意してお"
-"ります。"
+"詳しく検索して、お客様の目標に合った不動産ソリューションを見つけましょう。"
+"スムーズで満足のいく不動産体験を提供できるよう、細部までこだわってご用意して"
+"おります。"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_pricelist_boxed
@@ -415,9 +418,9 @@ msgid ""
 "goals."
 msgstr ""
 "ニーズに合わせた不動産サービスをご覧下さい。購入、売却、賃貸など、お客様の不"
-"動産のゴールを達成できるよう、当社のエキスパートチームが個別にガイダンスとサ"
-"ポートを提供し、お客様が十分な情報を得た上で意思決定を行えるようお手伝い致し"
-"ます。"
+"動産のゴールを達成できるよう、当社のエキスパートチームが個別にガイダンスと"
+"サポートを提供し、お客様が十分な情報を得た上で意思決定を行えるようお手伝い致"
+"します。"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_unveil

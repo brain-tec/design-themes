@@ -8,13 +8,14 @@
 #
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
 # "Ujjawal Pathak (pauj)" <pauj@odoo.com>, 2026.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2026-03-14 22:40+0000\n"
-"Last-Translator: \"Ujjawal Pathak (pauj)\" <pauj@odoo.com>\n"
+"PO-Revision-Date: 2026-06-27 22:43+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Hindi <https://translate.odoo.com/projects/odoo-s18-3/"
 "theme_real_estate/hi/>\n"
 "Language: hi\n"
@@ -22,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_quotes_carousel_minimal
@@ -81,8 +82,8 @@ msgstr ""
 "<br/>हमारी विशेषज्ञ रियल एस्टेट सेवाओं के साथ अपना आदर्श घर खोजें. हम व्यक्तिगत सहायता "
 "और बाज़ार की गहरी जानकारी प्रदान करते हुए, खरीदने या बेचने की प्रक्रिया के हर कदम पर "
 "आपका मार्गदर्शन करते हैं. चाहे आप एक नया घर ढूंढ रहे हों या निवेश के लिए कोई प्रॉपर्टी, हम "
-"सही निर्णय लेने और आपकी पसंद की जगह खोजने में आपकी मदद करने के लिए हम हमेशा मौजूद हैं.<br/"
-"><br/>"
+"सही निर्णय लेने और आपकी पसंद की जगह खोजने में आपकी मदद करने के लिए हम हमेशा मौजूद "
+"हैं.<br/><br/>"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_cover

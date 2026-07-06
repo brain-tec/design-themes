@@ -7,13 +7,14 @@
 # Rasareeyar Lappiam, 2025
 #
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-11-15 22:53+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-27 22:49+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Thai <https://translate.odoo.com/projects/odoo-s18-3/"
 "theme_orchid/th/>\n"
 "Language: th\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_quotes_carousel_minimal
@@ -111,7 +112,8 @@ msgstr ""
 msgid ""
 "A wide range of high quality products and a warm welcome! I recommend this "
 "shop 200%!"
-msgstr "สินค้าคุณภาพสูงหลากหลายชนิดและการต้อนรับอันแสนอบอุ่น! ฉันแนะนำร้านนี้ 200%!"
+msgstr ""
+"สินค้าคุณภาพสูงหลากหลายชนิดและการต้อนรับอันแสนอบอุ่น! ฉันแนะนำร้านนี้ 200%!"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_framed_intro
@@ -173,7 +175,8 @@ msgstr ""
 msgid ""
 "Brighten any corner of the globe with our express 24-hour worldwide flower "
 "delivery service."
-msgstr "สร้างความสดใสให้กับทุกมุมโลกด้วยบริการจัดส่งดอกไม้ด่วนทั่วโลกตลอด 24 ชั่วโมงของเรา"
+msgstr ""
+"สร้างความสดใสให้กับทุกมุมโลกด้วยบริการจัดส่งดอกไม้ด่วนทั่วโลกตลอด 24 ชั่วโมงของเรา"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_empowerment
@@ -321,8 +324,8 @@ msgid ""
 "Don't offer pesticides to your beloved one! By choosing our flowers, we "
 "guarantee you organic flowers."
 msgstr ""
-"อย่ามอบดอกไม้ที่ปนยาฆ่าแมลงให้กับคนที่คุณรัก! เลือกดอกไม้ของเรา "
-"เพราะเรารับประกันว่าคุณจะได้ดอกไม้ออร์แกนิก"
+"อย่ามอบดอกไม้ที่ปนยาฆ่าแมลงให้กับคนที่คุณรัก! เลือกดอกไม้ของเรา เพราะเรารับประกันว่าคุณจะได้ดอก"
+"ไม้ออร์แกนิก"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_cta_box
@@ -550,8 +553,8 @@ msgid ""
 "Just as sunflowers always turn towards the sun, we are dedicated to "
 "providing reliable service that meets your floral needs, every time."
 msgstr ""
-"ไม่ต่างจากดอกทานตะวันที่หันไปทางดวงอาทิตย์เสมอ "
-"เรามุ่งมั่นที่จะมอบบริการที่เชื่อถือได้ซึ่งตอบโจทย์ความต้องการด้านดอกไม้ของคุณทุกครั้ง"
+"ไม่ต่างจากดอกทานตะวันที่หันไปทางดวงอาทิตย์เสมอ เรามุ่งมั่นที่จะมอบบริการที่เชื่อถือได้ซึ่งตอบโจทย์ควา"
+"มต้องการด้านดอกไม้ของคุณทุกครั้ง"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_cards_grid
@@ -641,9 +644,8 @@ msgid ""
 "Our team provides attentive service, guiding you through selection and "
 "delivery to ensure your floral needs are perfectly met."
 msgstr ""
-"ทีมงานของเราพร้อมให้บริการอย่างเต็มที่ "
-"เราพร้อมช่วยแนะนำคุณในทุกขั้นตอนการเลือกดอกไม้และการจัดส่ง "
-"เพื่อให้มั่นใจว่าการบริการของเรานั้นตอบโจทย์ความต้องการของคุณ"
+"ทีมงานของเราพร้อมให้บริการอย่างเต็มที่ เราพร้อมช่วยแนะนำคุณในทุกขั้นตอนการเลือกดอกไม้และการจัด"
+"ส่ง เพื่อให้มั่นใจว่าการบริการของเรานั้นตอบโจทย์ความต้องการของคุณ"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_features_wall
@@ -714,8 +716,8 @@ msgid ""
 "Sophisticated bouquet with a mix of white lilies, roses, and elegant "
 "foliage, ideal for formal occasions and celebrations."
 msgstr ""
-"ช่อดอกไม้ที่มีความหรูหราประกอบด้วยดอกลิลลี่สีขาว กุหลาบ และใบไม้ที่สวยงาม "
-"เหมาะสำหรับโอกาสทางการและการเฉลิมฉลอง"
+"ช่อดอกไม้ที่มีความหรูหราประกอบด้วยดอกลิลลี่สีขาว กุหลาบ และใบไม้ที่สวยงาม เหมาะสำหรับโอกาสทาง"
+"การและการเฉลิมฉลอง"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_pricelist_boxed
@@ -812,8 +814,8 @@ msgid ""
 "Vibrant arrangement of exotic flowers including orchids, birds of paradise, "
 "and tropical leaves, creating a bold and lively display."
 msgstr ""
-"การจัดดอกไม้ที่สดใส ประกอบด้วยดอกกล้วยไม้ ดอกนกฟ้าหรือ และใบไม้เขตร้อน "
-"สร้างความโดดเด่นและมีชีวิตชีวาให้กับทุกพื้นที่"
+"การจัดดอกไม้ที่สดใส ประกอบด้วยดอกกล้วยไม้ ดอกนกฟ้าหรือ และใบไม้เขตร้อน สร้างความโดดเด่นและ"
+"มีชีวิตชีวาให้กับทุกพื้นที่"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_key_images
@@ -870,8 +872,8 @@ msgid ""
 "quality, fresh flowers that brighten up any occasion and exceed your "
 "expectations."
 msgstr ""
-"ด้วยประสบการณ์อันยาวนานและความหลงใหลในงานจัดดอกไม้ "
-"เราจึงมอบดอกไม้ที่สดใหม่และมีคุณภาพสูงที่จะสร้างสีสันให้กับทุกโอกาสของคุณ"
+"ด้วยประสบการณ์อันยาวนานและความหลงใหลในงานจัดดอกไม้ เราจึงมอบดอกไม้ที่สดใหม่และมีคุณภาพสูงที่"
+"จะสร้างสีสันให้กับทุกโอกาสของคุณ"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_cards_grid
@@ -879,8 +881,8 @@ msgid ""
 "With the elegance of an orchid, our attention to detail and passion for "
 "perfection shine through in every floral arrangement we deliver."
 msgstr ""
-"ด้วยความสง่างามของกล้วยไม้ ความใส่ใจในรายละเอียดและความสมบูรณ์แบบ "
-"เราจึงเปล่งประกายผ่านการจัดดอกไม้ทุกชิ้นที่เราจัดส่ง"
+"ด้วยความสง่างามของกล้วยไม้ ความใส่ใจในรายละเอียดและความสมบูรณ์แบบ เราจึงเปล่งประกายผ่านก"
+"ารจัดดอกไม้ทุกชิ้นที่เราจัดส่ง"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_wavy_grid

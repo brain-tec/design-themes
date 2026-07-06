@@ -1,24 +1,27 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_real_estate
+# * theme_real_estate
 #
 # Translators:
 # Wil Odoo, 2025
 # Sarah Park, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Sarah Park, 2025\n"
-"Language-Team: Korean (https://app.transifex.com/odoo/teams/41243/ko/)\n"
+"PO-Revision-Date: 2026-06-27 22:49+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Korean <https://translate.odoo.com/projects/odoo-s18-3/"
+"theme_real_estate/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_quotes_carousel_minimal
@@ -26,8 +29,8 @@ msgid ""
 "\" A top choice for real estate. <br/>Expert guidance, great deals, and "
 "exceptional support throughout. \""
 msgstr ""
-"\"부동산 업계 최고의 선택. <br/>전문가의 안내, 최고의 거래, 탁월한 지원 서비"
-"스.\""
+"\"부동산 업계 최고의 선택. <br/>전문가의 안내, 최고의 거래, 탁월한 지원 "
+"서비스.\""
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_quotes_carousel_minimal
@@ -82,10 +85,10 @@ msgid ""
 "informed decisions and find a space you'll love.<br/><br/>"
 msgstr ""
 "<br/>전문 부동산 서비스를 통해 꿈꿔왔던 집을 찾아보세요. 구매 및 판매 과정에 "
-"있어 모든 단계를 가이드하고 개인 맞춤형으로 지원하며 시장에 대해 깊이있는 지"
-"식을 제공해 드립니다. 새로운 주택 혹은 투자용 부동산 모두에 대해 정보에 입각"
-"한 결정을 내리고 마음에 드는 공간을 찾을 수 있도록 도와드리겠습니다.<br/><br/"
-">"
+"있어 모든 단계를 가이드하고 개인 맞춤형으로 지원하며 시장에 대해 깊이있는 "
+"지식을 제공해 드립니다. 새로운 주택 혹은 투자용 부동산 모두에 대해 정보에 "
+"입각한 결정을 내리고 마음에 드는 공간을 찾을 수 있도록 도와드리겠습니다.<br/>"
+"<br/>"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_cover
@@ -185,8 +188,8 @@ msgid ""
 "Comprehensive management services for residential properties, including "
 "tenant screening, rent collection, and maintenance coordination."
 msgstr ""
-"세입자 심사, 임대료 수금, 유지보수 조정을 포함한 주거용 부동산에 대한 종합적"
-"인 관리 서비스입니다."
+"세입자 심사, 임대료 수금, 유지보수 조정을 포함한 주거용 부동산에 대한 "
+"종합적인 관리 서비스입니다."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_empowerment
@@ -244,9 +247,9 @@ msgid ""
 "architecture, top-of-the-line amenities, and breathtaking cityscape views, "
 "ideal for those who appreciate luxury and style."
 msgstr ""
-"세련된 건축물과 최고급 편의시설, 숨막히는 도시 전망을 자랑하는 이 세련된 펜트"
-"하우스에서 현대적인 우아함을 경험하고 고급스러움과 세련미를 즐기는 분들에게 "
-"완벽한 공간입니다."
+"세련된 건축물과 최고급 편의시설, 숨막히는 도시 전망을 자랑하는 이 세련된 "
+"펜트하우스에서 현대적인 우아함을 경험하고 고급스러움과 세련미를 즐기는 "
+"분들에게 완벽한 공간입니다."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_three_columns
@@ -349,8 +352,8 @@ msgid ""
 "Experience a smooth real estate transaction with our expert guidance and "
 "support throughout the buying and selling process."
 msgstr ""
-"구매 및 판매 과정 전반에 걸친 전문가 안내와 지원으로 원활한 부동산 거래를 경"
-"험하세요."
+"구매 및 판매 과정 전반에 걸친 전문가 안내와 지원으로 원활한 부동산 거래를 "
+"경험하세요."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_cards_grid
@@ -397,8 +400,8 @@ msgid ""
 "Explore more and find real estate solutions that fit your goals, crafted to "
 "provide a smooth and successful property experience."
 msgstr ""
-"원활하고 성공적인 부동산 경험을 보장하기 위해 설계된 목표에 맞는 부동산 솔루"
-"션을 자세히 살펴보세요."
+"원활하고 성공적인 부동산 경험을 보장하기 위해 설계된 목표에 맞는 부동산 "
+"솔루션을 자세히 살펴보세요."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_pricelist_boxed
@@ -418,8 +421,8 @@ msgid ""
 "goals."
 msgstr ""
 "필요에 따라 맞춤화된 다양한 부동산 서비스를 살펴보세요. 구매, 판매, 임대 등 "
-"어떤 유형의 부동산을 구매하든, 전문가 팀이 정보에 입각한 결정을 내리고 부동"
-"산 목표를 달성할 수 있도록 맞춤형 지원과 도움을 제공합니다."
+"어떤 유형의 부동산을 구매하든, 전문가 팀이 정보에 입각한 결정을 내리고 "
+"부동산 목표를 달성할 수 있도록 맞춤형 지원과 도움을 제공합니다."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_unveil
@@ -456,9 +459,9 @@ msgid ""
 "looking to buy, sell, or rent, we offer expert guidance and personalized "
 "solutions.<br/><br/> Your perfect home is just a click away."
 msgstr ""
-"부동산 서비스를 통해 꿈에 그리던 부동산을 찾아보세요. 구매, 판매, 임대 등 어"
-"떤 유형의 부동산을 원하든 전문가의 안내와 맞춤형 솔루션을 제공합니다. <br/"
-"><br/>클릭 한 번으로 내 마음에 쏙 드는 완벽한 집을 찾을 수 있습니다."
+"부동산 서비스를 통해 꿈에 그리던 부동산을 찾아보세요. 구매, 판매, 임대 등 "
+"어떤 유형의 부동산을 원하든 전문가의 안내와 맞춤형 솔루션을 제공합니다. <br/>"
+"<br/>클릭 한 번으로 내 마음에 쏙 드는 완벽한 집을 찾을 수 있습니다."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_images_mosaic
@@ -473,8 +476,8 @@ msgid ""
 "estate services. We guide you through every step, from buying and selling to "
 "property management."
 msgstr ""
-"종합적인 부동산 서비스를 통해 꿈에 그리던 집이나 투자 부동산을 찾아보세요. 부"
-"동산 매매부터 부동산 관리까지 모든 과정을 안내해 드립니다."
+"종합적인 부동산 서비스를 통해 꿈에 그리던 집이나 투자 부동산을 찾아보세요. "
+"부동산 매매부터 부동산 관리까지 모든 과정을 안내해 드립니다."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_features_wall
@@ -572,10 +575,10 @@ msgid ""
 "        You can decide in all freedom whether or not you would like to work "
 "with us for the sale of your property."
 msgstr ""
-"부동산 감정 평가를 무료로 예약해 보세요. 매물을 방문하여 현실적인 희망 가격"
-"에 대해 조언해 드리고 저희의 업무 방식에 대해서 설명해 드립니다. <br/>\n"
-"        저희에게 매물을 맡기실 지 여부는 완전히 자유롭게 결정하실 수 있습니"
-"다."
+"부동산 감정 평가를 무료로 예약해 보세요. 매물을 방문하여 현실적인 희망 "
+"가격에 대해 조언해 드리고 저희의 업무 방식에 대해서 설명해 드립니다. <br/>\n"
+"        저희에게 매물을 맡기실 지 여부는 완전히 자유롭게 결정하실 수 "
+"있습니다."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_key_images
@@ -612,8 +615,8 @@ msgid ""
 "design of your interior and will give you the best advice for your interior "
 "design."
 msgstr ""
-"실내 건축 장식 전문가가 고객의 인테리어 디자인을 단계별로 안내해 드리며, 인테"
-"리어 디자인에 대해서 최고의 조언을 해 드립니다."
+"실내 건축 장식 전문가가 고객의 인테리어 디자인을 단계별로 안내해 드리며, "
+"인테리어 디자인에 대해서 최고의 조언을 해 드립니다."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_key_benefits
@@ -649,8 +652,8 @@ msgid ""
 "Professional property valuation and appraisal services to provide accurate "
 "market value assessments for buying or selling."
 msgstr ""
-"전문 부동산 평가 및 감정 서비스를 통해 매매 시 정확한 시장 가치를 평가해 드립"
-"니다."
+"전문 부동산 평가 및 감정 서비스를 통해 매매 시 정확한 시장 가치를 평가해 "
+"드립니다."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_key_images
@@ -873,8 +876,8 @@ msgid ""
 "team works with you to find the perfect property and guide you through every "
 "step of the process."
 msgstr ""
-"회원님의 구체적인 니즈에 맞는 맞춤형 부동산 서비스를 제공합니다. 저희 팀은 고"
-"객과 긴밀히 협력하여 완벽한 매물을 찾고 각 단계를 안내해 드립니다."
+"회원님의 구체적인 니즈에 맞는 맞춤형 부동산 서비스를 제공합니다. 저희 팀은 "
+"고객과 긴밀히 협력하여 완벽한 매물을 찾고 각 단계를 안내해 드립니다."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_wavy_grid
@@ -916,8 +919,8 @@ msgid ""
 "With a simple click, finding your dream home has never been easier. Explore "
 "your future with ease and confidence."
 msgstr ""
-"클릭 한 번으로 꿈에 그리던 집을 그 어느 때보다 간편하게 찾을 수 있습니다. 쉽"
-"고 자신감 있게 미래를 탐색하세요."
+"클릭 한 번으로 꿈에 그리던 집을 그 어느 때보다 간편하게 찾을 수 있습니다. "
+"쉽고 자신감 있게 미래를 탐색하세요."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_cover

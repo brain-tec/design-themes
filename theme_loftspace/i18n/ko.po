@@ -1,24 +1,27 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_loftspace
+# * theme_loftspace
 #
 # Translators:
 # Wil Odoo, 2025
 # Sarah Park, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Sarah Park, 2025\n"
-"Language-Team: Korean (https://app.transifex.com/odoo/teams/41243/ko/)\n"
+"PO-Revision-Date: 2026-06-27 22:45+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Korean <https://translate.odoo.com/projects/odoo-s18-3/"
+"theme_loftspace/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_quotes_carousel_minimal
@@ -155,8 +158,8 @@ msgid ""
 "Compact nightstand with a modern design, featuring a drawer and open shelf "
 "for convenient bedside storage."
 msgstr ""
-"서랍과 오픈형 선반이 있어 침대 옆에서 수납이 편리한 현대적인 디자인의 컴팩트"
-"한 나이트 스탠드"
+"서랍과 오픈형 선반이 있어 침대 옆에서 수납이 편리한 현대적인 디자인의 "
+"컴팩트한 나이트 스탠드"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_key_benefits
@@ -257,8 +260,8 @@ msgid ""
 "Discover our exclusive collections that combine innovation, elegance, and "
 "function, providing unique pieces that elevate any interior space."
 msgstr ""
-"혁신, 우아함, 기능이 조화를 이루는 독점 컬렉션에서 모든 실내 공간에 품격을 더"
-"하는 특별한 작품을 만나보세요"
+"혁신, 우아함, 기능이 조화를 이루는 독점 컬렉션에서 모든 실내 공간에 품격을 "
+"더하는 특별한 작품을 만나보세요"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_pricelist_boxed
@@ -622,8 +625,8 @@ msgid ""
 "Sturdy and stylish queen bed frame crafted from solid wood, featuring a "
 "sleek headboard and low-profile design."
 msgstr ""
-"원목으로 제작된 견고하고 스타일리시한 퀸 사이즈 침대 프레임으로 매끄러운 헤드"
-"와 절제된 디자인이 특징입니다."
+"원목으로 제작된 견고하고 스타일리시한 퀸 사이즈 침대 프레임으로 매끄러운 "
+"헤드와 절제된 디자인이 특징입니다."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features_wall
@@ -805,9 +808,9 @@ msgid ""
 "when you have no idea about the layout of your interior, our advisers are "
 "there to accompany you throughout your project."
 msgstr ""
-"프로젝트를 명확하게 꿰뚫어볼 수 있도록 도와주거나 선택한 내용을 확인 또는 인"
-"테리어 레이아웃에 대해 전혀 모르는 경우 등, 저희 어드바이저는 프로젝트 전반"
-"에 걸쳐 고객과 함께하고 있습니다."
+"프로젝트를 명확하게 꿰뚫어볼 수 있도록 도와주거나 선택한 내용을 확인 또는 "
+"인테리어 레이아웃에 대해 전혀 모르는 경우 등, 저희 어드바이저는 프로젝트 "
+"전반에 걸쳐 고객과 함께하고 있습니다."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.configurator_s_text_block
@@ -829,8 +832,8 @@ msgid ""
 "With extensive experience and skilled craftsmanship, we provide furniture "
 "that meets the highest standards of quality and durability."
 msgstr ""
-"풍부한 경험과 뛰어난 장인의 솜씨로 최고 수준의 품질과 내구성을 갖춘 가구를 제"
-"공합니다."
+"풍부한 경험과 뛰어난 장인의 솜씨로 최고 수준의 품질과 내구성을 갖춘 가구를 "
+"제공합니다."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_call_to_action

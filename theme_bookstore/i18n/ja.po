@@ -1,23 +1,26 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_bookstore
+# * theme_bookstore
 #
 # Translators:
 # Wil Odoo, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Wil Odoo, 2025\n"
-"Language-Team: Japanese (https://app.transifex.com/odoo/teams/41243/ja/)\n"
+"PO-Revision-Date: 2026-06-27 22:44+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Japanese <https://translate.odoo.com/projects/odoo-s18-3/"
+"theme_bookstore/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_quotes_carousel_minimal
@@ -109,8 +112,8 @@ msgstr ""
 "<br/>私たちの書店で、物語の世界に足を踏み入れてみませんか。時代を超えた名作か"
 "ら最新のベストセラーまで、心を動かし、楽しませてくれる厳選された本を取り揃え"
 "ています。読書好きの方も、ちょっと立ち寄っただけの方も、心地よい雰囲気と知識"
-"豊富なスタッフが、あなたの想像力をかき立てる一冊との出会いをお手伝いします。"
-"<br/><br/>"
+"豊富なスタッフが、あなたの想像力をかき立てる一冊との出会いをお手伝いします"
+"。<br/><br/>"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_empowerment
@@ -283,8 +286,8 @@ msgid ""
 "Discover a handpicked collection of books across genres, featuring "
 "bestsellers, classics, and hidden gems for every reader."
 msgstr ""
-"あらゆる読者向けのベストセラー、古典的名作、隠れた名作など、厳選されたジャン"
-"ルの異なる書籍のコレクションをお楽しみ下さい。"
+"あらゆる読者向けのベストセラー、古典的名作、隠れた名作など、厳選された"
+"ジャンルの異なる書籍のコレクションをお楽しみ下さい。"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_banner
@@ -325,8 +328,8 @@ msgid ""
 "Discover rare and unique books waiting to be found. Unearth hidden gems in "
 "our collection."
 msgstr ""
-"あなたが手に取るのを待ちわびている、貴重でユニークな書籍をご覧下さい。当店コ"
-"レクションから優れた作品を見つけ出して下さい。"
+"あなたが手に取るのを待ちわびている、貴重でユニークな書籍をご覧下さい。当店"
+"コレクションから優れた作品を見つけ出して下さい。"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_showcase

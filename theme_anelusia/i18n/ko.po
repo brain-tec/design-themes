@@ -1,24 +1,27 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_anelusia
+# * theme_anelusia
 #
 # Translators:
 # Wil Odoo, 2025
 # Sarah Park, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Sarah Park, 2025\n"
-"Language-Team: Korean (https://app.transifex.com/odoo/teams/41243/ko/)\n"
+"PO-Revision-Date: 2026-06-27 22:43+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Korean <https://translate.odoo.com/projects/odoo-s18-3/"
+"theme_anelusia/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_quotes_carousel_minimal
@@ -64,8 +67,8 @@ msgid ""
 msgstr ""
 "<br/>미래를 향해 나아가는 종합 스타일로 나만의 개성을 표현해 보세요. 옷장을 "
 "채워나가는 것부터 새로운 트렌드를 소화하는 것까지, 저희 컬렉션은 활기찬 패션 "
-"경험을 위한 토대를을 제공합니다. 더 이상 예전에 선택했던 것만으로 스타일을 제"
-"한하지 마세요.<br/><br/>"
+"경험을 위한 토대를을 제공합니다. 더 이상 예전에 선택했던 것만으로 스타일을 "
+"제한하지 마세요.<br/><br/>"
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_empowerment
@@ -191,8 +194,8 @@ msgid ""
 "A beautiful midi dress with vibrant floral prints, designed with a flowing "
 "skirt and fitted bodice, ideal for summer outings."
 msgstr ""
-"생동감 넘치는 플라워 프린트가 있는 매혹적인 미디 드레스로, 흐르는 듯한 스커트"
-"와 몸에 꼭 맞는 디자인으로 여름 외출용으로 이상적입니다."
+"생동감 넘치는 플라워 프린트가 있는 매혹적인 미디 드레스로, 흐르는 듯한 "
+"스커트와 몸에 꼭 맞는 디자인으로 여름 외출용으로 이상적입니다."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_key_images
@@ -299,8 +302,8 @@ msgid ""
 "Designed for the modern individual, our fashion seamlessly transitions from "
 "day to night, offering versatile pieces for any wardrobe."
 msgstr ""
-"현대인을 위해 디자인된 패션은 낮과 밤을 거침없이 오가며 어떤 옷장에도 어울릴"
-"만한 다재다능한 아이템을 제공합니다."
+"현대인을 위해 디자인된 패션은 낮과 밤을 거침없이 오가며 어떤 옷장에도 "
+"어울릴만한 다재다능한 아이템을 제공합니다."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_cover
@@ -493,8 +496,8 @@ msgid ""
 "Explore more and find unique fashion that aligns with your personal style, "
 "crafted for confidence and sophistication."
 msgstr ""
-"자신감과 세련미로 나만의 개인적인 스타일에 맞는 독특한 패션에 대해 자세히 알"
-"아보세요."
+"자신감과 세련미로 나만의 개인적인 스타일에 맞는 독특한 패션에 대해 자세히 "
+"알아보세요."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_freegrid
@@ -514,9 +517,9 @@ msgid ""
 "styles. We believe in inclusivity, offering collections that represent "
 "everyone. Fashion is for all—find your unique expression with us."
 msgstr ""
-"모든 개성과 스타일을 아우르는 다양한 패션을 만나보세요. 용성에 대한 믿음을 누"
-"구나 입을 수 있는 컬렉션을 통해 표현합니다. 패션은 모두를 위한 것입니다. 나만"
-"의 특별한 개성을 찾아보세요."
+"모든 개성과 스타일을 아우르는 다양한 패션을 만나보세요. 용성에 대한 믿음을 "
+"누구나 입을 수 있는 컬렉션을 통해 표현합니다. 패션은 모두를 위한 것입니다. "
+"나만의 특별한 개성을 찾아보세요."
 
 #. module: theme_anelusia
 #: model_terms:theme.ir.ui.view,arch:theme_anelusia.s_images_mosaic
@@ -560,8 +563,9 @@ msgid ""
 "Go off beaten track and discover unexpected and curious places. Here’s our "
 "ultimate guide to the best-kept secret spots that you simply must visit!"
 msgstr ""
-"정해진 길을 벗어나서 예상하지 못한 호기심 가득한 장소를 발견해 보세요. 반드"
-"시 방문해야만 하는 최고의 비밀 명소에 대한 궁극의 가이드를 선사해 드립니다!"
+"정해진 길을 벗어나서 예상하지 못한 호기심 가득한 장소를 발견해 보세요. "
+"반드시 방문해야만 하는 최고의 비밀 명소에 대한 궁극의 가이드를 선사해 "
+"드립니다!"
 
 #. module: theme_anelusia
 #: model:ir.model.fields,field_description:theme_anelusia.field_theme_utils__id
