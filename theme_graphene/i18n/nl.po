@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:39+0000\n"
-"PO-Revision-Date: 2026-03-21 20:51+0000\n"
+"PO-Revision-Date: 2026-06-27 20:54+0000\n"
 "Last-Translator: Bren Driesen <brdri@odoo.com>\n"
 "Language-Team: Dutch <https://translate.odoo.com/projects/odoo-s19-1/"
 "theme_graphene/nl/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_key_benefits
@@ -45,6 +45,8 @@ msgid ""
 "<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/> Customer-"
 "first approach"
 msgstr ""
+"<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/> "
+"Klantgerichte aanpak"
 
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_unveil
@@ -321,7 +323,7 @@ msgstr ""
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_empowerment
 msgid "Read our reviews <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
-msgstr ""
+msgstr "Lees onze reviews <i class=\"fa fa-long-arrow-right\" role=\"img\"/>"
 
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_pricelist_boxed
