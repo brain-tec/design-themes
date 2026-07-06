@@ -1,23 +1,26 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_kiddo
+# * theme_kiddo
 #
 # Translators:
 # Wil Odoo, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Wil Odoo, 2025\n"
-"Language-Team: Korean (https://app.transifex.com/odoo/teams/41243/ko/)\n"
+"PO-Revision-Date: 2026-06-27 22:44+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Korean <https://translate.odoo.com/projects/odoo-s18-3/"
+"theme_kiddo/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_quotes_carousel_minimal
@@ -95,10 +98,10 @@ msgid ""
 "ensure your little ones receive the care and attention they need to thrive."
 "<br/><br/>"
 msgstr ""
-"<br/>어린이집 방문을 환영합니다. 유아들의 발달을 가장 우선으로 생각합니다. 호"
-"기심과 배움을 이끌 수 있게 설계된 따뜻하고 포근한 환경을 제공합니다. 풍부한 "
-"경험을 갖춘 직원들과 흥미로운 활동을 통해 어린 자녀가 충분한 보살핌과 관심 속"
-"에 성장해 나갈 수 있도록 지원합니다.<br/><br/>"
+"<br/>어린이집 방문을 환영합니다. 유아들의 발달을 가장 우선으로 생각합니다. "
+"호기심과 배움을 이끌 수 있게 설계된 따뜻하고 포근한 환경을 제공합니다. "
+"풍부한 경험을 갖춘 직원들과 흥미로운 활동을 통해 어린 자녀가 충분한 보살핌과 "
+"관심 속에 성장해 나갈 수 있도록 지원합니다.<br/><br/>"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_empowerment
@@ -319,8 +322,8 @@ msgid ""
 "Ensure your child’s well-being in a secure, caring setting with experienced "
 "staff dedicated to providing personalized attention and support."
 msgstr ""
-"숙련된 직원이 개인에게 맞추어 관심과 지원을 아끼지 않는 안전하고 보살핌이 가"
-"득한 환경에서 자녀의 웰빙을 보장하세요."
+"숙련된 직원이 개인에게 맞추어 관심과 지원을 아끼지 않는 안전하고 보살핌이 "
+"가득한 환경에서 자녀의 웰빙을 보장하세요."
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_call_to_action
@@ -426,8 +429,8 @@ msgid ""
 "> Explore the magic of playtime."
 msgstr ""
 "다양한 장난감과 게임으로 아이의 상상력을 자극해 보세요. 창의력과 재미를 줄 "
-"수 있도록 고안되어 모든 연령대의 아이들에게 즐거움을 선사합니다.<br/><br/>놀"
-"이의 마법을 경험해보세요."
+"수 있도록 고안되어 모든 연령대의 아이들에게 즐거움을 선사합니다.<br/><br/>"
+"놀이의 마법을 경험해보세요."
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_striped_center_top
@@ -451,9 +454,9 @@ msgid ""
 "of all ages. Our products are designed to engage young minds, offering "
 "endless hours of fun and learning."
 msgstr ""
-"모든 연령대의 어린이를 위한 다양한 장난감과 게임으로 상상력과 창의력을 키워주"
-"세요. 저희 제품은 아이들의 흥미를 끌 수 있도록 고안되어 무한한 재미와 함께 배"
-"울 수 있는 시간을 선사합니다."
+"모든 연령대의 어린이를 위한 다양한 장난감과 게임으로 상상력과 창의력을 "
+"키워주세요. 저희 제품은 아이들의 흥미를 끌 수 있도록 고안되어 무한한 재미와 "
+"함께 배울 수 있는 시간을 선사합니다."
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_pricelist_boxed
@@ -537,8 +540,8 @@ msgid ""
 "Our dedicated staff is here to support you and your child, offering guidance "
 "and assistance whenever you need it."
 msgstr ""
-"전담 직원이 학부모님 및 자녀를 지원하기 위해 언제든지 안내와 지원을 아끼지 않"
-"고 있습니다."
+"전담 직원이 학부모님 및 자녀를 지원하기 위해 언제든지 안내와 지원을 아끼지 "
+"않고 있습니다."
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_cta_box
@@ -552,9 +555,9 @@ msgid ""
 "premises, child-friendly spaces, and vigilant supervision, we provide peace "
 "of mind for parents and a joyful experience for children."
 msgstr ""
-"저희 시설은 자녀의 안전을 염두에 두고 설계되었습니다. 안전한 건물, 어린이 친"
-"화적인 공간, 철저한 감독을 통해 학부모님께서 안심하고 보낼 수 있으며 어린이들"
-"은 즐거운 경험을 할 수 있습니다."
+"저희 시설은 자녀의 안전을 염두에 두고 설계되었습니다. 안전한 건물, 어린이 "
+"친화적인 공간, 철저한 감독을 통해 학부모님께서 안심하고 보낼 수 있으며 "
+"어린이들은 즐거운 경험을 할 수 있습니다."
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_shape_image
@@ -563,9 +566,9 @@ msgid ""
 "and learn. With engaging activities and a focus on development, we ensure a "
 "supportive start to each child's educational journey."
 msgstr ""
-"저희 유치원에서는 어린이가 성장하고 배울 수 있는 양육 환경이 조성되어 있습니"
-"다. 흥미로운 활동과 발달에 초점을 맞춘 교육 프로그램을 통해 어린이의 교육 여"
-"정에 있어 안정적인 출발을 보장합니다."
+"저희 유치원에서는 어린이가 성장하고 배울 수 있는 양육 환경이 조성되어 "
+"있습니다. 흥미로운 활동과 발달에 초점을 맞춘 교육 프로그램을 통해 어린이의 "
+"교육 여정에 있어 안정적인 출발을 보장합니다."
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_empowerment
@@ -599,8 +602,8 @@ msgid ""
 "atmosphere where every child feels valued and understood."
 msgstr ""
 "숙련된 돌봄 전문가와 교육자로 구성된 팀에서 개인에 맞추어 관심과 함께 보살필 "
-"수 있도록 최선을 다하고 있습니다. 모든 어린이가 소중하고 여겨지는 따뜻하고 지"
-"지적인 분위기를 조성하는 데 중점을 둡니다."
+"수 있도록 최선을 다하고 있습니다. 모든 어린이가 소중하고 여겨지는 따뜻하고 "
+"지지적인 분위기를 조성하는 데 중점을 둡니다."
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_pricelist_boxed
@@ -777,9 +780,9 @@ msgid ""
 "Our caring teachers provide a safe and stimulating environment for early "
 "growth and exploration."
 msgstr ""
-"모든 어린이의 필요에 맞춰 흥미롭고 재미있는 경험을 선사합니다. 배려심 많은 선"
-"생님들이 성장과 탐구심을 촉진하도록 안전하고 자극을 줄 수 있는 환경을 제공합"
-"니다."
+"모든 어린이의 필요에 맞춰 흥미롭고 재미있는 경험을 선사합니다. 배려심 많은 "
+"선생님들이 성장과 탐구심을 촉진하도록 안전하고 자극을 줄 수 있는 환경을 "
+"제공합니다."
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_cards_grid
@@ -799,9 +802,9 @@ msgid ""
 "learn, and grow. Our programs are designed to foster creativity, curiosity, "
 "and a love for learning from an early age."
 msgstr ""
-"아이들이 탐구하고, 배우고, 성장할 수 있는 안전하고 흥미로운 환경을 제공합니"
-"다. 저희 프로그램은 어린 시절부터 창의성, 호기심, 학습을 사랑할 수 있게 키우"
-"도록 설계되었습니다."
+"아이들이 탐구하고, 배우고, 성장할 수 있는 안전하고 흥미로운 환경을 "
+"제공합니다. 저희 프로그램은 어린 시절부터 창의성, 호기심, 학습을 사랑할 수 "
+"있게 키우도록 설계되었습니다."
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_wavy_grid
@@ -810,8 +813,9 @@ msgid ""
 "learn and grow. Using innovative methods, we make every day a new adventure "
 "in discovery."
 msgstr ""
-"자녀 학습과 성장을 도울 수 있도록 체험 활동과 창의적인 프로젝트를 진행합니"
-"다. 혁신적인 방법을 사용하여 매일을 새로운 발견의 모험으로 만들어 줍니다."
+"자녀 학습과 성장을 도울 수 있도록 체험 활동과 창의적인 프로젝트를 "
+"진행합니다. 혁신적인 방법을 사용하여 매일을 새로운 발견의 모험으로 만들어 "
+"줍니다."
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_key_benefits
@@ -819,8 +823,8 @@ msgid ""
 "We provide tailored care and learning programs that cater to the unique "
 "needs of each child, fostering their growth and development."
 msgstr ""
-"개별 어린이의 고유한 요구에 맞는 맞춤형 보육 및 학습 프로그램을 제공하여 어린"
-"이들의 성장과 발달을 촉진합니다."
+"개별 어린이의 고유한 요구에 맞는 맞춤형 보육 및 학습 프로그램을 제공하여 "
+"어린이들의 성장과 발달을 촉진합니다."
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_wavy_grid

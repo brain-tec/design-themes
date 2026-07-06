@@ -1,23 +1,26 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_odoo_experts
+# * theme_odoo_experts
 #
 # Translators:
 # Wil Odoo, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Wil Odoo, 2025\n"
-"Language-Team: Thai (https://app.transifex.com/odoo/teams/41243/th/)\n"
+"PO-Revision-Date: 2026-06-27 22:44+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Thai <https://translate.odoo.com/projects/odoo-s18-3/"
+"theme_odoo_experts/th/>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_call_to_action
@@ -65,16 +68,16 @@ msgid ""
 "your business thrive in a competitive landscape. We create tailored "
 "solutions that foster sustainable growth and long-term success."
 msgstr ""
-"<br/"
-">ทีมงานของเรามอบความเชี่ยวชาญและข้อมูลเชิงลึกด้านกลยุทธ์ที่จำเป็นเพื่อช่วยให้ธุรกิจของคุณเติบโตในการแข่งขัน "
-"เราสร้างโซลูชันที่ส่งเสริมการเติบโตอย่างยั่งยืนเพื่อความสำเร็จในระยะยาว"
+"<br/>ทีมงานของเรามอบความเชี่ยวชาญและข้อมูลเชิงลึกด้านกลยุทธ์ที่จำเป็นเพื่อช่วยให้ธุรกิจของคุณเติบโ"
+"ตในการแข่งขัน เราสร้างโซลูชันที่ส่งเสริมการเติบโตอย่างยั่งยืนเพื่อความสำเร็จในระยะยาว"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_empowerment
 msgid ""
 "<br/>Providing personalized strategies and insights to help you succeed.<br/"
 "><br/>"
-msgstr "<br/>มอบกลยุทธ์และข้อมูลเชิงลึกเฉพาะบุคคลเพื่อช่วยให้คุณประสบความสำเร็จ<br/><br/>"
+msgstr ""
+"<br/>มอบกลยุทธ์และข้อมูลเชิงลึกเฉพาะบุคคลเพื่อช่วยให้คุณประสบความสำเร็จ<br/><br/>"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_picture
@@ -99,8 +102,8 @@ msgid ""
 "<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/>  Trusted "
 "guidance"
 msgstr ""
-"<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/"
-">  คำแนะนำที่เชื่อถือได้"
+"<i class=\"fa fa-fw fa-info-circle o_not-animable\" role=\"img\"/>  คำแนะนำที่เ"
+"ชื่อถือได้"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_numbers_list
@@ -134,9 +137,8 @@ msgid ""
 msgstr ""
 "<span class=\"o_text_highlight o_translate_inline "
 "o_text_highlight_circle_1\" style=\"--text-highlight-width: 6px; --text-"
-"highlight-color: var(--o-color-1);\"><span "
-"class=\"o_text_highlight_item\">พลิกโฉม</span></span>ธุรกิจของคุณ<br/"
-">ด้วยตัวชี้วัดที่แท้จริง"
+"highlight-color: var(--o-color-1);\"><span class=\"o_text_highlight_item\">พลิ"
+"กโฉม</span></span>ธุรกิจของคุณ<br/>ด้วยตัวชี้วัดที่แท้จริง"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_media_list
@@ -183,7 +185,9 @@ msgstr ""
 msgid ""
 "Achieve your business goals with our expert advisory services, offering "
 "strategic insights and financial guidance."
-msgstr "บรรลุเป้าหมายทางธุรกิจของคุณด้วยบริการที่ปรึกษาผู้เชี่ยวชาญของเราซึ่งเสนอข้อมูลเชิงลึกเชิงกลยุทธ์และคำแนะนำทางการเงิน"
+msgstr ""
+"บรรลุเป้าหมายทางธุรกิจของคุณด้วยบริการที่ปรึกษาผู้เชี่ยวชาญของเราซึ่งเสนอข้อมูลเชิงลึกเชิงกลยุทธ์และ"
+"คำแนะนำทางการเงิน"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_showcase
@@ -300,8 +304,8 @@ msgid ""
 "strategy and IT solutions. We provide the insights and tools you need to "
 "succeed in a competitive market."
 msgstr ""
-"ยกระดับธุรกิจของคุณด้วยบริการที่ปรึกษาผู้เชี่ยวชาญของเราในด้านกลยุทธ์องค์กรและโซลูชันไอที "
-"เรามอบข้อมูลเชิงลึกและเครื่องมือที่คุณต้องการเพื่อประสบความสำเร็จในตลาดที่มีการแข่งขันสูงได้"
+"ยกระดับธุรกิจของคุณด้วยบริการที่ปรึกษาผู้เชี่ยวชาญของเราในด้านกลยุทธ์องค์กรและโซลูชันไอที เรามอบข้"
+"อมูลเชิงลึกและเครื่องมือที่คุณต้องการเพื่อประสบความสำเร็จในตลาดที่มีการแข่งขันสูงได้"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_key_images
@@ -476,9 +480,9 @@ msgid ""
 "provide the insights and support your need to navigate the corporate world "
 "with confidence.<br/><br/> Let’s achieve your business goals together."
 msgstr ""
-"เพิ่มประสิทธิภาพกลยุทธ์ทางธุรกิจของคุณด้วยบริการที่ปรึกษาผู้เชี่ยวชาญของเรา "
-"เราให้ข้อมูลเชิงลึกและสนับสนุนความต้องการของคุณในการก้าวไปข้างหน้าในโลกขององค์กรด้วยความมั่นใจ<br/"
-"><br/> เราพร้อมทำให้ธุรกิจของคุณประสบความสำเร็จแล้ว"
+"เพิ่มประสิทธิภาพกลยุทธ์ทางธุรกิจของคุณด้วยบริการที่ปรึกษาผู้เชี่ยวชาญของเรา เราให้ข้อมูลเชิงลึกและสนั"
+"บสนุนความต้องการของคุณในการก้าวไปข้างหน้าในโลกขององค์กรด้วยความมั่นใจ<br/><br/> เราพร้อม"
+"ทำให้ธุรกิจของคุณประสบความสำเร็จแล้ว"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_pricelist_boxed
@@ -491,8 +495,8 @@ msgid ""
 "Our advisory team offers continuous support and updates, providing you with "
 "reliable assistance whenever you need it."
 msgstr ""
-"ทีมที่ปรึกษาของเราพร้อมให้การสนับสนุนและอัปเดตอย่างต่อเนื่อง "
-"เพื่อมอบความช่วยเหลือที่เชื่อถือได้ให้คุณทุกเมื่อที่ต้องการ"
+"ทีมที่ปรึกษาของเราพร้อมให้การสนับสนุนและอัปเดตอย่างต่อเนื่อง เพื่อมอบความช่วยเหลือที่เชื่อถือได้ให้คุณ"
+"ทุกเมื่อที่ต้องการ"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_banner
@@ -548,7 +552,8 @@ msgstr "กลยุทธ์ที่ได้รับการพิสูจ
 msgid ""
 "Providing expert guidance to optimize your financial resources and maximize "
 "profitability."
-msgstr "ให้คำแนะนำจากผู้เชี่ยวชาญเพื่อเพิ่มประสิทธิภาพทรัพยากรทางการเงินของคุณและเพิ่มผลกำไรสูงสุด"
+msgstr ""
+"ให้คำแนะนำจากผู้เชี่ยวชาญเพื่อเพิ่มประสิทธิภาพทรัพยากรทางการเงินของคุณและเพิ่มผลกำไรสูงสุด"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_empowerment
@@ -677,9 +682,9 @@ msgid ""
 msgstr ""
 "ปลดล็อก\n"
 "                <span class=\"o_text_highlight o_translate_inline "
-"o_text_highlight_circle_1\" style=\"--text-highlight-color: var(--o-"
-"color-1); --text-highlight-width: 6px;\"><span "
-"class=\"o_text_highlight_item\">การเติบโต</span></span>\n"
+"o_text_highlight_circle_1\" style=\"--text-highlight-color: var(--o-color-1)"
+"; --text-highlight-width: 6px;\"><span class=\"o_text_highlight_item\">การเติบ"
+"โต</span></span>\n"
 "                ของธุรกิจคุณ"
 
 #. module: theme_odoo_experts
@@ -693,8 +698,8 @@ msgid ""
 "With over 15 years of proven success, we deliver expert guidance and "
 "strategic insights for your business’s future."
 msgstr ""
-"ด้วยประสบการณ์กว่า 15 ปีที่พิสูจน์ความสำเร็จ "
-"เรานำเสนอคำแนะนำจากผู้เชี่ยวชาญและข้อมูลเชิงกลยุทธ์เพื่ออนาคตของธุรกิจคุณ"
+"ด้วยประสบการณ์กว่า 15 ปีที่พิสูจน์ความสำเร็จ เรานำเสนอคำแนะนำจากผู้เชี่ยวชาญและข้อมูลเชิงกลยุทธ์"
+"เพื่ออนาคตของธุรกิจคุณ"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_pricelist_boxed

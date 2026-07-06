@@ -6,13 +6,14 @@
 # Wil Odoo, 2025
 #
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-11-15 22:53+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-27 22:45+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Thai <https://translate.odoo.com/projects/odoo-s18-3/"
 "theme_monglia/th/>\n"
 "Language: th\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_quotes_carousel_minimal
@@ -532,8 +533,8 @@ msgid ""
 "parties to intimate gatherings, we provide the perfect setting, food, and "
 "entertainment for every occasion."
 msgstr ""
-"สัมผัสประสบการณ์ที่น่าประทับใจด้วยบริการจัดงานของเรา ไม่ว่าจะเป็นงานปาร์ตี้หรืองานสังสรรค์เล็กๆ "
-"น้อยๆ เราจัดเตรียมสถานที่ อาหาร และความบันเทิงที่เหมาะสำหรับทุกโอกาส"
+"สัมผัสประสบการณ์ที่น่าประทับใจด้วยบริการจัดงานของเรา ไม่ว่าจะเป็นงานปาร์ตี้หรืองานสังสรรค์เล็กๆ น้"
+"อยๆ เราจัดเตรียมสถานที่ อาหาร และความบันเทิงที่เหมาะสำหรับทุกโอกาส"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_striped_center_top
@@ -707,7 +708,9 @@ msgstr "บริการของเรา"
 msgid ""
 "Our team provides full support from planning to execution, making sure your "
 "event runs smoothly and leaves a lasting impression."
-msgstr "ทีมงานของเราให้การสนับสนุนเต็มรูปแบบตั้งแต่การวางแผนไปจนถึงการดำเนินการเพื่อให้แน่ใจว่างานของคุณจะดำเนินไปอย่างราบรื่นและสร้างความประทับใจไม่รู้ลืม"
+msgstr ""
+"ทีมงานของเราให้การสนับสนุนเต็มรูปแบบตั้งแต่การวางแผนไปจนถึงการดำเนินการเพื่อให้แน่ใจว่างานของ"
+"คุณจะดำเนินไปอย่างราบรื่นและสร้างความประทับใจไม่รู้ลืม"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
@@ -922,8 +925,8 @@ msgid ""
 "Leveraging the latest trends, we create fun and engaging activities for all "
 "attendees."
 msgstr ""
-"เรานำเสนอแนวคิดที่ล้ำสมัยและฟีเจอร์แบบโต้ตอบให้กับงานกิจกรรมของเรา "
-"โดยใช้ประโยชน์จากเทรนด์ล่าสุด เราจึงสร้างกิจกรรมที่สนุกสนานและน่าดึงดูดสำหรับผู้เข้าร่วมทุกคน"
+"เรานำเสนอแนวคิดที่ล้ำสมัยและฟีเจอร์แบบโต้ตอบให้กับงานกิจกรรมของเรา โดยใช้ประโยชน์จากเทรนด์ล่"
+"าสุด เราจึงสร้างกิจกรรมที่สนุกสนานและน่าดึงดูดสำหรับผู้เข้าร่วมทุกคน"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_key_benefits
@@ -989,8 +992,8 @@ msgid ""
 "Your enjoyment is our goal. Our dedicated staff is always on hand to provide "
 "support, ensuring a smooth and environmentally friendly festival experience."
 msgstr ""
-"ความสนุกของคุณคือเป้าหมายของเรา พนักงานของเราพร้อมเสมอที่จะให้การสนับสนุน "
-"เพื่อให้แน่ใจว่าเทศกาลจะดำเนินไปอย่างราบรื่นและเป็นมิตรต่อสิ่งแวดล้อม"
+"ความสนุกของคุณคือเป้าหมายของเรา พนักงานของเราพร้อมเสมอที่จะให้การสนับสนุน เพื่อให้แน่ใจว่าเทศ"
+"กาลจะดำเนินไปอย่างราบรื่นและเป็นมิตรต่อสิ่งแวดล้อม"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_big_number

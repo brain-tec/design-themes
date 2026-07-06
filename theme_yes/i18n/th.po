@@ -6,13 +6,14 @@
 # Wil Odoo, 2025
 #
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-11-15 22:53+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-27 22:48+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Thai <https://translate.odoo.com/projects/odoo-s18-3/"
 "theme_yes/th/>\n"
 "Language: th\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_quotes_carousel_minimal
@@ -238,8 +239,8 @@ msgid ""
 "Bespoke floral arrangements designed to match your wedding theme, including "
 "bridal bouquets, centerpieces, and ceremony flowers."
 msgstr ""
-"การจัดดอกไม้ที่ปรับแต่งเฉพาะตามธีมงานแต่งงานของคุณ รวมถึงช่อดอกเจ้าสาว, "
-"ดอกไม้ตกแต่งโต๊ะกลาง, และดอกไม้สำหรับพิธี"
+"การจัดดอกไม้ที่ปรับแต่งเฉพาะตามธีมงานแต่งงานของคุณ รวมถึงช่อดอกเจ้าสาว, ดอกไม้ตกแต่งโต๊ะกลา"
+"ง, และดอกไม้สำหรับพิธี"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_cta_box
@@ -497,7 +498,8 @@ msgstr ""
 msgid ""
 "Enhance your celebration with our bespoke solutions and professional "
 "guidance."
-msgstr "เพิ่มความหรูหราให้กับการฉลองของคุณด้วยโซลูชันเฉพาะของเราและรับคำแนะนำจากมืออาชีพ"
+msgstr ""
+"เพิ่มความหรูหราให้กับการฉลองของคุณด้วยโซลูชันเฉพาะของเราและรับคำแนะนำจากมืออาชีพ"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_features_wall
@@ -587,7 +589,8 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_features
 msgid ""
 "From photography to videography, we will record all the important moments."
-msgstr "ตั้งแต่การถ่ายภาพจนถึงการถ่ายวิดีโอ เราจะบันทึกช่วงเวลาพิเศษทั้งหมดของคุณ"
+msgstr ""
+"ตั้งแต่การถ่ายภาพจนถึงการถ่ายวิดีโอ เราจะบันทึกช่วงเวลาพิเศษทั้งหมดของคุณ"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_cards_grid
@@ -620,8 +623,8 @@ msgid ""
 "offering exclusive options that enhance the elegance and individuality of "
 "your wedding."
 msgstr ""
-"เข้าถึงรายชื่อผู้ขายชั้นนำและสถานที่จัดงานที่เราคัดสรรมาเป็นพิเศษ "
-"ซึ่งนำเสนอตัวเลือกพิเศษที่ช่วยเสริมความสง่างามและเอกลักษณ์เฉพาะตัวให้กับงานแต่งงานของคุณ"
+"เข้าถึงรายชื่อผู้ขายชั้นนำและสถานที่จัดงานที่เราคัดสรรมาเป็นพิเศษ ซึ่งนำเสนอตัวเลือกพิเศษที่ช่วยเสริมค"
+"วามสง่างามและเอกลักษณ์เฉพาะตัวให้กับงานแต่งงานของคุณ"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_kickoff
@@ -737,9 +740,8 @@ msgid ""
 "ideas into reality, making sure your wedding day is smooth and looks better "
 "than anything you have ever seen on Pinterest."
 msgstr ""
-"Livia เป็นหัวหน้าผู้ประสานงานงานแต่งและสไตลิสต์ของเรา "
-"เธอจะเปลี่ยนไอเดียของคุณให้กลายเป็นความจริง "
-"เพื่อให้แน่ใจว่าวันแต่งงานของคุณจะราบรื่นและดูดีกว่าสิ่งที่คุณเคยเห็นบน Pinterest"
+"Livia เป็นหัวหน้าผู้ประสานงานงานแต่งและสไตลิสต์ของเรา เธอจะเปลี่ยนไอเดียของคุณให้กลายเป็นคว"
+"ามจริง เพื่อให้แน่ใจว่าวันแต่งงานของคุณจะราบรื่นและดูดีกว่าสิ่งที่คุณเคยเห็นบน Pinterest"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_picture
@@ -839,8 +841,8 @@ msgid ""
 "Our team provides comprehensive support from initial consultation to the big "
 "day, handling every aspect to ensure a smooth and stress-free experience."
 msgstr ""
-"ทีมงานของเรามอบการสนับสนุนที่ครอบคลุมตั้งแต่การปรึกษาเพื่อหารือในเบื้องต้นจนถึงวันสำคัญ "
-"โดยจัดการทุกด้านเพื่อให้แน่ใจว่าจะมีประสบการณ์ราบรื่นและปราศจากความเครียด"
+"ทีมงานของเรามอบการสนับสนุนที่ครอบคลุมตั้งแต่การปรึกษาเพื่อหารือในเบื้องต้นจนถึงวันสำคัญ โดยจัดการ"
+"ทุกด้านเพื่อให้แน่ใจว่าจะมีประสบการณ์ราบรื่นและปราศจากความเครียด"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_freegrid

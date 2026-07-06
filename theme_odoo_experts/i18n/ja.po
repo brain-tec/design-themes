@@ -6,13 +6,14 @@
 # Wil Odoo, 2025
 #
 # "Junko Augias (juau)" <juau@odoo.com>, 2025.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-09-29 23:50+0000\n"
-"Last-Translator: \"Junko Augias (juau)\" <juau@odoo.com>\n"
+"PO-Revision-Date: 2026-06-27 22:44+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Japanese <https://translate.odoo.com/projects/odoo-s18-3/"
 "theme_odoo_experts/ja/>\n"
 "Language: ja\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_call_to_action
@@ -193,8 +194,8 @@ msgid ""
 "Achieve your business goals with our expert advisory services, offering "
 "strategic insights and financial guidance."
 msgstr ""
-"戦略的な洞察と財務上のガイダンスを提供する当社のエキスパートによるアドバイス"
-"サービスで、ビジネス目標を達成しましょう。"
+"戦略的な洞察と財務上のガイダンスを提供する当社のエキスパートによる"
+"アドバイスサービスで、ビジネス目標を達成しましょう。"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_showcase
@@ -493,8 +494,8 @@ msgid ""
 "with confidence.<br/><br/> Let’s achieve your business goals together."
 msgstr ""
 "エキスパートによるアドバイスサービスでビジネス戦略を最適化しましょう。当社の"
-"洞察を元に、あなたが自信を持って企業をナビゲートできるようサポートいたしま"
-"す。<br/><br/>ビジネス目標を一緒に達成しましょう。"
+"洞察を元に、あなたが自信を持って企業をナビゲートできるようサポートいたします"
+"。<br/><br/>ビジネス目標を一緒に達成しましょう。"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_pricelist_boxed
@@ -693,9 +694,9 @@ msgid ""
 msgstr ""
 "あなたのビジネスの\n"
 "                <span class=\"o_text_highlight o_translate_inline "
-"o_text_highlight_circle_1\" style=\"--text-highlight-color: var(--o-"
-"color-1); --text-highlight-width: 6px;\"><span "
-"class=\"o_text_highlight_item\">成長</span></span>\n"
+"o_text_highlight_circle_1\" style=\"--text-highlight-color: var(--o-color-1)"
+"; --text-highlight-width: 6px;\"><span class=\"o_text_highlight_item\">成長</"
+"span></span>\n"
 "                を解き放つ"
 
 #. module: theme_odoo_experts
@@ -709,8 +710,8 @@ msgid ""
 "With over 15 years of proven success, we deliver expert guidance and "
 "strategic insights for your business’s future."
 msgstr ""
-"15年以上にわたる実績を誇る当社は、お客様のビジネスの未来のために、エキスパー"
-"トによる指導と戦略的な洞察を提供します。"
+"15年以上にわたる実績を誇る当社は、お客様のビジネスの未来のために、"
+"エキスパートによる指導と戦略的な洞察を提供します。"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_pricelist_boxed

@@ -6,13 +6,14 @@
 # Wil Odoo, 2025
 #
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-11-15 22:53+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-27 22:44+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Thai <https://translate.odoo.com/projects/odoo-s18-3/"
 "theme_notes/th/>\n"
 "Language: th\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_quotes_carousel_minimal
@@ -150,10 +151,9 @@ msgid ""
 "your bike in the designated areas of the city."
 msgstr ""
 "<br/>\n"
-"        คุณจะพบกับวิธีการเดินทางต่างๆ เพื่อไปยังเทศกาลได้ที่นี่ "
-"สามารถเดินทางมายังเทศกาลนี้ได้ด้วยจักรยาน แต่ควรระมัดระวัง "
-"เพราะคุณจะขี่อยู่ในใจกลางเมืองที่มีรถเยอะมาก "
-"โปรดตรวจสอบให้แน่ใจว่าได้จอดจักรยานไว้ในพื้นที่ที่กำหนดของเมือง"
+"        คุณจะพบกับวิธีการเดินทางต่างๆ เพื่อไปยังเทศกาลได้ที่นี่ สามารถเดินทางมายังเทศกาลนี้ได้ด้ว"
+"ยจักรยาน แต่ควรระมัดระวัง เพราะคุณจะขี่อยู่ในใจกลางเมืองที่มีรถเยอะมาก โปรดตรวจสอบให้แน่ใจว่า"
+"ได้จอดจักรยานไว้ในพื้นที่ที่กำหนดของเมือง"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_empowerment
@@ -627,9 +627,9 @@ msgid ""
 "of genres and styles to suit any event, providing high-energy performances "
 "that create unforgettable memories for your audience."
 msgstr ""
-"สัมผัสประสบการณ์ดนตรีสดที่น่าหลงใหลกับวงดนตรีมากความสามารถของเรา "
-"เรามีดนตรีหลากหลายแนวและสไตล์ที่เหมาะกับงานอีเวนต์ต่างๆ "
-"พร้อมการแสดงสุดเร้าใจที่จะสร้างความทรงจำที่ไม่รู้ลืมให้กับผู้ชมของคุณ"
+"สัมผัสประสบการณ์ดนตรีสดที่น่าหลงใหลกับวงดนตรีมากความสามารถของเรา เรามีดนตรีหลากหลายแนวแล"
+"ะสไตล์ที่เหมาะกับงานอีเวนต์ต่างๆ พร้อมการแสดงสุดเร้าใจที่จะสร้างความทรงจำที่ไม่รู้ลืมให้กับผู้ชมของคุ"
+"ณ"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_cards_grid
@@ -951,9 +951,9 @@ msgid ""
 "nine million albums and thirty million singles worldwide. In 2011, he was "
 "voted as the number one DJ in the DJ Mag Top 100 DJs poll."
 msgstr ""
-"Mich Starck เป็นดีเจ โปรดิวเซอร์ และนักแต่งเพลงชาวฝรั่งเศส เขามียอดขายมากกว่า 9 "
-"ล้านอัลบั้มและสามสิบล้านซิงเกิลทั่วโลก ในปี 2011 "
-"เขาได้รับการโหวตให้เป็นดีเจอันดับหนึ่งในการสำรวจ DJ Mag Top 100 DJs"
+"Mich Starck เป็นดีเจ โปรดิวเซอร์ และนักแต่งเพลงชาวฝรั่งเศส เขามียอดขายมากกว่า 9 ล้านอัลบั้ม"
+"และสามสิบล้านซิงเกิลทั่วโลก ในปี 2011 เขาได้รับการโหวตให้เป็นดีเจอันดับหนึ่งในการสำรวจ DJ "
+"Mag Top 100 DJs"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
@@ -1158,10 +1158,9 @@ msgid ""
 "innovative sound. As they honed their craft, their fanbase grew, fueled by "
 "word-of-mouth buzz and their undeniable chemistry on stage."
 msgstr ""
-"ในช่วงแรก พวกเขาเล่นคอนเสิร์ตเล็กๆ ตามคลับท้องถิ่น "
-"ซึ่งทำให้พวกเขาได้รับชื่อเสียงจากการแสดงที่เต็มไปด้วยพลังและเสียงเพลงที่แปลกใหม่ "
-"เมื่อพวกเขาฝึกฝนฝีมือจนชำนาญ ฐานแฟนคลับก็เพิ่มขึ้นเรื่อยๆ "
-"จากการบอกต่อแบบปากต่อปากและการทำงานร่วมกันบนเวที"
+"ในช่วงแรก พวกเขาเล่นคอนเสิร์ตเล็กๆ ตามคลับท้องถิ่น ซึ่งทำให้พวกเขาได้รับชื่อเสียงจากการแสดงที่เต็"
+"มไปด้วยพลังและเสียงเพลงที่แปลกใหม่ เมื่อพวกเขาฝึกฝนฝีมือจนชำนาญ ฐานแฟนคลับก็เพิ่มขึ้นเรื่อยๆ จาก"
+"การบอกต่อแบบปากต่อปากและการทำงานร่วมกันบนเวที"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_image_text

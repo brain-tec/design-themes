@@ -1,25 +1,27 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_kiddo
+# * theme_kiddo
 #
 # Translators:
 # Wil Odoo, 2025
 # Malaz Abuidris <msea@odoo.com>, 2025
-#
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Malaz Abuidris <msea@odoo.com>, 2025\n"
-"Language-Team: Arabic (https://app.transifex.com/odoo/teams/41243/ar/)\n"
+"PO-Revision-Date: 2026-06-27 22:44+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Arabic <https://translate.odoo.com/projects/odoo-s18-3/"
+"theme_kiddo/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_quotes_carousel_minimal
@@ -101,8 +103,8 @@ msgstr ""
 "<br/>Welcome to our nursery, where every child's development is our top "
 "priority. We provide a warm and supportive setting designed to foster "
 "curiosity and learning. With experienced staff and engaging activities, we "
-"ensure your little ones receive the care and attention they need to thrive."
-"<br/><br/>"
+"ensure your little ones receive the care and attention they need to "
+"thrive.<br/><br/>"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_empowerment
@@ -323,8 +325,8 @@ msgid ""
 "Ensure your child’s well-being in a secure, caring setting with experienced "
 "staff dedicated to providing personalized attention and support."
 msgstr ""
-"احرص على سلامة طفلك في بيئة آمنة ومليئة بالرعاية مع فريق عمل متمرس يكرس "
-"جهوده لتوفير الاهتمام والدعم الشخصي. "
+"احرص على سلامة طفلك في بيئة آمنة ومليئة بالرعاية مع فريق عمل متمرس يكرس جهوده "
+"لتوفير الاهتمام والدعم الشخصي. "
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_call_to_action
@@ -554,9 +556,9 @@ msgid ""
 "premises, child-friendly spaces, and vigilant supervision, we provide peace "
 "of mind for parents and a joyful experience for children."
 msgstr ""
-"تم تصميم مرافقنا مع مراعاة سلامة طفلك. نوفر راحة البال للآباء والأمهات "
-"وتجربة ممتعة للأطفال، وذلك بفضل المباني الآمنة والمساحات الملائمة للأطفال "
-"والإشراف اليقظ. "
+"تم تصميم مرافقنا مع مراعاة سلامة طفلك. نوفر راحة البال للآباء والأمهات وتجربة "
+"ممتعة للأطفال، وذلك بفضل المباني الآمنة والمساحات الملائمة للأطفال والإشراف "
+"اليقظ. "
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_shape_image
@@ -565,8 +567,8 @@ msgid ""
 "and learn. With engaging activities and a focus on development, we ensure a "
 "supportive start to each child's educational journey."
 msgstr ""
-"توفر حضانتنا بيئة حاضنة حيث يمكن للأطفال الصغار النمو والتعلم. من خلال "
-"الأنشطة الجذابة والتركيز على النمو، نضمن بداية داعمة لرحلة كل طفل في رحلته "
+"توفر حضانتنا بيئة حاضنة حيث يمكن للأطفال الصغار النمو والتعلم. من خلال الأنشطة "
+"الجذابة والتركيز على النمو، نضمن بداية داعمة لرحلة كل طفل في رحلته "
 "التعليمية.  "
 
 #. module: theme_kiddo
@@ -644,8 +646,8 @@ msgid ""
 "Reusable water bottle with a spill-proof lid and easy-grip design, ideal for "
 "staying hydrated throughout the day."
 msgstr ""
-"قارورة مياه قابلة لإعادة الاستخدام بغطاء مانع للانسكاب وتصميم سهل الإمساك "
-"بها، مثالية للحفاظ على ترطيب جسمك طوال اليوم. "
+"قارورة مياه قابلة لإعادة الاستخدام بغطاء مانع للانسكاب وتصميم سهل الإمساك بها، "
+"مثالية للحفاظ على ترطيب جسمك طوال اليوم. "
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_features_wall

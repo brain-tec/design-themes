@@ -8,13 +8,14 @@
 #
 # "Larissa Manderfeld (lman)" <lman@odoo.com>, 2025.
 # "Noemi Pla Garcia (nopl)" <nopl@odoo.com>, 2026.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2026-06-13 22:40+0000\n"
-"Last-Translator: \"Noemi Pla Garcia (nopl)\" <nopl@odoo.com>\n"
+"PO-Revision-Date: 2026-06-27 22:45+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Spanish <https://translate.odoo.com/projects/odoo-s18-3/"
 "theme_kea/es/>\n"
 "Language: es\n"
@@ -652,8 +653,8 @@ msgid ""
 msgstr ""
 "Vaya hacia el futuro con nuestras soluciones inmersivas de realidad virtual. "
 "La realidad virtual está transformando la manera en que interactuamos con el "
-"mundo digital, incluyendo juegos y aplicaciones empresariales. <br/><br/"
-">Experimente la tecnología de más alto nivel con nosotros."
+"mundo digital, incluyendo juegos y aplicaciones empresariales. <br/><br/>"
+"Experimente la tecnología de más alto nivel con nosotros."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_unveil

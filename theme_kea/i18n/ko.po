@@ -1,24 +1,27 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_kea
+# * theme_kea
 #
 # Translators:
 # Wil Odoo, 2025
 # Sarah Park, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Sarah Park, 2025\n"
-"Language-Team: Korean (https://app.transifex.com/odoo/teams/41243/ko/)\n"
+"PO-Revision-Date: 2026-06-27 22:46+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Korean <https://translate.odoo.com/projects/odoo-s18-3/"
+"theme_kea/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_quotes_carousel_minimal
@@ -441,8 +444,8 @@ msgid ""
 "reality technology. We provide tools and solutions that redefine how you "
 "interact with the digital world."
 msgstr ""
-"최첨단 가상 현실 기술로 가능성의 세계에 푹 빠져보세요. 디지털 세계와 상호 작"
-"용하는 방식을 새롭게 정의하는 도구와 솔루션을 제공합니다."
+"최첨단 가상 현실 기술로 가능성의 세계에 푹 빠져보세요. 디지털 세계와 상호 "
+"작용하는 방식을 새롭게 정의하는 도구와 솔루션을 제공합니다."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_wavy_grid
@@ -717,8 +720,8 @@ msgid ""
 "create a list that fits your needs."
 msgstr ""
 "스니펫을 활용하여 텍스트와 함께 좌우로 정렬된 이미지를 포함한 다양한 유형의 "
-"구성 요소를 만들 수 있습니다. 구성 요소를 복사하여 필요에 맞게 목록을 만들어"
-"보십시오."
+"구성 요소를 만들 수 있습니다. 구성 요소를 복사하여 필요에 맞게 목록을 "
+"만들어보십시오."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
@@ -820,8 +823,8 @@ msgid ""
 "We provide cutting-edge VR content and interactive solutions. Leveraging the "
 "latest advancements, we help you create unforgettable virtual experiences."
 msgstr ""
-"최첨단 VR 콘텐츠와 인터랙티브형 솔루션을 제공합니다. 최신 기술을 활용하여 잊"
-"지 못할 가상 경험을 만들어 낼 수 있도록 도와드립니다."
+"최첨단 VR 콘텐츠와 인터랙티브형 솔루션을 제공합니다. 최신 기술을 활용하여 "
+"잊지 못할 가상 경험을 만들어 낼 수 있도록 도와드립니다."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_wavy_grid

@@ -6,13 +6,14 @@
 # Wil Odoo, 2025
 #
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-11-15 22:53+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-27 22:43+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Thai <https://translate.odoo.com/projects/odoo-s18-3/"
 "theme_artists/th/>\n"
 "Language: th\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_quotes_carousel_minimal
@@ -117,11 +118,10 @@ msgid ""
 "Don’t let outdated methods limit your artistic potential any longer.<br/><br/"
 ">"
 msgstr ""
-"<br/>ก้าวเข้าสู่ยุคใหม่แห่งศิลปะด้วยเทคนิคอันล้ำสมัยของเรา "
-"ที่ถูกออกแบบมาเพื่อยกระดับสไตล์เฉพาะตัวของคุณ ตั้งแต่การพัฒนาทักษะ "
-"ไปจนถึงการเปิดโลกทัศน์แห่งความคิดสร้างสรรค์ "
-"เครื่องมือของเราคือรากฐานสำคัญที่จะสร้างผลลัพธ์ที่ยั่งยืน อย่าปล่อยให้วิธีการแบบเดิมๆ "
-"มาเป็นข้อจำกัดศักยภาพทางศิลปะของคุณอีกต่อไป<br/><br/>"
+"<br/>ก้าวเข้าสู่ยุคใหม่แห่งศิลปะด้วยเทคนิคอันล้ำสมัยของเรา ที่ถูกออกแบบมาเพื่อยกระดับสไตล์เฉพาะตัว"
+"ของคุณ ตั้งแต่การพัฒนาทักษะ ไปจนถึงการเปิดโลกทัศน์แห่งความคิดสร้างสรรค์ เครื่องมือของเราคือรากฐ"
+"านสำคัญที่จะสร้างผลลัพธ์ที่ยั่งยืน อย่าปล่อยให้วิธีการแบบเดิมๆ มาเป็นข้อจำกัดศักยภาพทางศิลปะของคุณอีก"
+"ต่อไป<br/><br/>"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_empowerment
@@ -394,8 +394,8 @@ msgid ""
 "Dylan Doe is a 3D artist known for his vibrant and immersive digital "
 "creations that captivate audiences worldwide."
 msgstr ""
-"Dylan Doe เป็นศิลปิน 3D ที่มีชื่อเสียงในด้านการสร้างสรรค์ดิจิทัลที่สดใสและดึงดูดใจ "
-"ซึ่งสามารถจับใจผู้ชมทั่วโลก"
+"Dylan Doe เป็นศิลปิน 3D ที่มีชื่อเสียงในด้านการสร้างสรรค์ดิจิทัลที่สดใสและดึงดูดใจ ซึ่งสามารถจับใจผู้"
+"ชมทั่วโลก"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_cards_grid
@@ -445,8 +445,8 @@ msgid ""
 "Enhance your talent with our exclusive guidance, showcasing the best version "
 "of your artistic expression, every day."
 msgstr ""
-"เสริมสร้างความสามารถของคุณด้วยคำแนะนำพิเศษจากเรา "
-"ที่ช่วยให้คุณแสดงออกถึงความสามารถทางศิลปะในเวอร์ชันที่ดีที่สุด"
+"เสริมสร้างความสามารถของคุณด้วยคำแนะนำพิเศษจากเรา ที่ช่วยให้คุณแสดงออกถึงความสามารถทางศิลป"
+"ะในเวอร์ชันที่ดีที่สุด"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_features_wall
@@ -688,8 +688,8 @@ msgid ""
 "Receive ongoing guidance and assistance throughout your project, ensuring "
 "that your artistic needs and preferences are fully realized."
 msgstr ""
-"รับการแนะนำและความช่วยเหลืออย่างต่อเนื่องตลอดโปรเจ็กต์ของคุณ "
-"เพื่อให้มั่นใจว่าความต้องการและความชอบด้านศิลปะของคุณได้รับการตอบสนองอย่างเต็มที่"
+"รับการแนะนำและความช่วยเหลืออย่างต่อเนื่องตลอดโปรเจ็กต์ของคุณ เพื่อให้มั่นใจว่าความต้องการและคว"
+"ามชอบด้านศิลปะของคุณได้รับการตอบสนองอย่างเต็มที่"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_carousel_intro
@@ -825,8 +825,8 @@ msgid ""
 "We craft personalized art to express your unique vision. Our team works "
 "closely with you to bring your ideas to life from concept to completion."
 msgstr ""
-"เราสร้างสรรค์งานศิลปะเฉพาะตัวเพื่อแสดงวิสัยทัศน์อันเป็นเอกลักษณ์ของคุณ "
-"ทีมงานของเราทำงานร่วมกับคุณอย่างใกล้ชิดเพื่อนำไอเดียของคุณให้เป็นจริง"
+"เราสร้างสรรค์งานศิลปะเฉพาะตัวเพื่อแสดงวิสัยทัศน์อันเป็นเอกลักษณ์ของคุณ ทีมงานของเราทำงานร่วมกับ"
+"คุณอย่างใกล้ชิดเพื่อนำไอเดียของคุณให้เป็นจริง"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_key_benefits
@@ -834,8 +834,8 @@ msgid ""
 "We craft personalized artworks that capture your vision and style, "
 "delivering unique pieces that reflect your individuality."
 msgstr ""
-"เราสร้างสรรค์งานศิลปะที่ปรับแต่งเฉพาะ เพื่อถ่ายทอดวิสัยทัศน์และสไตล์ของคุณ "
-"ส่งมอบชิ้นงานที่ไม่ซ้ำใครและสะท้อนถึงตัวตนของคุณ"
+"เราสร้างสรรค์งานศิลปะที่ปรับแต่งเฉพาะ เพื่อถ่ายทอดวิสัยทัศน์และสไตล์ของคุณ ส่งมอบชิ้นงานที่ไม่ซ้ำใคร"
+"และสะท้อนถึงตัวตนของคุณ"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_wavy_grid
@@ -843,8 +843,8 @@ msgid ""
 "We provide innovative art solutions for today’s challenges. Using cutting-"
 "edge methods, we help you achieve your creative goals."
 msgstr ""
-"เรานำเสนอโซลูชันศิลปะที่สร้างสรรค์เพื่อตอบโจทย์ความท้าทายในปัจจุบัน ด้วยวิธีการที่ทันสมัย "
-"เราช่วยให้คุณบรรลุเป้าหมายทางความคิดสร้างสรรค์ของคุณ"
+"เรานำเสนอโซลูชันศิลปะที่สร้างสรรค์เพื่อตอบโจทย์ความท้าทายในปัจจุบัน ด้วยวิธีการที่ทันสมัย เราช่วยให้"
+"คุณบรรลุเป้าหมายทางความคิดสร้างสรรค์ของคุณ"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_text_image

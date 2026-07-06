@@ -1,25 +1,27 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_paptic
+# * theme_paptic
 #
 # Translators:
 # Wil Odoo, 2025
 # Chloe Wang, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Chloe Wang, 2025\n"
-"Language-Team: Chinese (China) (https://app.transifex.com/odoo/teams/41243/"
-"zh_CN/)\n"
+"PO-Revision-Date: 2026-06-27 22:45+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://translate.odoo.com/"
+"projects/odoo-s18-3/theme_paptic/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_call_to_action
@@ -338,8 +340,7 @@ msgstr "我们的企业服务"
 msgid ""
 "Our consultants offer ongoing support and expert advice, guiding you through "
 "each phase of your project with personalized attention."
-msgstr ""
-"我们的顾问将为您提供持续支持和专家建议，在项目的每个阶段为您提供个性化指导。"
+msgstr "我们的顾问将为您提供持续支持和专家建议，在项目的每个阶段为您提供个性化指导。"
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_three_columns
@@ -451,8 +452,8 @@ msgid ""
 "strategic advice and cutting-edge solutions to keep you ahead in the tech "
 "world.<br/><br/> Let us guide your digital transformation."
 msgstr ""
-"通过我们的 IT 咨询服务，释放您的业务潜力。我们提供战略性建议和先进的解决方"
-"案，让您在技术世界中保持领先地位。让我们引领您的数字化转型."
+"通过我们的 IT 咨询服务，释放您的业务潜力。我们提供战略性建议和先进的解决方案"
+"，让您在技术世界中保持领先地位。让我们引领您的数字化转型."
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_card_offset
@@ -464,8 +465,7 @@ msgstr "释放您的业务潜能."
 msgid ""
 "We provide tailored consulting strategies that address your unique "
 "challenges and objectives, ensuring effective and practical outcomes."
-msgstr ""
-"我们提供量身定制的咨询战略，以应对您的独特挑战和目标，确保取得切实有效的成果."
+msgstr "我们提供量身定制的咨询战略，以应对您的独特挑战和目标，确保取得切实有效的成果."
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_big_number

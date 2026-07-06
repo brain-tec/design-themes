@@ -1,24 +1,27 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* theme_vehicle
+# * theme_vehicle
 #
 # Translators:
 # Wil Odoo, 2025
 # Junko Augias, 2025
 #
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server saas~18.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-05-06 13:06+0000\n"
-"Last-Translator: Junko Augias, 2025\n"
-"Language-Team: Japanese (https://app.transifex.com/odoo/teams/41243/ja/)\n"
+"PO-Revision-Date: 2026-06-27 22:47+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
+"Language-Team: Japanese <https://translate.odoo.com/projects/odoo-s18-3/"
+"theme_vehicle/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_quotes_carousel_minimal
@@ -105,8 +108,8 @@ msgid ""
 "<br/>Offering a wide selection of quality cars to suit every need and budget."
 "<br/><br/>"
 msgstr ""
-"<br/>あらゆるニーズと予算に合わせた高品質な車種を豊富に取り揃えています。<br/"
-"><br/>"
+"<br/>あらゆるニーズと予算に合わせた高品質な車種を豊富に取り揃えています"
+"。<br/><br/>"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_big_number
@@ -327,8 +330,8 @@ msgid ""
 "every drive."
 msgstr ""
 "高級車向けの当社独自のサービスラインナップをご覧下さい。最高の品質と洗練性を"
-"提供できるよう設計されています。ドライブのたびに卓越した体験をお楽しみ下さ"
-"い。"
+"提供できるよう設計されています。ドライブのたびに卓越した体験をお楽しみ下さい"
+"。"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_key_benefits
@@ -336,8 +339,8 @@ msgid ""
 "Discover unique and advanced features that set our vehicles apart, providing "
 "you with exceptional performance and cutting-edge technology."
 msgstr ""
-"当社の車両を他と差別化するユニークで先進的な機能をご覧下さい。卓越したパ"
-"フォーマンスと最先端のテクノロジーをご提供します。"
+"当社の車両を他と差別化するユニークで先進的な機能をご覧下さい。卓越した"
+"パフォーマンスと最先端のテクノロジーをご提供します。"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_carousel_intro
@@ -550,9 +553,9 @@ msgid ""
 "maintenance services. From cars to motorbikes, we offer expert solutions to "
 "ensure safe and smooth rides."
 msgstr ""
-"当社の包括的な修理・メンテナンスサービスで、お客様の車両を最高のコンディショ"
-"ンに保ちます。 自動車からバイクまで、安全で快適なドライブをお約束する専門的な"
-"ソリューションをご提供いたします。"
+"当社の包括的な修理・メンテナンスサービスで、お客様の車両を最高の"
+"コンディションに保ちます。 自動車からバイクまで、安全で快適なドライブをお約束"
+"する専門的なソリューションをご提供いたします。"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_quadrant
@@ -561,9 +564,9 @@ msgid ""
 "services. From cars to motorbikes, we’ve got you covered.<br/><br/> Drive "
 "with confidence and style."
 msgstr ""
-"当社の専門的な修理・メンテナンスサービスで、お客様の車両を最高のコンディショ"
-"ンに保ちましょう。 自動車からバイクまで、お任せください。<br/><br/>安心してス"
-"タイリッシュにドライブしましょう。"
+"当社の専門的な修理・メンテナンスサービスで、お客様の車両を最高の"
+"コンディションに保ちましょう。 自動車からバイクまで、お任せください。<br/>"
+"<br/>安心してスタイリッシュにドライブしましょう。"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_striped_center_top
@@ -872,8 +875,8 @@ msgid ""
 "We provide tailored luxury vehicles designed to meet your specific "
 "preferences."
 msgstr ""
-"お客様の特別なご要望にお応えする、オーダーメイドの高級車をご用意しておりま"
-"す。"
+"お客様の特別なご要望にお応えする、オーダーメイドの高級車をご用意しております"
+"。"
 
 #. module: theme_vehicle
 #: model_terms:theme.ir.ui.view,arch:theme_vehicle.s_wavy_grid
