@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 17.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-28 12:23+0000\n"
-"PO-Revision-Date: 2026-05-02 12:13+0000\n"
+"PO-Revision-Date: 2026-06-28 14:08+0000\n"
 "Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Slovak <https://translate.odoo.com/projects/odoo-17/theme_kea/"
 "sk/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n == 1 ? 0 : n % 1 == 0 && "
 "n >= 2 && n <= 4 ? 1 : n % 1 != 0 ? 2: 3);\n"
-"X-Generator: Weblate 5.17\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_features
@@ -185,6 +185,9 @@ msgid ""
 "or right-aligned image alongside textual content. Duplicate the element to "
 "create a list that fits your needs."
 msgstr ""
+"Tento snippet použite na vytvorenie rôznych typov komponentov, ktoré "
+"obsahujú obrázok zarovnaný vľavo alebo vpravo vedľa textového obsahu. "
+"Duplikujte prvok a vytvorte zoznam, ktorý vyhovuje vašim potrebám."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_three_columns
@@ -214,6 +217,8 @@ msgid ""
 "Write one or two paragraphs describing your product or services. To be "
 "successful your content needs to be useful to your readers."
 msgstr ""
+"Napíšte jeden alebo dva odseky opisujúce váš produkt alebo služby. Aby bol "
+"váš obsah úspešný, musí byť užitočný pre vašich čitateľov."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_features

@@ -7,13 +7,14 @@
 # Marta Wacławek, 2025
 #
 # Weblate <noreply-mt-weblate@weblate.org>, 2025.
+# "Marta (wacm)" <wacm@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 17.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2025-11-22 17:40+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-07-01 10:10+0000\n"
+"Last-Translator: \"Marta (wacm)\" <wacm@odoo.com>\n"
 "Language-Team: Polish <https://translate.odoo.com/projects/odoo-17/"
 "theme_real_estate/pl/>\n"
 "Language: pl\n"
@@ -23,22 +24,22 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && "
 "(n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && "
 "n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_quotes_carousel
 msgid "<b>Iris Doe</b> • Customer, sold an appartement"
-msgstr ""
+msgstr "<b>Iris Doe</b> • Klientka, sprzedała mieszkanie"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_quotes_carousel
 msgid "<b>Jane Doe</b> • Customer, bought a house"
-msgstr ""
+msgstr "<b>Jane Doe</b> • Klientka, kupiła dom"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_quotes_carousel
 msgid "<b>John Doe</b> • Customer, bought an appartement"
-msgstr ""
+msgstr "<b>John Doe</b> • Klient, kupił mieszkanie"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_banner
@@ -48,17 +49,17 @@ msgstr "<b>Agencja nieruchomości.<br/>Blisko Ciebie.</b>"
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_three_columns
 msgid "<span class=\"text-600 fw-bold\">$1,295,000,000</span>"
-msgstr ""
+msgstr "<span class=\"text-600 fw-bold\">$1,295,000,000</span>"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_three_columns
 msgid "<span class=\"text-600 fw-bold\">$295,000</span>"
-msgstr ""
+msgstr "<span class=\"text-600 fw-bold\">$295,000</span>"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_three_columns
 msgid "<span class=\"text-600 fw-bold\">$455,000</span>"
-msgstr ""
+msgstr "<span class=\"text-600 fw-bold\">$455,000</span>"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_quotes_carousel
@@ -93,6 +94,8 @@ msgid ""
 "At Real Estate Agency we have fixed price fees. This means we only charge "
 "when your home sale is confirmed."
 msgstr ""
+"W Agencji nieruchomości stosujemy stałe opłaty. Oznacza to, że pobieramy "
+"opłatę dopiero po potwierdzeniu sprzedaży Państwa nieruchomości."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_image_text
@@ -103,7 +106,7 @@ msgstr "Znudził Ci się wystrój mieszkania?"
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_image_text
 msgid ""
 "Discover our tailor-made services to embellish the decoration of your home."
-msgstr "Odkryj nasze usługi szyte na miarę, które upiększą Twój dom."
+msgstr "Odkryj nasze usługi na miarę, które upiększą Twój dom."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_three_columns
@@ -140,11 +143,14 @@ msgid ""
 "Increase Visitor retention. Customer engagement on a website with virtual "
 "tour is 5 times longer compared to a site without it."
 msgstr ""
+"Zwiększ retencję odwiedzających. Czas spędzany przez klientów na stronie "
+"internetowej z wirtualną wycieczką jest 5 razy dłuższy w porównaniu ze "
+"stroną, która jej nie posiada."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_masonry_block_default_template
 msgid "Increased Visibility"
-msgstr ""
+msgstr "Zwiększona widoczność"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_text_image
@@ -169,7 +175,7 @@ msgstr "Widok na góry"
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_masonry_block_default_template
 msgid "No fixed fees"
-msgstr ""
+msgstr "Brak stałych opłat"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_banner
@@ -213,12 +219,12 @@ msgstr ""
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_masonry_block_default_template
 msgid "Premium Quality"
-msgstr ""
+msgstr "Jakość premium"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_masonry_block_default_template
 msgid "Pro Photo Shoot"
-msgstr ""
+msgstr "Profesjonalna sesja zdjęciowa"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_picture
@@ -237,6 +243,9 @@ msgid ""
 "intimate ambience. With no overlooking neighbours, the garden offers real "
 "privacy."
 msgstr ""
+"Dom otoczony jest tarasami ogrodowymi, które tworzą wyjątkowe przestrzenie i "
+"kameralną atmosferę. Dzięki braku sąsiadów z widokiem na posesję ogród "
+"zapewnia prawdziwą prywatność."
 
 #. module: theme_real_estate
 #: model:ir.model,name:theme_real_estate.model_theme_utils
@@ -249,6 +258,8 @@ msgid ""
 "They say an image is worth a thousand words and we know you know how "
 "important it is to have the best photography."
 msgstr ""
+"Mówi się, że obraz jest wart tysiąca słów, a my wiemy, że zdajesz sobie "
+"sprawę, jak ważne jest posiadanie najlepszej fotografii."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_three_columns
@@ -289,6 +300,8 @@ msgid ""
 "We are committed to delivering high quality services that enhance your brand "
 "by allowing visitors to interact virtually."
 msgstr ""
+"Zależy nam na dostarczaniu usług o wysokiej jakości, które wzmacniają "
+"wizerunek Twojej marki, umożliwiając odwiedzającym wirtualną interakcję."
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_call_to_action
@@ -317,7 +330,7 @@ msgstr "zadowolonych klientów"
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_numbers
 msgid "offices"
-msgstr ""
+msgstr "biura"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_numbers

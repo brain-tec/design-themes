@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 17.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-28 12:22+0000\n"
-"PO-Revision-Date: 2026-05-23 17:40+0000\n"
+"PO-Revision-Date: 2026-06-23 16:34+0000\n"
 "Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Lao <https://translate.odoo.com/projects/odoo-17/theme_bistro/"
 "lo/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_product_catalog_dish
@@ -31,6 +31,8 @@ msgid ""
 "new products and receipts. <b>While respecting seasons' products and "
 "nature.</b>"
 msgstr ""
+"ເຮືອນຄົວເພື່ອສຸຂະພາບດ້ວຍຜະລິດຕະພັນທ້ອງຖິ່ນ. ພວກເຮົາຊອກຫາຜະລິດຕະພັນ ແລະ ສູດອາຫານໃໝ່ໆຢູ່ສະເໝີ. <b>"
+"ໂດຍໃຫ້ຄວາມສຳຄັນກັບຜະລິດຕະພັນຕາມລະດູການ ແລະ ທຳມະຊາດ.</b>"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_quotes_carousel
@@ -38,6 +40,8 @@ msgid ""
 "A truly exquisite dining experience. I highly recommend the Mustard Sauce, "
 "out of this world."
 msgstr ""
+"ປະສົບການການຮັບປະທານອາຫານທີ່ດີເລີດແທ້ໆ. ຂ້ອຍຂໍແນະນຳ ຊອດມັດສະຕາດ (Mustard Sauce), ມັນແຊບແບ"
+"ບບໍ່ມີບ່ອນຕິເລີຍ."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_text_block
@@ -47,11 +51,14 @@ msgid ""
 "delicious cakes that satisfy your sweet tooth. <b>And each day, you’ll "
 "discover our Today’s Special.</b>"
 msgstr ""
+"ທີ່ Bistro, ທ່ານຈະໄດ້ພົບກັບອາຫານເພື່ອສຸຂະພາບໃນທຸກໆມື້. <br/>ມາຢ້ຽມຢາມພວກເຮົາສຳລັບ ອາຫານເຊົ້າຄວ"
+"ບສວາຍໃນວັນອາທິດ, ນ້ຳຜັກຜົນໄມ້ເພື່ອສຸຂະພາບທີ່ເຕັມໄປດ້ວຍຄຸນຄ່າທາງໂພຊະນາການ, ຫຼື ເຄັກທີ່ແຊບຊ້ອຍສຳລັບຄົນ"
+"ຮັກຂອງຫວານ. <b>ແລະ ໃນແຕ່ລະມື້, ທ່ານຈະໄດ້ພົບກັບ ເມນູພິເສດປະຈຳວັນ ຂອງພວກເຮົາ.</b>"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features
 msgid "Breakfast"
-msgstr ""
+msgstr "ອາຫານເຊົ້າ"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_quotes_carousel
@@ -59,6 +66,8 @@ msgid ""
 "Cosy and friendly, good atmosphere and super food. Especially the spiced "
 "fruit crumble."
 msgstr ""
+"ອົບອຸ່ນ ແລະ ເປັນກັນເອງ, ບັນຍາກາດດີ ແລະ ອາຫານດີຫຼາຍ. ໂດຍສະເພາະແມ່ນ fruit crumble ທີ່ໃສ່ເຄື່ອງ"
+"ເທດ."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cover
@@ -66,11 +75,13 @@ msgid ""
 "Daily fresh products combined with our professional yet convivial "
 "service<br/> to create a true gastronomic experience."
 msgstr ""
+"ຜະລິດຕະພັນທີ່ສົດໃໝ່ທຸກມື້ ປະສົມປະສານກັບການບໍລິການແບບມືອາຊີບແຕ່ເປັນກັນເອງ <br/> ເພື່ອສ້າງປະສົບການດ້ານ"
+"ອາຫານທີ່ແທ້ຈິງ."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features
 msgid "Dinner"
-msgstr ""
+msgstr "ອາຫານແລງ"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features
@@ -78,6 +89,8 @@ msgid ""
 "Enjoy tasty food with friends.<br/><small>From <b>6:30 pm</b> to <b>10:30 "
 "pm</b></small>"
 msgstr ""
+"ເພີດເພີນກັບອາຫານທີ່ແຊບຊ້ອຍກັບໝູ່ເພື່ອນ.<br/><small>ຕັ້ງແຕ່ <b>18:30</b> ຫາ <b>22:30</b></"
+"small>"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features
@@ -85,6 +98,8 @@ msgid ""
 "Help you start your morning right.<br/><small>From <b>7:30 am</b> to "
 "<b>10:30 am</b></small>"
 msgstr ""
+"ຊ່ວຍໃຫ້ທ່ານເລີ່ມຕົ້ນຕອນເຊົ້າຢ່າງຖືກຕ້ອງ.<br/><small>ຕັ້ງແຕ່ <b>7:30</b> ຫາ <b>10:30</b></"
+"small>"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features
@@ -94,12 +109,12 @@ msgstr "ອາຫານທ່ຽງ"
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cover
 msgid "Our Menu"
-msgstr ""
+msgstr "ເມນູຂອງພວກເຮົາ"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cover
 msgid "Seasonal<br/> Flavors"
-msgstr ""
+msgstr "ລົດຊາດ<br/> ຕາມລະດູການ"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features
@@ -107,6 +122,8 @@ msgid ""
 "Take a break from your busy schedule.<br/><small>From <b>11:30 am</b> to "
 "<b>2:30 pm</b></small>"
 msgstr ""
+"ພັກຜ່ອນຈາກຕາຕະລາງທີ່ຫຍຸ້ງຍາກຂອງທ່ານ.<br/><small>ຕັ້ງແຕ່ <b>11:30</b> ຫາ <b>14:30</b></"
+"small>"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_picture
@@ -114,21 +131,22 @@ msgid ""
 "Taste our chef's special, an almond macaroon with orange blossom "
 "buttercream."
 msgstr ""
+"ຊີມເມນູພິເສດຈາກພໍ່ຄົວຂອງພວກເຮົາ, ມາຄາຣອນອັນມອນ ພ້ອມກັບຄຣີມບັດເຕີກິ່ນດອກສົ້ມ."
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_banner
 msgid "Tasty Meals"
-msgstr ""
+msgstr "ອາຫານທີ່ແຊບຊ້ອຍ"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_picture
 msgid "The perfect dessert to share for the table."
-msgstr ""
+msgstr "ຂອງຫວານທີ່ສົມບູນແບບສຳລັບແບ່ງປັນກັນຢູ່ໂຕະ."
 
 #. module: theme_bistro
 #: model:ir.model,name:theme_bistro.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ເຄື່ອງມືຊ່ວຍເຫຼືອຂອງທີມ (Theme Utils)"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_quotes_carousel
@@ -138,4 +156,4 @@ msgstr "ສະຖານທີ່ນີ້ເໝາະສຳລັບການມ
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_picture
 msgid "Today's special"
-msgstr ""
+msgstr "ເມນູພິເສດມື້ນີ້"

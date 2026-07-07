@@ -6,13 +6,14 @@
 # Martin Trigaux, 2023
 #
 # Weblate <noreply-mt-weblate@weblate.org>, 2025, 2026.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 17.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-28 12:22+0000\n"
-"PO-Revision-Date: 2026-05-23 17:40+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-23 16:34+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Danish <https://translate.odoo.com/projects/odoo-17/"
 "theme_loftspace/da/>\n"
 "Language: da\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_cover
@@ -30,7 +31,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_title
 msgid "<b>Everything is designed.<br/> Few things are designed well.</b>"
-msgstr ""
+msgstr "<b>Alt er designet.<br/> Få ting er designet godt.</b>"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_cover
@@ -40,7 +41,7 @@ msgstr "Få mere at vide"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_cover
 msgid "Discover our unique pieces of furniture selected for you."
-msgstr ""
+msgstr "Oplev vores unikke møbler, som vi har udvalgt specielt til dig."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_three_columns
@@ -48,11 +49,13 @@ msgid ""
 "Every week our shop receive new products. Some are only on sale for a "
 "limited period of time."
 msgstr ""
+"Hver uge får du nye produkter i vores butik. Nogle af dem er kun "
+"tilgængelige i en begrænset periode."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_three_columns
 msgid "For the whole Family"
-msgstr ""
+msgstr "For hele familien"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_banner
@@ -69,7 +72,7 @@ msgstr "Vores serviceydelser"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_three_columns
 msgid "Tailored advice"
-msgstr ""
+msgstr "Skræddersyet rådgivning"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_banner
@@ -79,7 +82,7 @@ msgstr ""
 #. module: theme_loftspace
 #: model:ir.model,name:theme_loftspace.model_theme_utils
 msgid "Theme Utils"
-msgstr "Tema værktøjer"
+msgstr "Designværktøjer"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_three_columns
@@ -88,11 +91,15 @@ msgid ""
 " execution of the object, his hours of reflexion, his dexterity... It is a "
 "committed, ethical act, which encourages a responsible and direct economy."
 msgstr ""
+"At købe unikke værker er at købe et stykke af kunstneren: Den passion, der "
+"er lagt i værket, de mange timers overvejelser og den håndværksmæssige "
+"kunnen. Det er en engageret og etisk handling, der fremmer en ansvarlig og "
+"direkte økonomi."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_three_columns
 msgid "Unique Items"
-msgstr ""
+msgstr "Unikke varer"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_three_columns
@@ -101,8 +108,11 @@ msgid ""
 "when you have no idea about the layout of your interior, our advisers are "
 "there to accompany you throughout your project."
 msgstr ""
+"Uanset om du har brug for hjælp til at få overblik over et projekt, bekræfte "
+"et valg eller er i tvivl om, hvordan du skal indrette dit hjem, står vores "
+"rådgivere klar til at hjælpe dig gennem hele processen."
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_call_to_action
 msgid "Would you like more information <br/>about a product?"
-msgstr ""
+msgstr "Har du brug for yderligere oplysninger <br/>om et produkt?"

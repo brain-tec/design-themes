@@ -6,13 +6,14 @@
 # Martin Trigaux, 2023
 # Sanne Kristensen <sanne@vkdata.dk>, 2024
 # Weblate <noreply-mt-weblate@weblate.org>, 2026.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 17.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-28 12:23+0000\n"
-"PO-Revision-Date: 2026-02-07 17:40+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-23 16:34+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Danish <https://translate.odoo.com/projects/odoo-17/"
 "theme_orchid/da/>\n"
 "Language: da\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.3\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_text_image
@@ -28,6 +29,8 @@ msgid ""
 "<br/>\n"
 "        Deliver flowers to live up to your dedication for your loved ones."
 msgstr ""
+"<br/>\n"
+"        Vis din kærlighed med blomster til dem, der står dig nær."
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_quotes_carousel
@@ -35,8 +38,8 @@ msgid ""
 "A small shop with a very large selection of roses. Nice prices and above all"
 " a very professional and friendly welcome."
 msgstr ""
-"En lille butik med et imponerende stort udvalg af roser. Gode priser og – "
-"frem for alt – meget professionel og venlig betjening."
+"En lille butik med et meget stort udvalg af roser. Gode priser og frem for "
+"alt en meget professionel og venlig betjening."
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_quotes_carousel
@@ -44,8 +47,8 @@ msgid ""
 "A wide range of high quality products and a warm welcome! I recommend this "
 "shop 200%!"
 msgstr ""
-"Et bredt udvalg af kvalitetsprodukter kombineret med en varm og venlig "
-"modtagelse. Kan anbefales 100 %!"
+"Et stort udvalg af produkter af høj kvalitet og en hjertelig modtagelse! Jeg "
+"kan anbefale denne butik 200 %!"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_three_columns
@@ -53,8 +56,8 @@ msgid ""
 "As we use local growers, our flowers last longer and smell better. Just like"
 " the event you want to celebrate with flowers!"
 msgstr ""
-"Vi samarbejder med lokale avlere, hvilket betyder, at vores blomster holder "
-"længere og dufter bedre – ligesom den særlige anledning, du vil fejre!"
+"Da vi bruger lokale blomsteravlere, holder vores blomster længere og dufter "
+"bedre. Ligesom den begivenhed, du ønsker at fejre med blomster!"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_three_columns
@@ -67,8 +70,8 @@ msgid ""
 "Don't offer pesticides to your beloved one! By choosing our flowers, we "
 "guarantee you organic flowers."
 msgstr ""
-"Giv ikke dine kære pesticider! Vælg vores blomster, og få 100 % økologiske "
-"blomster."
+"Giv ikke dine kære pesticider! Hvis du vælger vores blomster, garanterer vi, "
+"at de er økologiske."
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_three_columns
@@ -81,8 +84,8 @@ msgid ""
 "From your local producer to your door, discover how we deliver our multiple "
 "sorts of flowers and bring you happiness."
 msgstr ""
-"Få leveret vores store udvalg af blomster til din dør – og nyd glæden, de "
-"bringer."
+"Oplev, hvordan vi leverer vores mange forskellige blomster til din dør og "
+"dermed gør dig glad."
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_cover
@@ -107,7 +110,7 @@ msgstr "Orkidékonceptet"
 #. module: theme_orchid
 #: model:ir.model,name:theme_orchid.model_theme_utils
 msgid "Theme Utils"
-msgstr "Tema værktøjer"
+msgstr "Designværktøjer"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_call_to_action
@@ -129,6 +132,8 @@ msgid ""
 "Very nice, colorful shop with many choices in the heart of a very pretty "
 "town."
 msgstr ""
+"En rigtig flot, farverig butik med et stort udvalg i hjertet af en meget "
+"idyllisk lille by."
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_three_columns
@@ -136,8 +141,8 @@ msgid ""
 "We use 100% recycled materials. We believe the best gifts should also do "
 "good for the planet."
 msgstr ""
-"Vi anvender 100 % genanvendte materialer, fordi vi mener, at de bedste gaver "
-"også bør være gode for planeten."
+"Vi bruger 100 % genanvendte materialer. Vi mener, at de bedste gaver også "
+"bør være gode for planeten."
 
 #. module: theme_orchid
 #. odoo-javascript
