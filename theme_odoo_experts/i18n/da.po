@@ -7,13 +7,14 @@
 # Martin Trigaux, 2023
 # Sanne Kristensen <sanne@vkdata.dk>, 2024
 # Weblate <noreply-mt-weblate@weblate.org>, 2026.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 17.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-28 12:23+0000\n"
-"PO-Revision-Date: 2026-04-04 17:41+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-23 16:34+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Danish <https://translate.odoo.com/projects/odoo-17/"
 "theme_odoo_experts/da/>\n"
 "Language: da\n"
@@ -21,12 +22,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.2\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_call_to_action
 msgid "50,000+ clients trust us <br/>to protect their assets"
-msgstr ""
+msgstr "Over 50.000 kunder har tillid til, <br/>at vi beskytter deres aktiver"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_numbers
@@ -55,6 +56,10 @@ msgid ""
 "        Ask your questions and discuss your projects with our partners.<br/>\n"
 "        They are here to help you grow your business!"
 msgstr ""
+"<br/>\n"
+"        Stil dine spørgsmål, og drøft dine projekter med vores partnere.<br/>"
+"\n"
+"        De er her for at hjælpe dig med at udvide din virksomhed!"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_cover
@@ -62,6 +67,10 @@ msgid ""
 "<br/>\n"
 "        Guided by expertise gained over 20 years of achieving success for clients, we practice with passion and strategic focus on the future."
 msgstr ""
+"<br/>\n"
+"        Med udgangspunkt i den ekspertise, vi har opbygget gennem 20 års "
+"succesfuldt arbejde for vores kunder, arbejder vi med passion og et "
+"strategisk fokus på fremtiden."
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_picture
@@ -70,21 +79,27 @@ msgid ""
 "            Unleash your</font><br/>\n"
 "            <font style=\"background-image: linear-gradient(135deg, var(--o-color-5) 0%, var(--o-color-1) 100%);\" class=\"text-gradient\">growth potential</font>"
 msgstr ""
+"<font style=\"background-image: linear-gradient(135deg, var(--o-color-5) 0%, "
+"var(--o-color-1) 100%);\" class=\"text-gradient\">\n"
+"            Slip dit</font><br/>\n"
+"           <font style=\"background-image: linear-gradient(135deg, var(--o-"
+"color-5) 0%, var(--o-color-1) 100%);\" class=\"text-gradient\"> "
+"vækstpotentiale fri</font>"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_media_list
 msgid "<span class=\"text-o-color-1\">1.</span> Litigation"
-msgstr ""
+msgstr "<span class=\"text-o-color-1\">1.</span>Retssag"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_media_list
 msgid "<span class=\"text-o-color-1\">2.</span> Arbitration"
-msgstr ""
+msgstr "<span class=\"text-o-color-1\">2.</span> Voldgift"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_media_list
 msgid "<span class=\"text-o-color-1\">3.</span> Mediation"
-msgstr ""
+msgstr "<span class=\"text-o-color-1\">3.</span> Formidling"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_image_text
@@ -112,17 +127,17 @@ msgstr "Kontakt os"
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_call_to_action
 msgid "Contact us for a personalized meeting"
-msgstr ""
+msgstr "Kontakt os for et personligt møde"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_product_list
 msgid "Corporate Finance"
-msgstr ""
+msgstr "Erhvervsfinansiering"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_product_list
 msgid "Digital Strategy"
-msgstr ""
+msgstr "Digital strategi"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_cover
@@ -132,12 +147,12 @@ msgstr "Få mere at vide"
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_product_list
 msgid "Executive Strategy"
-msgstr ""
+msgstr "Ledelsesstrategi"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_product_list
 msgid "Growth &amp; Innovation"
-msgstr ""
+msgstr "Vækst og innovation"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_text_image
@@ -161,11 +176,13 @@ msgid ""
 "Litigation is our core-business. Our lawyers have been involved in many "
 "high-profile cases for 20 years."
 msgstr ""
+"Retssager er vores kerneforretning. Vores advokater har i 20 år været "
+"involveret i mange højtprofilerede sager."
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_banner
 msgid "Our expertise <br/>at your service"
-msgstr ""
+msgstr "Vores ekspertise <br/>står til din rådighed"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_media_list
@@ -173,26 +190,28 @@ msgid ""
 "Over the past years, our lawyers have gained significant experience in "
 "arbitration, both as counsel as well as arbitrators."
 msgstr ""
+"I de seneste år har vores advokater opbygget stor erfaring inden for "
+"voldgiftsret, både som advokater og som voldgiftsdommere."
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_title
 msgid "Pricing to suit<br/> all sizes of business"
-msgstr ""
+msgstr "Prisstruktur<br/> for virksomheder af alle størrelser"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_product_list
 msgid "Social Strategy"
-msgstr ""
+msgstr "Social strategi"
 
 #. module: theme_odoo_experts
 #: model:ir.model,name:theme_odoo_experts.model_theme_utils
 msgid "Theme Utils"
-msgstr "Tema værktøjer"
+msgstr "Designværktøjer"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_cover
 msgid "We care <br/>about results"
-msgstr ""
+msgstr "Vi lægger vægt <br/>på resultaterne"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_text_image

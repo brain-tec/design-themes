@@ -6,13 +6,14 @@
 # Martin Trigaux, 2023
 #
 # Weblate <noreply-mt-weblate@weblate.org>, 2026.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 17.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-28 12:22+0000\n"
-"PO-Revision-Date: 2026-05-09 17:40+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-23 16:34+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Danish <https://translate.odoo.com/projects/odoo-17/"
 "theme_treehouse/da/>\n"
 "Language: da\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_text_image
@@ -53,23 +54,23 @@ msgid ""
 "Habitats with a minimum footprint on the planet and a maximum positive "
 "impact on the local community."
 msgstr ""
-"Boliger med minimal belastning af planeten og maksimal positiv effekt på "
-"lokalsamfundet."
+"Leveområder med et minimalt fodaftryk på planeten og en maksimal positiv "
+"indflydelse på det lokale samfund."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_banner
 msgid "Hello Planet."
-msgstr ""
+msgstr "Hej Planet."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_call_to_action
 msgid "Help us protect and preserve for future generations"
-msgstr "Hjælp os med at beskytte og bevare til glæde for kommende generationer"
+msgstr "Hjælp os med at beskytte og bevare naturen for de kommende generationer"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_call_to_action
 msgid "Join us and make the planet a better place."
-msgstr "Bliv en del af fællesskabet, og gør verden til et bedre sted."
+msgstr "Bliv en del af os, og vær med til at gøre planeten til et bedre sted."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_three_columns
@@ -77,8 +78,8 @@ msgid ""
 "Learn how to use organic gardening methods to grow the freshest food in your"
 " fruit and vegetable garden."
 msgstr ""
-"Lær at bruge økologiske havearbejdsmetoder til at dyrke de friskeste råvarer "
-"i din frugt- og grøntsagshave."
+"Lær, hvordan du ved hjælp af økologiske dyrkningsmetoder kan dyrke de "
+"friskeste fødevarer i din frugt- og grøntsagshave."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_three_columns
@@ -91,13 +92,13 @@ msgid ""
 "Our mission is to create a shared plan<br/> for saving the planet’s most "
 "exceptional wild places."
 msgstr ""
-"Det er vores mission at udarbejde en fælles plan<br/> for at beskytte og "
-"bevare planetens mest unikke og vilde naturområder."
+"Vores opgave er at udarbejde en fælles plan<br/> for at redde de mest "
+"enestående vildmarksområder på vores planet."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_three_columns
 msgid "Read more"
-msgstr "Læs mere"
+msgstr "Få mere at vide"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_three_columns
@@ -110,8 +111,8 @@ msgid ""
 "Recycling water for reuse applications instead of using freshwater supplies "
 "can be a water-saving measure."
 msgstr ""
-"Genanvendelse af vand til genbrugsformål frem for at bruge "
-"ferskvandsressourcer kan være en effektiv vandbesparende foranstaltning."
+"Genanvendelse af vand i stedet for at bruge ferskvand kan være en "
+"vandbesparende foranstaltning."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_text_image
@@ -126,7 +127,7 @@ msgstr ""
 #. module: theme_treehouse
 #: model:ir.model,name:theme_treehouse.model_theme_utils
 msgid "Theme Utils"
-msgstr "Tema værktøjer"
+msgstr "Designværktøjer"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_text_image
@@ -134,11 +135,11 @@ msgid ""
 "With all the global problems our planet faces today,<br/> communities of "
 "people concerned with them are growing<br/> to prevent the negative impact."
 msgstr ""
-"Med alle de globale udfordringer, vores planet står overfor i dag,<br/> "
-"vokser samfund af mennesker, der engagerer sig<br/> for at forhindre "
-"negative konsekvenser."
+"I lyset af alle de globale problemer, som vores planet står over for i "
+"dag,<br/> vokser de fællesskaber af mennesker, der beskæftiger sig med disse "
+"problemer,<br/> for at forhindre de negative konsekvenser."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_picture
 msgid "Working Together"
-msgstr ""
+msgstr "Samarbejde"
