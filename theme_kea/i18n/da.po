@@ -7,13 +7,14 @@
 # Martin Trigaux, 2024
 # Sanne Kristensen <sanne@vkdata.dk>, 2024
 # Weblate <noreply-mt-weblate@weblate.org>, 2025, 2026.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2026-06-20 18:40+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-27 18:41+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Danish <https://translate.odoo.com/projects/odoo-18/theme_kea/"
 "da/>\n"
 "Language: da\n"
@@ -111,7 +112,9 @@ msgstr "Et nærmere kig på virtual reality og innovation"
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_features
 msgid "A small explanation of this great feature, in clear words."
-msgstr "En kort og klar forklaring af denne fantastiske funktion."
+msgstr ""
+"En kort beskrivelse af disse fantastiske funktioner, formuleret i klare "
+"vendinger."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_key_images
@@ -666,7 +669,7 @@ msgstr "Revolutionen <br/> i virtual reality"
 #. module: theme_kea
 #: model:ir.model,name:theme_kea.model_theme_utils
 msgid "Theme Utils"
-msgstr "Tema værktøjer"
+msgstr "Designværktøjer"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_three_columns
@@ -722,9 +725,9 @@ msgid ""
 "or right-aligned image alongside textual content. Duplicate the element to "
 "create a list that fits your needs."
 msgstr ""
-"Brug denne snippet til at bygge diverse slags komponenter, der indeholder et "
-"venstre- eller højre-orienteret billede sammen med tekst indhold. Dupliker "
-"elementet for at oprette en liste der passer til dine behov."
+"Brug dette kodestykke til at bygge diverse slags komponenter, der indeholder "
+"et venstre- eller højre-orienteret billede sammen med tekst indhold. "
+"Dupliker elementet for at oprette en liste der passer til dine behov."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
@@ -851,8 +854,8 @@ msgid ""
 "Write one or two paragraphs describing your product or services. To be "
 "successful your content needs to be useful to your readers."
 msgstr ""
-"Skriv en eller to paragraffer, der beskriver dit produkt eller tjenester. "
-"For at lykkedes bør dit indhold være nyttig for læserne."
+"Skriv et eller to afsnit, der beskriver dit produkt eller dine ydelser. Dit "
+"indhold har mest effekt, hvis det er nyttigt for dine læsere."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_features

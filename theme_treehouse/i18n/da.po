@@ -7,13 +7,14 @@
 # Sammi Iversen <sammi@vkdata.dk>, 2025
 # Kira Petersen, 2025
 # Weblate <noreply-mt-weblate@weblate.org>, 2026.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2026-06-20 18:40+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-27 18:41+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Danish <https://translate.odoo.com/projects/odoo-18/"
 "theme_treehouse/da/>\n"
 "Language: da\n"
@@ -294,7 +295,7 @@ msgstr "Indsats for miljøbeskyttelse"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_key_benefits
 msgid "Exclusive Insights"
-msgstr "Eksklusive indblik"
+msgstr "Eksklusive indsigter"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_empowerment
@@ -370,8 +371,8 @@ msgid ""
 "Habitats with a minimum footprint on the planet and a maximum positive "
 "impact on the local community."
 msgstr ""
-"Boliger med minimal belastning af planeten og maksimal positiv effekt på "
-"lokalsamfundet."
+"Leveområder med et minimalt fodaftryk på planeten og en maksimal positiv "
+"indflydelse på det lokale samfund."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_banner
@@ -381,7 +382,7 @@ msgstr "Hej Planet."
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_call_to_action
 msgid "Help us protect and preserve for future generations"
-msgstr "Hjælp os med at beskytte og bevare til glæde for kommende generationer"
+msgstr "Hjælp os med at beskytte og bevare naturen for de kommende generationer"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_intro_pill
@@ -442,7 +443,7 @@ msgstr "Bliv medlem"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_call_to_action
 msgid "Join us and make the planet a better place."
-msgstr "Bliv en del af fællesskabet, og gør verden til et bedre sted."
+msgstr "Bliv en del af os, og vær med til at gøre planeten til et bedre sted."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_striped_center_top
@@ -502,13 +503,13 @@ msgid ""
 "Learn how to use organic gardening methods to grow the freshest food in your "
 "fruit and vegetable garden."
 msgstr ""
-"Lær at bruge økologiske havearbejdsmetoder til at dyrke de friskeste råvarer "
-"i din frugt- og grøntsagshave."
+"Lær, hvordan du ved hjælp af økologiske dyrkningsmetoder kan dyrke de "
+"friskeste fødevarer i din frugt- og grøntsagshave."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_intro_pill
 msgid "Learn more"
-msgstr "Lær mere"
+msgstr "Få mere at vide"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_numbers_list
@@ -542,9 +543,9 @@ msgid ""
 "our products and services, ensuring minimal impact on the planet while "
 "maintaining high quality."
 msgstr ""
-"Vores engagement for miljøet omfatter også brugen af bæredygtige materialer "
-"i vores produkter og tjenester for at minimere påvirkningen på planeten, "
-"samtidig med at vi sikrer høj kvalitet."
+"Vores miljøengagement omfatter også brugen af miljøvenlige materialer til "
+"vores produkter og tjenester for at minimere påvirkningen på planeten så "
+"meget som muligt og samtidig sikre høj kvalitet."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_empowerment
@@ -557,8 +558,8 @@ msgid ""
 "Our mission is to create a shared plan<br/> for saving the planet’s most "
 "exceptional wild places."
 msgstr ""
-"Det er vores mission at udarbejde en fælles plan<br/> for at beskytte og "
-"bevare planetens mest unikke og vilde naturområder."
+"Vores opgave er at udarbejde en fælles plan<br/> for at redde de mest "
+"enestående vildmarksområder på vores planet."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_key_benefits
@@ -566,8 +567,8 @@ msgid ""
 "Our team provides continuous assistance and expertise, ensuring you receive "
 "guidance and support throughout your environmental initiatives."
 msgstr ""
-"Vores team står klar med løbende vejledning og ekspertise, så du trygt kan "
-"gennemføre dine miljøinitiativer."
+"Vores team tilbyder løbende hjælp og ekspertise, så du altid får vejledning "
+"og støtte i dine miljøinitiativer."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_features_wall
@@ -606,7 +607,7 @@ msgstr "Kvalitet og gennemslagskraft"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_three_columns
 msgid "Read more"
-msgstr "Læs mere"
+msgstr "Få mere at vide"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_three_columns
@@ -619,8 +620,8 @@ msgid ""
 "Recycling water for reuse applications instead of using freshwater supplies "
 "can be a water-saving measure."
 msgstr ""
-"Genanvendelse af vand til genbrugsformål frem for at bruge "
-"ferskvandsressourcer kan være en effektiv vandbesparende foranstaltning."
+"Genanvendelse af vand i stedet for at bruge ferskvand kan være en "
+"vandbesparende foranstaltning."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_numbers_list
@@ -700,7 +701,7 @@ msgstr "Bæredygtighed for en bedre fremtid"
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_cards_grid
 msgid "Sustainable Practices"
-msgstr "Bæredygtige praksis"
+msgstr "Bæredygtige praksisser"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_pricelist_boxed
@@ -715,7 +716,7 @@ msgstr ""
 #. module: theme_treehouse
 #: model:ir.model,name:theme_treehouse.model_theme_utils
 msgid "Theme Utils"
-msgstr "Tema værktøjer"
+msgstr "Designværktøjer"
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_references
@@ -765,8 +766,9 @@ msgid ""
 "participate in local green initiatives, fostering a collective effort toward "
 "a more sustainable future."
 msgstr ""
-"Vi engagerer os aktivt i samfundet for at fremme miljøbevidsthed og deltage "
-"i lokale miljøinitiativer, så vi sammen kan skabe en mere bæredygtig fremtid."
+"Vi engagerer os aktivt i vores lokalsamfund for at fremme miljøbevidstheden "
+"og deltage i lokale miljøinitiativer med henblik på at støtte en fælles "
+"indsats for en mere bæredygtig fremtid."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_wavy_grid
@@ -785,9 +787,9 @@ msgid ""
 "We develop tailored strategies and solutions to address your unique "
 "environmental challenges and goals, promoting sustainability and impact."
 msgstr ""
-"Vi udvikler skræddersyede strategier og løsninger til at håndtere dine "
-"specifikke miljømæssige udfordringer og mål, så du kan fremme både "
-"bæredygtighed og effektivitet."
+"Vi udvikler skræddersyede strategier og løsninger, der tager højde for netop "
+"jeres miljømæssige udfordringer og mål, med henblik på at fremme "
+"bæredygtighed og effekt."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_wavy_grid
@@ -807,8 +809,8 @@ msgid ""
 "from reducing waste and conserving resources to supporting eco-friendly "
 "initiatives."
 msgstr ""
-"Vi anvender bæredygtige metoder i alle dele af vores virksomhed, fra "
-"forebyggelse af affald og besparelse af ressourcer til støtte af "
+"Vi anvender bæredygtige metoder inden for alle områder af vores virksomhed, "
+"lige fra affaldsforebyggelse og ressourcebesparelser til støtte til "
 "miljøvenlige initiativer."
 
 #. module: theme_treehouse
@@ -817,9 +819,9 @@ msgid ""
 "We prioritize energy efficiency in our operations, adopting practices and "
 "technologies that reduce energy consumption and lower our carbon footprint."
 msgstr ""
-"Vi prioriterer energieffektivitet i vores virksomhed ved at anvende metoder "
-"og teknologier, der reducerer energiforbruget og mindsker vores økologiske "
-"fodaftryk."
+"Vi lægger vægt på energieffektivitet i vores virksomheder ved at anvende "
+"metoder og teknologier, der sænker energiforbruget og mindsker vores "
+"miljøaftryk."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_wavy_grid
@@ -837,9 +839,9 @@ msgid ""
 "With all the global problems our planet faces today,<br/> communities of "
 "people concerned with them are growing<br/> to prevent the negative impact."
 msgstr ""
-"Med alle de globale udfordringer, vores planet står overfor i dag,<br/> "
-"vokser samfund af mennesker, der engagerer sig<br/> for at forhindre "
-"negative konsekvenser."
+"I lyset af alle de globale problemer, som vores planet står over for i "
+"dag,<br/> vokser de fællesskaber af mennesker, der beskæftiger sig med disse "
+"problemer,<br/> for at forhindre de negative konsekvenser."
 
 #. module: theme_treehouse
 #: model_terms:theme.ir.ui.view,arch:theme_treehouse.s_wavy_grid
