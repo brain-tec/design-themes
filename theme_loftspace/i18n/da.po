@@ -7,13 +7,14 @@
 # Martin Trigaux, 2024
 # Sammi Iversen <sammi@vkdata.dk>, 2025
 # Weblate <noreply-mt-weblate@weblate.org>, 2025, 2026.
+# "Kira Petersen François (peti)" <peti@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2026-06-20 18:40+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-06-27 18:41+0000\n"
+"Last-Translator: \"Kira Petersen François (peti)\" <peti@odoo.com>\n"
 "Language-Team: Danish <https://translate.odoo.com/projects/odoo-18/"
 "theme_loftspace/da/>\n"
 "Language: da\n"
@@ -67,7 +68,7 @@ msgstr "\"Sofaen er både stilfuld og superbehagelig!\""
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
 msgid "24/7 Support"
-msgstr "24/7 Support"
+msgstr "24/7-support"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_title
@@ -80,8 +81,8 @@ msgid ""
 "<br/>Color trends are already waiting to spring into action for the  next "
 "summer.<br/>"
 msgstr ""
-"<br/>Farvetrends ligger allerede på lur og venter på at slå igennem til den "
-"næste sommer.<br/>"
+"<br/>Farvetrendene ligger allerede på lur og venter på at slå igennem næste "
+"sommer.<br/>"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_empowerment
@@ -402,7 +403,7 @@ msgstr "For hele familien"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
 msgid "Free Shipping"
-msgstr "Gratis levering"
+msgstr "Gratis forsendelse"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_features
@@ -574,7 +575,7 @@ msgstr "Anmod om et tilbud"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_quotes_carousel
 msgid "Rose"
-msgstr "Rosa"
+msgstr "Rose"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_empowerment
@@ -627,7 +628,7 @@ msgstr "Den næste<br/> sommer<br/>kollektion"
 #. module: theme_loftspace
 #: model:ir.model,name:theme_loftspace.model_theme_utils
 msgid "Theme Utils"
-msgstr "Tema værktøjer"
+msgstr "Designværktøjer"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_three_columns
