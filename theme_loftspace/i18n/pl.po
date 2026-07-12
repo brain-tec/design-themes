@@ -7,13 +7,14 @@
 # Marta Wacławek, 2025
 #
 # Weblate <noreply-mt-weblate@weblate.org>, 2026.
+# "Marta (wacm)" <wacm@odoo.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 17.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-28 12:22+0000\n"
-"PO-Revision-Date: 2026-05-23 17:40+0000\n"
-"Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
+"PO-Revision-Date: 2026-07-08 12:09+0000\n"
+"Last-Translator: \"Marta (wacm)\" <wacm@odoo.com>\n"
 "Language-Team: Polish <https://translate.odoo.com/projects/odoo-17/"
 "theme_loftspace/pl/>\n"
 "Language: pl\n"
@@ -23,18 +24,18 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && "
 "(n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && "
 "n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
-"X-Generator: Weblate 5.17\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_cover
 msgid "<b>Bringing life to your interior</b>"
-msgstr ""
+msgstr "<b>Ożyw swoje wnętrze</b>"
 
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_title
 msgid "<b>Everything is designed.<br/> Few things are designed well.</b>"
 msgstr ""
-"<b>Wszystko jest zaprojektowane.<br/> Niewiele rzeczy jest zaprojektowanych "
+"<b>Wszystko jest designem.<br/> Niewiele rzeczy jest zaprojektowanych "
 "doskonale.</b>"
 
 #. module: theme_loftspace
@@ -83,7 +84,7 @@ msgstr "Dopasowane porady"
 #. module: theme_loftspace
 #: model_terms:theme.ir.ui.view,arch:theme_loftspace.s_banner
 msgid "The art of Design"
-msgstr ""
+msgstr "Sztuka designu"
 
 #. module: theme_loftspace
 #: model:ir.model,name:theme_loftspace.model_theme_utils
@@ -99,7 +100,7 @@ msgid ""
 msgstr ""
 "Kupowanie unikalnych egzemplarzy to jak kupowanie kawałka duszy artysty: "
 "jego pasji włożonej w wykonanie przedmiotu, godzin refleksji, jego "
-"zręczności... To akt zaangażowani i etyki, który wspiera odpowiedzialną i "
+"zręczności... To akt zaangażowania i etyki, który wspiera odpowiedzialną i "
 "bezpośrednią gospodarkę."
 
 #. module: theme_loftspace
