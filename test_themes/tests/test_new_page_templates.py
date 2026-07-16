@@ -7,7 +7,7 @@ import re
 
 from odoo.addons.http_routing.tests.common import MockRequest
 from odoo.tests import tagged, TransactionCase
-from odoo.tools import escape_psql
+from odoo.tools.sql import escape_like_value
 
 _logger = logging.getLogger(__name__)
 
@@ -20,7 +20,7 @@ CONFLICTUAL_CLASSES = [
     ['flex-column', 'flex-column-reverse', 'flex-row', 'flex-row-reverse'],
     ['g-0', 'g-col-lg-2', 'g-col-lg-3', 'g-col-lg-4', 'g-col-lg-5', 'g-col-lg-6'],
     ['g-0', 'g-height-5', 'g-height-8', 'g-height-10'],
-    ['h-100', 'o_half_screen_height', 'o_full_screen_height'],
+    ['h-100', 'o_three_quarter_height', 'o_full_screen_height'],
     ['justify-content-center', 'justify-content-start'],
     ['nav-link', 'nav-pills', 'nav-tabs'],
     ['o_cc1', 'o_cc2', 'o_cc3', 'o_cc4', 'o_cc5'],
@@ -65,8 +65,7 @@ CONFLICTUAL_CLASSES_RE = {
     re.compile(r'^(p(x|s)-?\d+|padding-.+)$'): [],
     re.compile(r'^(p(x|e)-?\d+|padding-.+)$'): [],
     re.compile(r'^(p(y|t)-?\d+|padding-.+)$'): [],
-    # p0+pb32 appears in Bewise and Graphene
-    re.compile(r'^(p(y|b)?-?\d+|padding-.+)$'): ['p0'],
+    re.compile(r'^(p(y|b)?-?\d+|padding-.+)$'): [],
     # Font awesome
     re.compile(r'^fa-\dx$'): [],
     # Whitelist workaround for s_social_media inner snippet Layout: None
@@ -135,8 +134,6 @@ class TestNewPageTemplates(TransactionCase):
             views = self.env['ir.ui.view'].search([
                 ('key', 'like', f'{website.theme_id.name}.new_page_template%_s_'),
             ])
-            if website.theme_id.name != 'theme_default':
-                self.assertGreater(len(views), 10, "Test should have encountered some views in theme %r" % website.name)
             for view in views:
                 self.assertEqual(view.mode, 'extension', "Theme's new page template customization %r should never be primary" % view.key)
                 name = view.key.split('.')[1]
@@ -162,7 +159,7 @@ class TestNewPageTemplates(TransactionCase):
                     except Exception as e:  # noqa: BLE001
                         errors.append("View %s cannot be rendered (%r)" % (view.key, e))
         _logger.info("Tested %s views", len(view_ids))
-        self.assertGreater(len(view_ids), 1250, "Test should have encountered a lot of views")
+        self.assertGreater(len(view_ids), 150, "Test should have encountered a lot of views")
         self.assertFalse(errors, "No error should have been collected")
 
     # TODO should handle the fact that grid items can't have padding classes
@@ -180,8 +177,8 @@ class TestNewPageTemplates(TransactionCase):
                         'website.snippets',
                         'website.new_page_template_groups',
                     ]),
-                    ('key', 'like', escape_psql('website.configurator_')),
-                    ('key', 'like', escape_psql('website.new_page_template_sections_')),
+                    ('key', 'like', escape_like_value('website.configurator_')),
+                    ('key', 'like', escape_like_value('website.new_page_template_sections_')),
                 ])
                 for view in views:
                     try:
@@ -357,12 +354,19 @@ class TestNewPageTemplates(TransactionCase):
                                     "parent with 's_parallax_bg_wrap', found parent classes: %r"
                                     % (theme_name, view.key, parent_classes)
                                 )
+
+                        for el in html_tree.xpath(".//*[contains(concat(' ', normalize-space(@class), ' '), ' s_parallax_bg_wrap ')]"):
+                            if not el.xpath("./*[contains(concat(' ', normalize-space(@class), ' '), ' s_parallax_bg ')]"):
+                                errors.append(
+                                    "Using %r, view %r: element with class 's_parallax_bg_wrap' must have a child with class 's_parallax_bg'"
+                                    % (theme_name, view.key)
+                                )
                     except Exception as e:  # noqa: BLE001
                         _logger.error("Using %r, view %r cannot be rendered (%r)", theme_name, view.key, e)
                         errors.append("Using %r, view %r cannot be rendered (%r)" % (theme_name, view.key, e))
                 return len(views)
 
-        view_count += check('no theme', self.env.ref('website.default_website'))
+        view_count += check('no theme', self.env.ref('base.default_website'))
         websites_themes = self.env['website'].get_test_themes_websites()
         for website in websites_themes:
             view_count += check(website.name, website)
@@ -392,9 +396,9 @@ class TestNewPageTemplates(TransactionCase):
         for module_name in ['website', *(website.theme_id.name for website in self.env['website'].get_test_themes_websites())]:
             views = View.search([
                 '|', '|',
-                ('key', 'like', escape_psql(f'{module_name}.s_')),
-                ('key', 'like', escape_psql(f'{module_name}.configurator')),
-                ('key', 'like', escape_psql(f'{module_name}.new_page')),
+                ('key', 'like', escape_like_value(f'{module_name}.s_')),
+                ('key', 'like', escape_like_value(f'{module_name}.configurator')),
+                ('key', 'like', escape_like_value(f'{module_name}.new_page')),
             ])
             for view in views:
                 try:
@@ -416,5 +420,5 @@ class TestNewPageTemplates(TransactionCase):
             view_count += len(views)
 
         _logger.info("Tested %s views", view_count)
-        self.assertGreater(view_count, 2500, "Test should have checked many views")
+        self.assertGreater(view_count, 750, "Test should have checked many views")
         self.assertFalse(errors, "No error should have been collected")

@@ -1,6 +1,6 @@
 {
     'name': 'Vehicle Theme',
-    'description': 'Vehicle Theme - Cars, Motorbikes, Bikes, Tires',
+    'description': 'Cover hero opens onto a title block, a three-column lineup, a featured picture, key visuals, charted KPIs, and a media list, kept clean and photo-driven throughout. Image-and-stats forward with technical credibility - suited for car dealerships, motorbike retailers, tire shops, mechanics, and vehicle repair services',
     'category': 'Theme/Services',
     'summary': 'Vehicle, Cars, Motorbikes, Bikes, Tires, Transports, Repair, Mechanics, Garages, Sports, Services',
     'sequence': 300,
@@ -11,11 +11,10 @@
         'data/ir_asset.xml',
         'views/images.xml',
         'views/customizations.xml',
-        'views/new_page_template.xml',
     ],
     'images': [
-        'static/description/vehicle_description.png',
-        'static/description/vehicle_screenshot.png',
+        'static/description/vehicle_description.webp',
+        'static/description/vehicle_screenshot.webp',
     ],
     'images_preview_theme': {
         'website.s_cover_default_image': '/theme_vehicle/static/src/img/snippets/s_cover.webp',
@@ -59,14 +58,6 @@
             'remove_classes': [
                 'pt64', 'pb64',
             ],
-        },
-    },
-    'new_page_templates': {
-        'about': {
-            'personal': ['s_text_cover', 's_image_text', 's_text_block_h2', 's_numbers', 's_features', 's_call_to_action'],
-        },
-        'team': {
-            '5': ['s_text_block_h1', 's_text_block', 's_image_gallery', 's_picture'],
         },
     },
     'author': 'Odoo S.A.',

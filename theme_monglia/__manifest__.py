@@ -1,6 +1,6 @@
 {
     'name': 'Monglia Theme',
-    'description': 'Monglia Catering Theme',
+    'description': 'Cover hero leads into a numbers grid, a diamond-cropped team block with highlighted artist names, a freegrid showcase, image wall, and collapsible FAQ before client references, with bold geometric shape motifs accenting key sections. Event-and-showcase driven with photos and credentials cues / suited for catering services, restaurants, bars, concert venues, and event organizers',
     'category': 'Theme/Services',
     'summary': 'Event, Restaurants, Bars, Pubs, Cafes, Catering, Food, Drinks, Concerts, Shows, Musics, Dance, Party',
     'sequence': 260,
@@ -11,7 +11,6 @@
         'data/ir_asset.xml',
         'views/images_content.xml',
         'views/customizations.xml',
-        'views/new_page_template.xml',
     ],
     'images': [
         'static/description/monglia_description.png',
@@ -63,11 +62,6 @@
             'remove_classes': [
                 'pt64', 'pb64',
             ],
-        },
-    },
-    'new_page_templates': {
-        'about': {
-            'personal': ['s_text_cover', 's_image_text', 's_text_block_h2', 's_numbers', 's_features', 's_call_to_action'],
         },
     },
     'author': 'Odoo S.A.',

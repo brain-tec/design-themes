@@ -7,7 +7,7 @@
         <div class="col-12 col-lg-12 pt0 pb80" style="text-align: center;">
             <p class="o_small">OUR DATA-DRIVEN SERVICES</p>
             <h2 style="text-align: center">
-                <span class="o_text_highlight o_translate_inline o_text_highlight_circle_1" style="--text-highlight-width: 6px; --text-highlight-color: var(--o-color-1);"><span class="o_text_highlight_item">Transform</span></span> your busines<br/>with real metrics
+                <span class="o_text_highlight o_translate_inline o_text_highlight_underline" style="--text-highlight-width: 6px; --text-highlight-color: var(--o-color-1);">Transform</span> your busines<br/>with real metrics
             </h2>
         </div>
     </xpath>
@@ -44,11 +44,12 @@
 
     <!-- Image -->
     <xpath expr="//img" position="attributes">
-        <attribute name="src">/html_editor/image_shape/website.s_showcase_default_image/html_builder/devices/macbook_front.svg?</attribute>
+        <attribute name="src">/html_editor/image_shape/website.s_showcase_default_image/html_builder/devices/macbook_front.svg?c3=o-color-2</attribute>
         <attribute name="data-shape">html_builder/devices/macbook_front</attribute>
         <attribute name="data-format-mimetype">image/webp</attribute>
         <attribute name="data-file-name">s_showcase_default_image.svg</attribute>
         <attribute name="class" remove="rounded" separator=" "/>
+        <attribute name="data-shape-colors">;;o-color-2;;</attribute>
     </xpath>
 
     <xpath expr="(//div[hasclass('col-lg-6')])[2]" position="attributes">

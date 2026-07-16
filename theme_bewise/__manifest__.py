@@ -1,6 +1,6 @@
 {
     'name': 'Be Wise Theme',
-    'description': 'Be Wise Theme',
+    'description': 'Centered striped hero leads into color-blocked information, a collapsible FAQ, and shape-cropped team cards, with bold geometric shape motifs accenting the team block. Information-driven / suited for universities, schools, kids education programs, and learning platforms',
     'category': 'Theme/Education',
     'summary': 'University, Education, Schools, Young, Play, Kids',
     'sequence': 240,
@@ -11,7 +11,6 @@
         'data/ir_asset.xml',
         'views/image_content.xml',
         'views/customizations.xml',
-        'views/new_page_template.xml',
     ],
     'images': [
         'static/description/bewise_description.webp',

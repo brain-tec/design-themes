@@ -1,6 +1,6 @@
 {
     'name': 'Paptic Theme',
-    'description': 'Clean and sharp design.',
+    'description': 'Split cover hero leads into client references, alternating illustration-based proof rows, a two-panel masonry block, and a collapsible FAQ before an illustrated CTA, with custom line art illustrations as the primary visual throughout. Credentials-forward and illustration-driven / suited for consultancies, design studios, technology firms, and IT or blog-driven corporate sites',
     'category': 'Theme/Corporate',
     'summary': 'Consultancy, Design, Tech, Computers, IT, Blogs',
     'sequence': 110,
@@ -11,14 +11,13 @@
         'data/ir_asset.xml',
         'views/images.xml',
         'views/customizations.xml',
-        'views/new_page_template.xml',
     ],
     'images': [
         'static/description/paptic_poster.webp',
         'static/description/paptic_screenshot.webp',
     ],
     'configurator_snippets': {
-        'homepage': ['s_cover', 's_references', 's_image_text', 's_text_image', 's_masonry_block_images_template', 's_faq_list', 's_cta_box'],
+        'homepage': ['s_cover', 's_references_lite', 's_image_text', 's_text_image', 's_masonry_block_images_template', 's_faq_list', 's_cta_box'],
     },
     'configurator_snippets_addons': {
         'website_sale': {
@@ -41,11 +40,6 @@
             'remove_classes': [
                 's_dynamic_category_clickable_items',
             ],
-        },
-    },
-    'new_page_templates': {
-        'about': {
-            'personal': ['s_text_cover', 's_image_text', 's_text_block_h2', 's_numbers', 's_features', 's_call_to_action'],
         },
     },
     'author': 'Odoo S.A.',

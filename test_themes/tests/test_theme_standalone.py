@@ -12,17 +12,16 @@ def test_01_theme_install_generate_primary_templates(env):
     method is correctly called before xml views are generated.
     """
     # 1. Setup
-    theme_buzzy = env.ref('base.module_theme_clean')
+    theme_clean = env.ref('base.module_theme_clean')
 
-    if theme_buzzy.state == 'installed':
-        theme_buzzy.button_immediate_uninstall()
+    if theme_clean.state == 'installed':
+        theme_clean.button_immediate_uninstall()
     # Ensure those views are deleted to mimic the initial state of theme not installed.
-    # Because "theme_buzzy" was installed before through "test_themes" dependencies, removing
+    # Because "theme_clean" was installed before through "test_themes" dependencies, removing
     # those views is needed to replicate the bug: if the configurator views are not generated,
     # the theme install will fail because some of the imported views inherit them.
-    env['ir.ui.view'].with_context(_force_unlink=True).search([('key', '=', 'website.configurator_s_banner')]).unlink()
-    env['ir.ui.view'].with_context(_force_unlink=True).search([('key', '=', 'website.configurator_s_cover')]).unlink()
-    theme_buzzy.button_immediate_install()
+    env['ir.ui.view'].with_context(force_delete=True).search([('key', '=', 'website.configurator_s_company_team')]).unlink()
+    theme_clean.button_immediate_install()
 
 
 @standalone('website_standalone')
@@ -47,7 +46,7 @@ def test_02_theme_default_generate_primary_templates(env):
 
     if theme_default.state == 'installed':
         theme_default.button_immediate_uninstall()
-    env['ir.ui.view'].with_context(_force_unlink=True).search([('key', 'like', 'website.configurator_')]).unlink()
+    env['ir.ui.view'].with_context(force_delete=True).search([('key', 'like', 'website.configurator_')]).unlink()
 
     with patch("odoo.addons.website.models.website.Website._website_api_rpc", autospec=True, side_effect=fake_website_api), \
          patch("odoo.addons.website.models.website.Website._OLG_api_rpc", autospec=True, side_effect=fake_olg_api):
@@ -69,7 +68,12 @@ def test_02_theme_default_generate_primary_templates(env):
         website.ensure_one()
         with MockRequest(env, website=website):
             website.configurator_apply(
-                selected_features=[1, 2, 3, 4],
+                selected_features=[
+                    env.ref('website.feature_page_about_us').id,
+                    env.ref('website.feature_page_our_services').id,
+                    env.ref('website.feature_page_pricing').id,
+                    env.ref('website.feature_module_news').id,
+                ],
                 industry_id=2836,
                 industry_name='private university',
                 selected_palette='default-15',
