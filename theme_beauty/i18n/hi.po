@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 18.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 17:38+0000\n"
-"PO-Revision-Date: 2026-06-20 09:03+0000\n"
+"PO-Revision-Date: 2026-07-15 17:09+0000\n"
 "Last-Translator: Weblate <noreply-mt-weblate@weblate.org>\n"
 "Language-Team: Hindi <https://translate.odoo.com/projects/odoo-18/"
 "theme_beauty/hi/>\n"
@@ -675,7 +675,7 @@ msgstr ""
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_big_number
 msgid "happy customers"
-msgstr ""
+msgstr "संतुष्ट ग्राहक"
 
 #. module: theme_beauty
 #: model_terms:theme.ir.ui.view,arch:theme_beauty.s_pricelist_boxed
