@@ -50,12 +50,19 @@ CONFIGURATOR_VALUES = {
     "skip_ai": True,
 }
 
+MENU_TITLES = ["Shop", "Event"]
+
 DOWNLOAD_SESSION = requests.Session()
 DOWNLOAD_SESSION.headers["User-Agent"] = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 )
 PSEUDO_RE = re.compile(r'::?[a-zA-Z-]+(\([^)]*\))?')
+CSS_URL_RE = re.compile(
+    r'url\(\s*'
+    r'(?:"([^"]*)"|\'([^\']*)\'|([^)]*))'
+    r'\s*\)'
+)
 VH_RE = re.compile(r"(-?(?:\d+(?:\.\d+)?|\.\d+))s?vh")
 PALETTE_COLORS = {
     "--o-color-1": ("#714B67",),
@@ -77,6 +84,9 @@ FONT_ASSET_URLS = {
     "web.odoo_ui_icons.min.woff2": "/web/static/lib/odoo_ui_icons/fonts/odoo_ui_icons.woff2",
     "web.odoo_ui_icons.min.woff": "/web/static/lib/odoo_ui_icons/fonts/odoo_ui_icons.woff",
 }
+DEFAULT_WEBSITE_LOGO_URL = "/website/static/src/img/website_logo.svg"
+WEBSITE_LOGO_URL_RE = re.compile(r"^/web/image/website/\d+/logo(?:[/?#].*)?$")
+COLOR_TOKEN_END = r"(?![0-9a-zA-Z_-])"
 VH_TO_VW_RATIO = 10 / 16
 
 
@@ -186,6 +196,89 @@ def generate_website(session, context, theme_name):
     )
 
 
+def create_menu_items(session, context, website_id):
+    website = jsonrpc(
+        session,
+        f"{BASE_URL}/web/dataset/call_kw/website/read",
+        {
+            "model": "website",
+            "method": "read",
+            "args": [[website_id], ["menu_id"]],
+            "kwargs": {"context": context},
+        },
+    )[0]
+    jsonrpc(
+        session,
+        f"{BASE_URL}/web/dataset/call_kw/website.menu/create",
+        {
+            "model": "website.menu",
+            "method": "create",
+            "args": [[
+                {
+                    "name": title,
+                    "url": "/",
+                    "website_id": website_id,
+                    "parent_id": website["menu_id"][0],
+                }
+                for title in MENU_TITLES
+            ]],
+            "kwargs": {"context": context},
+        },
+    )
+
+
+def fetch_theme_image_urls(session, context):
+    """Map theme attachment keys to their static image URLs.
+
+    The ``theme.ir.attachment`` records resolving the ``/web/image/<key>``
+    URLs of the generated page only exist once the theme is installed, so
+    the preview must carry the static URLs itself. The keys must stay in
+    the preview too (in ``industry_image_key`` attributes): they are
+    matched against the IAP industry images when the configurator renders
+    it.
+    """
+    records = jsonrpc(
+        session,
+        f"{BASE_URL}/web/dataset/call_kw/theme.ir.attachment/search_read",
+        {
+            "model": "theme.ir.attachment",
+            "method": "search_read",
+            "args": [
+                [["key", "!=", False], ["url", "!=", False]],
+                ["key", "url"],
+            ],
+            "kwargs": {"context": context},
+        },
+    )
+    return {record["key"]: record["url"] for record in records}
+
+
+WEB_IMAGE_KEY_RE = re.compile(r"/web/image/([\w-]+\.[\w.-]+)")
+
+
+def embed_theme_image_urls(soup, image_urls):
+    """Replace theme attachment image URLs by their static URLs.
+
+    The ``src`` (or ``url()`` in a ``style``) is rewritten to the theme
+    static image URL, and the attachment key is kept in an
+    ``industry_image_key`` attribute: the website controller replaces the
+    image with the IAP industry image matching the key, if any. Shape URLs
+    (``/html_editor/image_shape/...``) are left untouched.
+    """
+    for tag in soup.find_all(True):
+        for attribute in ("src", "style"):
+            value = tag.get(attribute)
+            if not value:
+                continue
+            for key in WEB_IMAGE_KEY_RE.findall(value):
+                static_url = image_urls.get(key)
+                if not static_url:
+                    continue
+                value = value.replace(f"/web/image/{key}", static_url)
+                tag["industry_image_key"] = key
+            tag[attribute] = value
+
+
 def fetch(url):
     try:
         response = DOWNLOAD_SESSION.get(url, timeout=30)
@@ -235,21 +328,21 @@ def resolve_css_imports(css, base_url):
     )
 
 
-def resolve_css_urls(css, base_url):
+def resolve_css_urls(css, base_url, quote='"'):
     def replace(match):
-        raw_url = next(group for group in match.groups() if group is not None).strip()
+        raw_url, _quote = get_css_url(match)
         if raw_url.startswith("data:"):
             return match.group(0)
         font_asset_url = get_stable_font_asset_url(raw_url)
         if font_asset_url:
-            return f'url("{font_asset_url}")'
+            return f'url({quote}{font_asset_url}{quote})'
         if get_font_mime_type(raw_url):
             if is_external_url(raw_url, base_url):
-                return f'url("{urljoin(base_url, raw_url)}")'
-            return f'url("{root_relative_url(raw_url, base_url)}")'
-        return f'url("{root_relative_url(raw_url, base_url)}")'
+                return f'url({quote}{urljoin(base_url, raw_url)}{quote})'
+            return f'url({quote}{root_relative_url(raw_url, base_url)}{quote})'
+        return f'url({quote}{root_relative_url(raw_url, base_url)}{quote})'
 
-    return re.sub(r'url\(\s*(?:"([^"]*)"|\'([^\']*)\'|([^)]*))\s*\)', replace, css)
+    return CSS_URL_RE.sub(replace, css)
 
 
 def get_stable_font_asset_url(url):
@@ -257,38 +350,73 @@ def get_stable_font_asset_url(url):
     return FONT_ASSET_URLS.get(filename)
 
 
+def get_css_url(match):
+    double_quoted_url, single_quoted_url, unquoted_url = match.groups()
+    if double_quoted_url is not None:
+        return double_quoted_url, '"'
+    if single_quoted_url is not None:
+        return single_quoted_url, "'"
+    return unquoted_url.strip(), ""
+
+
+def replace_color_token(text, color, replacement):
+    # Do not replace #FFF inside #FFF3CD or %23FFF inside %23FFF3CD.
+    return re.sub(
+        rf"{re.escape(color)}{COLOR_TOKEN_END}",
+        replacement,
+        text,
+        flags=re.I,
+    )
+
+
 def replace_palette_colors_in_css(css_text):
     protected = {}
     for css_var, colors in PALETTE_COLORS.items():
         for color in colors:
             placeholder = f"__KEEP_{css_var.strip('-').replace('-', '_')}_{len(protected)}__"
-            pattern = re.compile(rf"({re.escape(css_var)}\s*:\s*){re.escape(color)}", re.I)
-            css_text = pattern.sub(rf"\1{placeholder}", css_text)
+            pattern = re.compile(
+                rf"({re.escape(css_var)}\s*:\s*)"
+                rf"{re.escape(color)}{COLOR_TOKEN_END}",
+                re.I,
+            )
+            css_text = pattern.sub(lambda match: f"{match.group(1)}{placeholder}", css_text)
             protected[placeholder] = color
 
     for css_var, colors in PALETTE_COLORS.items():
         for color in colors:
-            css_text = re.sub(re.escape(color), f"var({css_var})", css_text, flags=re.I)
+            css_text = replace_color_token(css_text, color, f"var({css_var})")
 
     for placeholder, color in protected.items():
         css_text = css_text.replace(placeholder, color)
     return css_text
 
 
-def replace_palette_colors_in_urls(text):
+def replace_palette_colors_in_url(url):
     for css_var, colors in PALETTE_COLORS.items():
         color_token = css_var.removeprefix("--")
         for color in colors:
             encoded_color = "%23" + color.lstrip("#")
-            text = re.sub(re.escape(encoded_color), color_token, text, flags=re.I)
-    return text
+            url = replace_color_token(url, encoded_color, color_token)
+    return url
+
+
+def replace_palette_colors_in_urls(text):
+    def replace(match):
+        raw_url, quote = get_css_url(match)
+        if raw_url.startswith("data:"):
+            # Inline SVG icons need real colors, not palette tokens.
+            return match.group(0)
+        url = replace_palette_colors_in_url(raw_url)
+        return f"url({quote}{url}{quote})"
+
+    return CSS_URL_RE.sub(replace, text)
 
 
 def replace_palette_colors_in_style(style_text):
     style_text = replace_palette_colors_in_urls(style_text)
     for css_var, colors in PALETTE_COLORS.items():
         for color in colors:
-            style_text = re.sub(re.escape(color), f"var({css_var})", style_text, flags=re.I)
+            style_text = replace_color_token(style_text, color, f"var({css_var})")
     return style_text
 
 
@@ -389,7 +517,8 @@ def inline_style_blocks(soup, base_url):
 
 def inline_inline_styles(soup, base_url):
     for tag in soup.find_all(style=True):
-        style = resolve_css_urls(tag["style"], base_url)
+        # Single quotes: the url() ends up in a double-quoted style attribute.
+        style = resolve_css_urls(tag["style"], base_url, quote="'")
         style = convert_vh_to_vw(style)
         tag["style"] = replace_palette_colors_in_style(style)
 
@@ -398,7 +527,10 @@ def inline_images(soup, base_url):
     for image in soup.find_all("img"):
         src = image.get("src", "")
         if src:
-            image["src"] = root_relative_url(src, base_url)
+            src = root_relative_url(src, base_url)
+            if WEBSITE_LOGO_URL_RE.match(src):
+                src = DEFAULT_WEBSITE_LOGO_URL
+            image["src"] = src
         image.attrs.pop("srcset", None)
 
     for source in soup.find_all("source"):
@@ -457,13 +589,34 @@ def remove_javascript(soup):
         link["href"] = "#"
 
 
-def remove_animation_classes(soup):
-    for tag in soup.select(".o_animate"):
-        classes = [class_name for class_name in tag.get("class", []) if class_name != "o_animate"]
-        if classes:
-            tag["class"] = classes
-        else:
-            tag.attrs.pop("class", None)
+def remove_javascript_dependent_classes(soup):
+    # These classes keep elements invisible until frontend JS reveals them
+    # (o_animate: animation start state, o_menu_loading: menu auto-hide
+    # computation); the preview has no JS, so strip them.
+    for removed_class in ("o_animate", "o_menu_loading"):
+        for tag in soup.select(f".{removed_class}"):
+            classes = [class_name for class_name in tag.get("class", []) if class_name != removed_class]
+            if classes:
+                tag["class"] = classes
+            else:
+                tag.attrs.pop("class", None)
+
+
+# Copied from the s_numbers_charts template of website: the static chart
+# shown by the builder's snippet dialog, which cannot run Chart.js either.
+CHART_PLACEHOLDER_SVG = """
+<svg class="d-block mt-3 mx-auto" width="450" height="230" viewBox="0 0 100 110" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="40" fill="transparent" stroke="transparent" stroke-width="25"/>
+    <circle cx="50" cy="55" r="40" fill="transparent" stroke="var(--o-color-5)" stroke-width="25" stroke-dasharray="251.2" stroke-dashoffset="62.8"/>
+</svg>
+"""
+
+
+def replace_chart_canvases(soup):
+    # The s_chart canvas is painted by Chart.js at runtime; the preview has no
+    # JS, so show the same static placeholder as the builder's snippet dialog.
+    for canvas in soup.select(".s_chart canvas"):
+        canvas.replace_with(BeautifulSoup(CHART_PLACEHOLDER_SVG, "html.parser").find("svg"))
 
 
 def fix_floating_blocks_preview(soup):
@@ -603,7 +756,7 @@ def purge_unused_css(soup):
             style.decompose()
 
 
-def download_static_html(url, output_path):
+def download_static_html(url, output_path, theme_image_urls):
     print(f"Downloading {url} -> {output_path}")
     raw, _ = fetch(url)
     if not raw:
@@ -618,8 +771,10 @@ def download_static_html(url, output_path):
     inline_font_preloads(soup, url)
     remove_preview_metadata(soup)
     replace_palette_colors_in_attributes(soup)
+    embed_theme_image_urls(soup, theme_image_urls)
     remove_javascript(soup)
-    remove_animation_classes(soup)
+    remove_javascript_dependent_classes(soup)
+    replace_chart_canvases(soup)
     purge_unused_css(soup)
     fix_floating_blocks_preview(soup)
     inject_palette_variables(soup)
@@ -653,8 +808,11 @@ def generate_theme_preview(theme_dir):
     try:
         wait_for_odoo(server)
         session_info = login(session)
-        result = generate_website(session, session_info.get("user_context", {}), theme_name)
-        download_static_html(get_generated_page_url(result), output_path)
+        context = session_info.get("user_context", {})
+        result = generate_website(session, context, theme_name)
+        create_menu_items(session, context, result["website_id"])
+        theme_image_urls = fetch_theme_image_urls(session, context)
+        download_static_html(get_generated_page_url(result), output_path, theme_image_urls)
         print(f"Saved {output_path}")
     finally:
         session.close()
