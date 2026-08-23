@@ -1,6 +1,6 @@
 {
     'name': 'Be Wise Theme',
-    'description': 'Centered striped hero leads into color-blocked information, a collapsible FAQ, and shape-cropped team cards, with bold geometric shape motifs accenting the team block. Information-driven / suited for universities, schools, kids education programs, and learning platforms',
+    'description': 'Spotlight intro hero with oversized heading leads into color-blocked information, a collapsible FAQ, and shape-cropped team cards, with bold geometric shape motifs accenting the team block. Information-driven / suited for universities, schools, kids education programs, and learning platforms',
     'category': 'Theme/Education',
     'summary': 'University, Education, Schools, Young, Play, Kids',
     'sequence': 240,
@@ -16,19 +16,13 @@
         'static/description/bewise_description.webp',
         'static/description/bewise_screenshot.webp',
     ],
-    'images_preview_theme': {
-        'website.s_picture_default_image': '/theme_bewise/static/src/img/content/college_library.webp',
-        'website.s_media_list_default_image_1': '/theme_bewise/static/src/img/content/college_media_1.webp',
-        'website.s_media_list_default_image_2': '/theme_bewise/static/src/img/content/college_media_2.webp',
-        'website.s_masonry_block_default_image_1': '/theme_bewise/static/src/img/content/content_img_25.webp',
-    },
     'configurator_snippets': {
-        'homepage': ['s_striped_center_top', 's_title', 's_color_blocks_2', 's_faq_collapse', 's_masonry_block_default_template', 's_company_team_shapes'],
+        'homepage': ['s_intro_spotlight', 's_title', 's_color_blocks_2', 's_faq_collapse', 's_masonry_block_default_template', 's_company_team_shapes'],
     },
     'configurator_snippets_addons': {
         'website_sale': {
             'homepage': [
-                ('website_sale.s_dynamic_snippet_category_list', 'after', 's_striped_center_top'),
+                ('website_sale.s_dynamic_snippet_category_list', 'after', 's_color_blocks_2'),
             ],
         },
     },
@@ -39,13 +33,16 @@
                 'size': 'small',
             },
             'add_classes': [
-                'pb128',
+                'pt96', 'pb96',
                 {
                     's_dynamic_snippet_title': 'd-none'
                 },
             ],
             'remove_classes': [
                 'pt64', 'pb64',
+                {
+                    's_dynamic_snippet_title': 'd-flex',
+                },
             ],
         },
     },

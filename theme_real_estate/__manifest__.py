@@ -1,6 +1,6 @@
 {
     'name': 'Real Estate Theme',
-    'description': 'Cover hero leads into stepped duo-panel text-and-image rows, a three-column listing layout, references, a numbers showcase, and a testimonial carousel before a call-to-action, with restrained airy floating motifs marking the title block. Listing-and-trust driven / suited for real estate agencies, construction services, vacation rentals, and accommodation listings',
+    'description': 'Cover hero leads into stepped duo-panel text-and-image rows, a three-column listing layout, a team description grid, a numbers showcase, and a testimonial carousel before a call-to-action, with restrained airy styling and no recurring background shape decoration. Listing-and-trust driven / suited for real estate agencies, construction services, vacation rentals, and accommodation listings',
     'category': 'Theme/Services',
     'summary': 'Real Estate, Agencies, Construction, Services, Accomodations, Lodging, Hosting, Houses, Appartments, Vacations, Holidays, Travels',
     'sequence': 320,
@@ -14,32 +14,24 @@
         'views/snippets/s_cover.xml',
         'views/snippets/s_image_text.xml',
         'views/snippets/s_text_image.xml',
-        'views/snippets/s_three_columns.xml',
+        'views/snippets/s_cards_soft.xml',
         'views/snippets/s_quotes_carousel.xml',
-        'views/snippets/s_references.xml',
         'views/snippets/s_title.xml',
+        'views/snippets/s_company_team_grid.xml',
+        'views/snippets/s_numbers_showcase.xml',
         'views/snippets/s_call_to_action.xml',
     ],
     'images': [
         'static/description/real_estate_description.png',
         'static/description/real_estate_screenshot.webp',
     ],
-    'images_preview_theme': {
-        'website.s_cover_default_image': '/theme_real_estate/static/src/img/snippets/s_cover.webp',
-        'website.s_text_image_default_image': '/theme_real_estate/static/src/img/snippets/s_text_image.webp',
-        'website.s_image_text_default_image': '/theme_real_estate/static/src/img/snippets/s_image_text.webp',
-        'website.s_three_columns_default_image_1': '/theme_real_estate/static/src/img/snippets/library_image_11.webp',
-        'website.s_three_columns_default_image_2': '/theme_real_estate/static/src/img/snippets/library_image_13.webp',
-        'website.s_three_columns_default_image_3': '/theme_real_estate/static/src/img/snippets/library_image_07.webp',
-        'website.s_quotes_carousel_demo_image_0': '/theme_real_estate/static/src/img/snippets/s_quotes_carousel_1.webp',
-    },
     'configurator_snippets': {
-        'homepage': ['s_cover', 's_text_image', 's_image_text', 's_three_columns', 's_title', 's_references', 's_numbers_showcase', 's_quotes_carousel', 's_call_to_action'],
+        'homepage': ['s_cover', 's_text_image', 's_image_text', 's_cards_soft', 's_title', 's_company_team_grid', 's_numbers_showcase', 's_quotes_carousel', 's_call_to_action'],
     },
     'configurator_snippets_addons': {
         'website_sale': {
             'homepage': [
-                ('website_sale.s_dynamic_snippet_category_list', 'after', 's_cover'),
+                ('website_sale.s_dynamic_snippet_category_list', 'after', 's_title'),
             ],
         },
     },
@@ -51,9 +43,6 @@
                 'size': 'small',
                 'alignment': 'left',
             },
-            'background': {
-                'color': 'o_cc2',
-            },
             'add_classes': [
                 'pt96', 'pb96',
                 {
@@ -62,6 +51,9 @@
             ],
             'remove_classes': [
                 'pt64', 'pb64',
+                {
+                    's_dynamic_snippet_title': 'd-flex',
+                },
             ],
         },
     },
